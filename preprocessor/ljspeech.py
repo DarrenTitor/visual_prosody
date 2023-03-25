@@ -14,19 +14,24 @@ def prepare_align(config):
     sampling_rate = config["preprocessing"]["audio"]["sampling_rate"]
     max_wav_value = config["preprocessing"]["audio"]["max_wav_value"]
     cleaners = config["preprocessing"]["text"]["text_cleaners"]
+    ### pretend ego4d is single-player for now
     speaker = "LJSpeech"
     with open(os.path.join(in_dir, "metadata.csv"), encoding="utf-8") as f:
         for line in tqdm(f):
             parts = line.strip().split("|")
             base_name = parts[0]
+            # use normalized text
             text = parts[2]
             text = _clean_text(text, cleaners)
 
             wav_path = os.path.join(in_dir, "wavs", "{}.wav".format(base_name))
             if os.path.exists(wav_path):
+                # create folders for each speaker
                 os.makedirs(os.path.join(out_dir, speaker), exist_ok=True)
-                wav, _ = librosa.load(wav_path, sampling_rate)
+                ## ori: wav, _ = librosa.load(wav_path, sampling_rate)
+                wav, _ = librosa.load(wav_path)
                 wav = wav / max(abs(wav)) * max_wav_value
+                # resample wav with sample rate in the config
                 wavfile.write(
                     os.path.join(out_dir, speaker, "{}.wav".format(base_name)),
                     sampling_rate,
