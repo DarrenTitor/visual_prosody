@@ -11,6 +11,7 @@ path:
 
 preprocessing:
   val_size: 512
+  splits: ['train', 'val']
   text:
     text_cleaners: ["english_cleaners"]
     language: "en"
