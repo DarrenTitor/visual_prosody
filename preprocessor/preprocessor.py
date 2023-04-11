@@ -359,6 +359,10 @@ class Preprocessor:
             self.out_dir, "TextGrid", split_name, speaker, "{}.TextGrid".format(basename)
         )
 
+        log_path = os.path.join(self.out_dir, "preprocessing_log.txt")
+        log_file = open(log_path, "a+")
+
+
         # Get alignments
         textgrid = tgt.io.read_textgrid(tg_path)
         phone, duration, start, end = self.get_alignment(
@@ -366,6 +370,8 @@ class Preprocessor:
         )
         text = "{" + " ".join(phone) + "}"
         if start >= end:
+            # print(f'Skipped because `alignment start>=end`: {tg_path}')
+            log_file.write(f'Skipped because `alignment start>=end`: {tg_path}')
             return None
 
         # Read and trim wav files
@@ -388,7 +394,11 @@ class Preprocessor:
 
         pitch = pitch[: sum(duration)]
         if np.sum(pitch != 0) <= 1:
+            # print(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}')
+            log_file.write(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}')
             return None
+        
+        log_file.close()
 
         # Compute mel-scale spectrogram and energy
         mel_spectrogram, energy = Audio.tools.get_mel_from_wav(wav, self.STFT)

@@ -1,13 +1,13 @@
 dataset: "Ego4D_final_v3"
 
 path:
-  corpus_path: "./Data/Ego4D_final_v3/final_dataset_v2"
+  corpus_path: "./Data/Ego4D_final_v3/final_dataset_v3"
   lexicon_path: "lexicon/librispeech-lexicon.txt"
   raw_path: "./raw_data/Ego4D_final_v3"
   preprocessed_path: "./preprocessed_data/Ego4D_final_v3"
 
-  transcript_train_path: "./Data/Ego4D_final_v3/final_dataset_v2/utterances_final_train_v2.csv"
-  transcript_val_path: "./Data/Ego4D_final_v3/final_dataset_v2/utterances_final_val_v2.csv"
+  transcript_train_path: "./Data/Ego4D_final_v3/final_dataset_v3/utterances_final_train_v3.csv"
+  transcript_val_path: "./Data/Ego4D_final_v3/final_dataset_v3/utterances_final_val_v3.csv"
 
 preprocessing:
   val_size: 512

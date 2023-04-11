@@ -15,7 +15,7 @@ def prepare_align(config):
     max_wav_value = config['preprocessing']['audio']['max_wav_value']
     cleaners = config['preprocessing']['text']['text_cleaners']
     # pretend ego4d is single-player for now
-    speaker = 'Ego4D_final_v2'
+    speaker = 'Ego4D_final_v3'
     transcript_train_path = config['path']['transcript_train_path']
     transcript_val_path = config['path']['transcript_val_path']
 
