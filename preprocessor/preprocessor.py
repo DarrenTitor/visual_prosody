@@ -371,7 +371,7 @@ class Preprocessor:
         text = "{" + " ".join(phone) + "}"
         if start >= end:
             # print(f'Skipped because `alignment start>=end`: {tg_path}')
-            log_file.write(f'Skipped because `alignment start>=end`: {tg_path}')
+            log_file.write(f'Skipped because `alignment start>=end`: {tg_path}\n')
             return None
 
         # Read and trim wav files
@@ -395,7 +395,7 @@ class Preprocessor:
         pitch = pitch[: sum(duration)]
         if np.sum(pitch != 0) <= 1:
             # print(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}')
-            log_file.write(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}')
+            log_file.write(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}\n')
             return None
         
         log_file.close()
