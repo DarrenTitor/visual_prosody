@@ -2,7 +2,7 @@ dataset: "Ego4D_final_v3"
 
 path:
   corpus_path: "./Data/Ego4D_final_v3/final_dataset_v3"
-  lexicon_path: "lexicon/librispeech-lexicon.txt"
+  lexicon_path: "./lexicon/librispeech-lexicon.txt"
   raw_path: "./raw_data/Ego4D_final_v3"
   preprocessed_path: "./preprocessed_data/Ego4D_final_v3"
 

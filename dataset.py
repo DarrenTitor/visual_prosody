@@ -11,12 +11,14 @@ from utils.tools import pad_1D, pad_2D
 
 class Dataset(Dataset):
     def __init__(
-        self, filename, preprocess_config, train_config, sort=False, drop_last=False
+        self, filename, split_name, preprocess_config, train_config, sort=False, drop_last=False
     ):
         self.dataset_name = preprocess_config["dataset"]
         self.preprocessed_path = preprocess_config["path"]["preprocessed_path"]
         self.cleaners = preprocess_config["preprocessing"]["text"]["text_cleaners"]
         self.batch_size = train_config["optimizer"]["batch_size"]
+
+        self.split_name = split_name
 
         self.basename, self.speaker, self.text, self.raw_text = self.process_meta(
             filename
@@ -38,24 +40,28 @@ class Dataset(Dataset):
         mel_path = os.path.join(
             self.preprocessed_path,
             "mel",
+            self.split_name,
             "{}-mel-{}.npy".format(speaker, basename),
         )
         mel = np.load(mel_path)
         pitch_path = os.path.join(
             self.preprocessed_path,
             "pitch",
+            self.split_name,
             "{}-pitch-{}.npy".format(speaker, basename),
         )
         pitch = np.load(pitch_path)
         energy_path = os.path.join(
             self.preprocessed_path,
             "energy",
+            self.split_name,
             "{}-energy-{}.npy".format(speaker, basename),
         )
         energy = np.load(energy_path)
         duration_path = os.path.join(
             self.preprocessed_path,
             "duration",
+            self.split_name,
             "{}-duration-{}.npy".format(speaker, basename),
         )
         duration = np.load(duration_path)

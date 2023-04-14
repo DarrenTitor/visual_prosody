@@ -6,12 +6,13 @@ import yaml
 import torch.nn as nn
 from torch.utils.data import DataLoader
 from torch.utils.tensorboard import SummaryWriter
-from tqdm import tqdm
+# from tqdm import tqdm
 
 from utils.model import get_model, get_vocoder, get_param_num
 from utils.tools import to_device, log, synth_one_sample
 from model import FastSpeech2Loss
 from dataset import Dataset
+from utils.auto_tqdm import tqdm
 
 from evaluate import evaluate
 
@@ -25,7 +26,7 @@ def main(args, configs):
 
     # Get dataset
     dataset = Dataset(
-        "train.txt", preprocess_config, train_config, sort=True, drop_last=True
+        "train.txt", 'train', preprocess_config, train_config, sort=True, drop_last=True
     )
     batch_size = train_config["optimizer"]["batch_size"]
     group_size = 4  # Set this larger than 1 to enable sorting in Dataset
