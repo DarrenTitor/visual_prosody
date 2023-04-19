@@ -51,12 +51,17 @@ class Preprocessor:
             config["preprocessing"]["mel"]["mel_fmin"],
             config["preprocessing"]["mel"]["mel_fmax"],
         )
+
     def build_from_trainval_path(self):
         for split_name in self.splits:
-            os.makedirs((os.path.join(self.out_dir, "mel", split_name)), exist_ok=True)
-            os.makedirs((os.path.join(self.out_dir, "pitch", split_name)), exist_ok=True)
-            os.makedirs((os.path.join(self.out_dir, "energy", split_name)), exist_ok=True)
-            os.makedirs((os.path.join(self.out_dir, "duration", split_name)), exist_ok=True)
+            os.makedirs(
+                (os.path.join(self.out_dir, "mel", split_name)), exist_ok=True)
+            os.makedirs(
+                (os.path.join(self.out_dir, "pitch", split_name)), exist_ok=True)
+            os.makedirs(
+                (os.path.join(self.out_dir, "energy", split_name)), exist_ok=True)
+            os.makedirs(
+                (os.path.join(self.out_dir, "duration", split_name)), exist_ok=True)
 
             print(f"Processing {split_name} Data ...")
             out = list()
@@ -74,10 +79,12 @@ class Preprocessor:
                         continue
                     basename = wav_name.split(".")[0]
                     tg_path = os.path.join(
-                        self.out_dir, "TextGrid", split_name, speaker, "{}.TextGrid".format(basename)
+                        self.out_dir, "TextGrid", split_name, speaker, "{}.TextGrid".format(
+                            basename)
                     )
                     if os.path.exists(tg_path):
-                        ret = self.process_trainval_utterance(split_name, speaker, basename)
+                        ret = self.process_trainval_utterance(
+                            split_name, speaker, basename)
                         if ret is None:
                             continue
                         else:
@@ -110,14 +117,16 @@ class Preprocessor:
                 energy_std = 1
 
             pitch_min, pitch_max = self.normalize(
-                os.path.join(self.out_dir, "pitch", split_name), pitch_mean, pitch_std
+                os.path.join(self.out_dir, "pitch",
+                             split_name), pitch_mean, pitch_std
             )
             energy_min, energy_max = self.normalize(
-                os.path.join(self.out_dir, "energy", split_name), energy_mean, energy_std
+                os.path.join(self.out_dir, "energy",
+                             split_name), energy_mean, energy_std
             )
             # Save files
-            ### 这里没有创建为train和val创建单独的json，
-            ### 而是混起来存的
+            # 这里没有创建为train和val创建单独的json，
+            # 而是混起来存的
             with open(os.path.join(self.out_dir, "speakers.json"), "w") as f:
                 f.write(json.dumps(speakers))
 
@@ -149,8 +158,6 @@ class Preprocessor:
 
         # return out
 
-
-
     def build_from_path(self):
         os.makedirs((os.path.join(self.out_dir, "mel")), exist_ok=True)
         os.makedirs((os.path.join(self.out_dir, "pitch")), exist_ok=True)
@@ -174,7 +181,8 @@ class Preprocessor:
 
                 basename = wav_name.split(".")[0]
                 tg_path = os.path.join(
-                    self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
+                    self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(
+                        basename)
                 )
                 if os.path.exists(tg_path):
                     ret = self.process_utterance(speaker, basename)
@@ -246,7 +254,7 @@ class Preprocessor:
 
         # Write metadata
         with open(os.path.join(self.out_dir, "train.txt"), "w", encoding="utf-8") as f:
-            for m in out[self.val_size :]:
+            for m in out[self.val_size:]:
                 f.write(m + "\n")
         with open(os.path.join(self.out_dir, "val.txt"), "w", encoding="utf-8") as f:
             for m in out[: self.val_size]:
@@ -255,8 +263,10 @@ class Preprocessor:
         return out
 
     def process_utterance(self, speaker, basename):
-        wav_path = os.path.join(self.in_dir, speaker, "{}.wav".format(basename))
-        text_path = os.path.join(self.in_dir, speaker, "{}.lab".format(basename))
+        wav_path = os.path.join(self.in_dir, speaker,
+                                "{}.wav".format(basename))
+        text_path = os.path.join(self.in_dir, speaker,
+                                 "{}.lab".format(basename))
         tg_path = os.path.join(
             self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(basename)
         )
@@ -273,7 +283,7 @@ class Preprocessor:
         # Read and trim wav files
         wav, _ = librosa.load(wav_path)
         wav = wav[
-            int(self.sampling_rate * start) : int(self.sampling_rate * end)
+            int(self.sampling_rate * start): int(self.sampling_rate * end)
         ].astype(np.float32)
 
         # Read raw text
@@ -286,7 +296,8 @@ class Preprocessor:
             self.sampling_rate,
             frame_period=self.hop_length / self.sampling_rate * 1000,
         )
-        pitch = pw.stonemask(wav.astype(np.float64), pitch, t, self.sampling_rate)
+        pitch = pw.stonemask(wav.astype(np.float64),
+                             pitch, t, self.sampling_rate)
 
         pitch = pitch[: sum(duration)]
         if np.sum(pitch != 0) <= 1:
@@ -312,7 +323,7 @@ class Preprocessor:
             pos = 0
             for i, d in enumerate(duration):
                 if d > 0:
-                    pitch[i] = np.mean(pitch[pos : pos + d])
+                    pitch[i] = np.mean(pitch[pos: pos + d])
                 else:
                     pitch[i] = 0
                 pos += d
@@ -323,7 +334,7 @@ class Preprocessor:
             pos = 0
             for i, d in enumerate(duration):
                 if d > 0:
-                    energy[i] = np.mean(energy[pos : pos + d])
+                    energy[i] = np.mean(energy[pos: pos + d])
                 else:
                     energy[i] = 0
                 pos += d
@@ -353,15 +364,17 @@ class Preprocessor:
         )
 
     def process_trainval_utterance(self, split_name, speaker, basename):
-        wav_path = os.path.join(self.in_dir, split_name, speaker, "{}.wav".format(basename))
-        text_path = os.path.join(self.in_dir, split_name, speaker, "{}.lab".format(basename))
+        wav_path = os.path.join(self.in_dir, split_name,
+                                speaker, "{}.wav".format(basename))
+        text_path = os.path.join(
+            self.in_dir, split_name, speaker, "{}.lab".format(basename))
         tg_path = os.path.join(
-            self.out_dir, "TextGrid", split_name, speaker, "{}.TextGrid".format(basename)
+            self.out_dir, "TextGrid", split_name, speaker, "{}.TextGrid".format(
+                basename)
         )
 
         log_path = os.path.join(self.out_dir, "preprocessing_log.txt")
         log_file = open(log_path, "a+")
-
 
         # Get alignments
         textgrid = tgt.io.read_textgrid(tg_path)
@@ -371,33 +384,45 @@ class Preprocessor:
         text = "{" + " ".join(phone) + "}"
         if start >= end:
             # print(f'Skipped because `alignment start>=end`: {tg_path}')
-            log_file.write(f'Skipped because `alignment start>=end`: {tg_path}\n')
+            log_file.write(
+                f'Skipped because `alignment start>=end`: {tg_path}\n')
             return None
 
         # Read and trim wav files
         wav, _ = librosa.load(wav_path)
+        # print('sample_rate here: ', _)
         wav = wav[
-            int(self.sampling_rate * start) : int(self.sampling_rate * end)
+            int(self.sampling_rate * start): int(self.sampling_rate * end)
         ].astype(np.float32)
-
+        # filtered out audio with speech duration
+        # shorter than 0.1s
+        if wav.shape[0] <= 0.1 * self.sampling_rate:
+            log_file.write(
+                f'Skipped because `wav[start:end].shape == 0`: {tg_path}\n')
+            return None
         # Read raw text
         with open(text_path, "r") as f:
             raw_text = f.readline().strip("\n")
 
         # Compute fundamental frequency
+        # try:
         pitch, t = pw.dio(
             wav.astype(np.float64),
             self.sampling_rate,
             frame_period=self.hop_length / self.sampling_rate * 1000,
         )
-        pitch = pw.stonemask(wav.astype(np.float64), pitch, t, self.sampling_rate)
+        # except:
+        #     print('wav.shape: ', wav.shape)
+        pitch = pw.stonemask(wav.astype(np.float64),
+                             pitch, t, self.sampling_rate)
 
         pitch = pitch[: sum(duration)]
         if np.sum(pitch != 0) <= 1:
             # print(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}')
-            log_file.write(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}\n')
+            log_file.write(
+                f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}\n')
             return None
-        
+
         log_file.close()
 
         # Compute mel-scale spectrogram and energy
@@ -420,7 +445,7 @@ class Preprocessor:
             pos = 0
             for i, d in enumerate(duration):
                 if d > 0:
-                    pitch[i] = np.mean(pitch[pos : pos + d])
+                    pitch[i] = np.mean(pitch[pos: pos + d])
                 else:
                     pitch[i] = 0
                 pos += d
@@ -431,7 +456,7 @@ class Preprocessor:
             pos = 0
             for i, d in enumerate(duration):
                 if d > 0:
-                    energy[i] = np.mean(energy[pos : pos + d])
+                    energy[i] = np.mean(energy[pos: pos + d])
                 else:
                     energy[i] = 0
                 pos += d
@@ -439,13 +464,16 @@ class Preprocessor:
 
         # Save files
         dur_filename = "{}-duration-{}.npy".format(speaker, basename)
-        np.save(os.path.join(self.out_dir, "duration", split_name, dur_filename), duration)
+        np.save(os.path.join(self.out_dir, "duration",
+                split_name, dur_filename), duration)
 
         pitch_filename = "{}-pitch-{}.npy".format(speaker, basename)
-        np.save(os.path.join(self.out_dir, "pitch", split_name, pitch_filename), pitch)
+        np.save(os.path.join(self.out_dir, "pitch",
+                split_name, pitch_filename), pitch)
 
         energy_filename = "{}-energy-{}.npy".format(speaker, basename)
-        np.save(os.path.join(self.out_dir, "energy", split_name, energy_filename), energy)
+        np.save(os.path.join(self.out_dir, "energy",
+                split_name, energy_filename), energy)
 
         mel_filename = "{}-mel-{}.npy".format(speaker, basename)
         np.save(
