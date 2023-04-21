@@ -9,13 +9,13 @@ pip install g2p-en inflect librosa matplotlib numba numpy pyworld PyYAML scikit-
 
 
 ```sh
- python prepare_align.py config/Ego4D_final_v3/preprocess.yaml
+python prepare_align.py config/Ego4D_final_v4/0421preprocess.yaml
 ```
 
 得到的结果在`./raw_data/Ego4D_final_v3`.
 
 ```sh
-python3 preprocess.py config/Ego4D_final_v3/preprocess.yaml
+python preprocess.py config/Ego4D_final_v4/0421preprocess.yaml
 ```
 
 ```sh
@@ -24,12 +24,12 @@ unzip -q ./hifigan/generator_LJSpeech.pth.tar.zip -d ./hifigan/
 ```
 
 ```sh
-python3 train.py -p config/Ego4D_final_v3/preprocess.yaml -m config/Ego4D_final_v3/model.yaml -t config/Ego4D_final_v3/train.yaml
+python3 train.py -p config/Ego4D_final_v4/0421preprocess.yaml -m config/Ego4D_final_v4/0421model.yaml -t config/Ego4D_final_v4/0421train.yaml
 ```
 
 
 
 
 ```sh
-tensorboard --logdir .\output\0418a\log\Ego4D_final_v3\
+tensorboard --logdir .\output\0421a\log\Ego4D_final_v4\
 ```
