@@ -396,6 +396,7 @@ class Preprocessor:
         ].astype(np.float32)
         # filtered out audio with speech duration
         # shorter than 0.1s
+        print(np.count_nonzero(np.isnan(wav)))
         if wav.shape[0] <= 0.1 * self.sampling_rate:
             log_file.write(
                 f'Skipped because `wav[start:end].shape == 0`: {tg_path}\n')
