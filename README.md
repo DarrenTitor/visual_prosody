@@ -24,12 +24,15 @@ unzip -q ./hifigan/generator_LJSpeech.pth.tar.zip -d ./hifigan/
 ```
 
 ```sh
-python3 train.py -p config/Ego4D_final_v4/0421preprocess.yaml -m config/Ego4D_final_v4/0421model.yaml -t config/Ego4D_final_v4/0421train.yaml
+python train.py -p config/Ego4D_final_v4/0421preprocess.yaml -m config/Ego4D_final_v4/0421model.yaml -t config/Ego4D_final_v4/0421train.yaml
 ```
 
 
 
 
 ```sh
+cp -r /data/acp22yc/WORK/visual_prosody_22050hz/visual_prosody/output/0423a/log/ /data/acp22yc/WORK/temp_log/0423/
+tensorboard --logdir .\temp_log\0423\log\Ego4D_final_v4\
+
 tensorboard --logdir .\output\0421a\log\Ego4D_final_v4\
 ```
