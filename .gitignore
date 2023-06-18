@@ -120,3 +120,4 @@ hifigan/*.pth.tar
 
 /Data/
 /temp_log/
+/preprocessed_data/
