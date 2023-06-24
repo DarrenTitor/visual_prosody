@@ -21,8 +21,10 @@ class Preprocessor:
         self.val_size = config["preprocessing"]["val_size"]
         self.sampling_rate = config["preprocessing"]["audio"]["sampling_rate"]
         self.hop_length = config["preprocessing"]["stft"]["hop_length"]
-
-        self.splits = config["preprocessing"]["splits"]
+        try:
+            self.splits = config["preprocessing"]["splits"]
+        except Exception as e:
+            print(e)
 
         assert config["preprocessing"]["pitch"]["feature"] in [
             "phoneme_level",
