@@ -1,7 +1,7 @@
 path:
-  ckpt_path: "./output/0623a/ckpt/Ego4D_final_v5"
-  log_path: "./output/0623a/log/Ego4D_final_v5"
-  result_path: "./output/0623a/result/Ego4D_final_v5"
+  ckpt_path: "./output/0623a/ckpt/Ego4D_final_v6"
+  log_path: "./output/0623a/log/Ego4D_final_v6"
+  result_path: "./output/0623a/result/Ego4D_final_v6"
   # ckpt_path: "/content/drive/MyDrive/sheffield_work/intermediate_files/0506a/output/ckpt/Ego4D_final_v5"
   # log_path: "/content/drive/MyDrive/sheffield_work/intermediate_files/0506a/output/log/Ego4D_final_v5"
   # result_path: "/content/drive/MyDrive/sheffield_work/intermediate_files/0506a/output/result/Ego4D_final_v5"

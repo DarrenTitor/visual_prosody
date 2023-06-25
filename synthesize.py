@@ -207,6 +207,9 @@ if __name__ == "__main__":
         elif preprocess_config["preprocessing"]["text"]["language"] == "zh":
             texts = np.array([preprocess_mandarin(args.text, preprocess_config)])
         text_lens = np.array([len(texts[0])])
+
+        ### TODO: load speaker embeddings
+        # batchs = [(ids, raw_texts, speakers, texts, text_lens, max(text_lens), speaker_embeddings)]
         batchs = [(ids, raw_texts, speakers, texts, text_lens, max(text_lens))]
 
     control_values = args.pitch_control, args.energy_control, args.duration_control

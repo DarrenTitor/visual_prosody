@@ -39,6 +39,8 @@ class FastSpeech2(nn.Module):
                 n_speaker,
                 model_config["transformer"]["encoder_hidden"],
             )
+        ### new
+        self.speaker_embedding_projector = nn.Linear(192, model_config["transformer"]["encoder_hidden"], bias=False)
 
     def forward(
         self,
@@ -52,6 +54,8 @@ class FastSpeech2(nn.Module):
         p_targets=None,
         e_targets=None,
         d_targets=None,
+        ### new
+        speaker_embeddings=None,
         p_control=1.0,
         e_control=1.0,
         d_control=1.0,
@@ -65,10 +69,34 @@ class FastSpeech2(nn.Module):
 
         output = self.encoder(texts, src_masks)
 
-        if self.speaker_emb is not None:
-            output = output + self.speaker_emb(speakers).unsqueeze(1).expand(
-                -1, max_src_len, -1
-            )
+        # default speaker embedding, useless
+        # if self.speaker_emb is not None:
+        #     output = output + self.speaker_emb(speakers).unsqueeze(1).expand(
+        #         -1, max_src_len, -1
+            # )
+
+        # print('=====')
+        # print('output.shape: ', output.shape)
+        # print('speaker_embeddings.shape:', speaker_embeddings.shape)
+        # print('max_src_len:', max_src_len)
+        # print('=====')
+        # =====
+        # output.shape:  torch.Size([24, 96, 256])
+        # speaker_embeddings.shape: torch.Size([24, 192])
+        # max_src_len: 96
+        # =====
+
+
+
+
+        ### use speechbrain speaker embedding, project from 192dim to 256dim
+        if speaker_embeddings is not None:
+            # print('speaker_embeddings.dtype: ', speaker_embeddings.dtype)
+            projected_embeddings = self.speaker_embedding_projector(speaker_embeddings)
+            expanded_embeddings = projected_embeddings.unsqueeze(1).expand(-1, max_src_len, -1)
+            # print('expanded_embeddings.shape: ', expanded_embeddings.shape)
+            output = output + expanded_embeddings
+        
 
         (
             output,

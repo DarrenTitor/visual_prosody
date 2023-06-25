@@ -40,6 +40,8 @@ def evaluate(model, step, configs, logger=None, vocoder=None):
             batch = to_device(batch, device)
             with torch.no_grad():
                 # Forward
+                ### batch[-1], speaker embeddings: 
+                ### torch.Size([group_size*batch_size, 192])
                 output = model(*(batch[2:]))
 
                 # Cal Loss
@@ -55,33 +57,38 @@ def evaluate(model, step, configs, logger=None, vocoder=None):
     )
 
     if logger is not None:
-        fig, wav_reconstruction, wav_prediction, tag = synth_one_sample(
-            batch,
-            output,
-            vocoder,
-            model_config,
-            preprocess_config,
-        )
+        val_log_k_samples = train_config["logger"]["val_log_k_samples"]
+        if val_log_k_samples >= len(batch[0]):
+            val_log_k_samples = 1
+        for idx in range(val_log_k_samples):
+            fig, wav_reconstruction, wav_prediction, tag = synth_one_sample(
+                batch,
+                output,
+                vocoder,
+                model_config,
+                preprocess_config,
+                idx=idx
+            )
 
-        log(logger, step, losses=loss_means)
-        log(
-            logger,
-            fig=fig,
-            tag="Validation/step_{}_{}".format(step, tag),
-        )
-        sampling_rate = preprocess_config["preprocessing"]["audio"]["sampling_rate"]
-        log(
-            logger,
-            audio=wav_reconstruction,
-            sampling_rate=sampling_rate,
-            tag="Validation/step_{}_{}_reconstructed".format(step, tag),
-        )
-        log(
-            logger,
-            audio=wav_prediction,
-            sampling_rate=sampling_rate,
-            tag="Validation/step_{}_{}_synthesized".format(step, tag),
-        )
+            log(logger, step, losses=loss_means)
+            log(
+                logger,
+                fig=fig,
+                tag="Validation/step_{}_{}".format(step, tag),
+            )
+            sampling_rate = preprocess_config["preprocessing"]["audio"]["sampling_rate"]
+            log(
+                logger,
+                audio=wav_reconstruction,
+                sampling_rate=sampling_rate,
+                tag="Validation/step_{}_{}_reconstructed".format(step, tag),
+            )
+            log(
+                logger,
+                audio=wav_prediction,
+                sampling_rate=sampling_rate,
+                tag="Validation/step_{}_{}_synthesized".format(step, tag),
+            )
 
     return message
 

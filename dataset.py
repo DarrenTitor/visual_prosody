@@ -1,7 +1,7 @@
 import json
 import math
 import os
-
+import torch
 import numpy as np
 from torch.utils.data import Dataset
 
@@ -66,6 +66,17 @@ class Dataset(Dataset):
         )
         duration = np.load(duration_path)
 
+        ### new
+        speaker_embedding_path = os.path.join(
+            self.preprocessed_path,
+            "speaker_embedding",
+            self.split_name,
+            f"{basename}.pt",
+        )
+        ### np.array, shape: (192,)
+        speaker_embedding = torch.load(speaker_embedding_path).squeeze().cpu().numpy()
+
+
         sample = {
             "id": basename,
             "speaker": speaker_id,
@@ -75,6 +86,7 @@ class Dataset(Dataset):
             "pitch": pitch,
             "energy": energy,
             "duration": duration,
+            "speaker_embedding": speaker_embedding
         }
 
         return sample
@@ -104,6 +116,11 @@ class Dataset(Dataset):
         pitches = [data[idx]["pitch"] for idx in idxs]
         energies = [data[idx]["energy"] for idx in idxs]
         durations = [data[idx]["duration"] for idx in idxs]
+        ### new
+        speaker_embeddings = [data[idx]["speaker_embedding"] for idx in idxs]
+        ### test
+        # print(111)
+        # print([x.shape for x in speaker_embeddings])
 
         text_lens = np.array([text.shape[0] for text in texts])
         mel_lens = np.array([mel.shape[0] for mel in mels])
@@ -114,6 +131,10 @@ class Dataset(Dataset):
         pitches = pad_1D(pitches)
         energies = pad_1D(energies)
         durations = pad_1D(durations)
+        # print('durations.shape:', durations.shape)
+        ### new
+        speaker_embeddings = pad_1D(speaker_embeddings)
+        # print('speaker_embeddings.dtype:', speaker_embeddings.dtype)
 
         return (
             ids,
@@ -128,6 +149,7 @@ class Dataset(Dataset):
             pitches,
             energies,
             durations,
+            speaker_embeddings,
         )
 
     def collate_fn(self, data):

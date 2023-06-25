@@ -80,6 +80,8 @@ def main(args, configs):
                 batch = to_device(batch, device)
 
                 # Forward
+                ### batch[-1], speaker embeddings: 
+                ### torch.Size([group_size*batch_size, 192])
                 output = model(*(batch[2:]))
 
                 # Cal Loss
