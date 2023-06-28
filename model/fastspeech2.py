@@ -40,7 +40,8 @@ class FastSpeech2(nn.Module):
                 model_config["transformer"]["encoder_hidden"],
             )
         ### new
-        self.speaker_embedding_projector = nn.Linear(192, model_config["transformer"]["encoder_hidden"], bias=False)
+        # self.speaker_embedding_projector = nn.Linear(192, model_config["transformer"]["encoder_hidden"], bias=False)
+        self.speaker_embedding_padding_size = (0, model_config["transformer"]["encoder_hidden"] - 192)
 
     def forward(
         self,
@@ -92,8 +93,12 @@ class FastSpeech2(nn.Module):
         ### use speechbrain speaker embedding, project from 192dim to 256dim
         if speaker_embeddings is not None:
             # print('speaker_embeddings.dtype: ', speaker_embeddings.dtype)
-            projected_embeddings = self.speaker_embedding_projector(speaker_embeddings)
-            expanded_embeddings = projected_embeddings.unsqueeze(1).expand(-1, max_src_len, -1)
+
+            # projected_embeddings = self.speaker_embedding_projector(speaker_embeddings)
+            # expanded_embeddings = projected_embeddings.unsqueeze(1).expand(-1, max_src_len, -1)
+
+            padded_embeddings = F.pad(speaker_embeddings, self.speaker_embedding_padding_size, value=0)
+            expanded_embeddings = padded_embeddings.unsqueeze(1).expand(-1, max_src_len, -1) 
             # print('expanded_embeddings.shape: ', expanded_embeddings.shape)
             output = output + expanded_embeddings
         
