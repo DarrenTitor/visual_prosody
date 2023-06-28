@@ -70,11 +70,18 @@ class VarianceAdaptor(nn.Module):
                 requires_grad=False,
             )
 
+        # self.pitch_embedding = nn.Embedding(
+        #     n_bins, model_config["transformer"]["encoder_hidden"]
+        # )
+        # self.energy_embedding = nn.Embedding(
+        #     n_bins, model_config["transformer"]["encoder_hidden"]
+        # )
+        ### new
         self.pitch_embedding = nn.Embedding(
-            n_bins, model_config["transformer"]["encoder_hidden"]
+            n_bins, model_config["transformer"]["encoder_with_speakers_hidden"]
         )
         self.energy_embedding = nn.Embedding(
-            n_bins, model_config["transformer"]["encoder_hidden"]
+            n_bins, model_config["transformer"]["encoder_with_speakers_hidden"]
         )
 
     def get_pitch_embedding(self, x, target, mask, control):
@@ -118,6 +125,8 @@ class VarianceAdaptor(nn.Module):
             pitch_prediction, pitch_embedding = self.get_pitch_embedding(
                 x, pitch_target, src_mask, p_control
             )
+            # print('pitch_embedding.shape: ', pitch_embedding.shape)
+            # print('x.shape: ', x.shape)
             x = x + pitch_embedding
         if self.energy_feature_level == "phoneme_level":
             energy_prediction, energy_embedding = self.get_energy_embedding(
@@ -200,7 +209,7 @@ class VariancePredictor(nn.Module):
     def __init__(self, model_config):
         super(VariancePredictor, self).__init__()
 
-        self.input_size = model_config["transformer"]["encoder_hidden"]
+        self.input_size = model_config["transformer"]["encoder_with_speakers_hidden"]
         self.filter_size = model_config["variance_predictor"]["filter_size"]
         self.kernel = model_config["variance_predictor"]["kernel_size"]
         self.conv_output_size = model_config["variance_predictor"]["filter_size"]

@@ -94,13 +94,27 @@ class FastSpeech2(nn.Module):
         if speaker_embeddings is not None:
             # print('speaker_embeddings.dtype: ', speaker_embeddings.dtype)
 
+            ### try1: 
             # projected_embeddings = self.speaker_embedding_projector(speaker_embeddings)
             # expanded_embeddings = projected_embeddings.unsqueeze(1).expand(-1, max_src_len, -1)
+            # output = output + expanded_embeddings
 
-            padded_embeddings = F.pad(speaker_embeddings, self.speaker_embedding_padding_size, value=0)
-            expanded_embeddings = padded_embeddings.unsqueeze(1).expand(-1, max_src_len, -1) 
+            ### try2:
+            # padded_embeddings = F.pad(speaker_embeddings, self.speaker_embedding_padding_size, value=0)
+            # expanded_embeddings = padded_embeddings.unsqueeze(1).expand(-1, max_src_len, -1) 
+            # output = output + expanded_embeddings
+
+            ### try3: 
+            expanded_embeddings = speaker_embeddings.unsqueeze(1).expand(-1, max_src_len, -1) 
+            output = torch.cat((output, expanded_embeddings), dim=2)
+            # print('output.shape after concat : ', output.shape)
+
+
+
+
+
             # print('expanded_embeddings.shape: ', expanded_embeddings.shape)
-            output = output + expanded_embeddings
+            # output = output + expanded_embeddings
         
 
         (
@@ -123,7 +137,7 @@ class FastSpeech2(nn.Module):
             e_control,
             d_control,
         )
-
+        # print('shape of decoder input : ', output.shape)
         output, mel_masks = self.decoder(output, mel_masks)
         output = self.mel_linear(output)
 
