@@ -304,8 +304,9 @@ class Preprocessor:
         pitch = pitch[: sum(duration)]
         ### new
         ### remove the all-0 pitch filter
-        # if np.sum(pitch != 0) <= 1:
-        #     return None
+        ### cancelled
+        if np.sum(pitch != 0) <= 1:
+            return None
 
         # Compute mel-scale spectrogram and energy
         mel_spectrogram, energy = Audio.tools.get_mel_from_wav(wav, self.STFT)
