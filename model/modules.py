@@ -457,15 +457,18 @@ class VariancePredictorWithSpeaker(nn.Module):
         )
 
         # self.linear_layer = nn.Linear(self.conv_output_size, 1)
-        self.linear_layer = nn.Linear(self.conv_output_size + 192, 1)
+        self.linear_layer = nn.Linear(self.conv_output_size+8, 1)
         self.speaker_layernorm = nn.LayerNorm(192)
+        self.speaker_fc = nn.Linear(192, 8)
 
     def forward(self, encoder_output, mask, speaker_embeddings=None):
 
         out = self.conv_layer(encoder_output)
-
+        # print("conv_output shape: ", out.shape)
         ### new: expand + concat
         speaker_embeddings = self.speaker_layernorm(speaker_embeddings)
+        speaker_embeddings = F.relu(self.speaker_fc(speaker_embeddings))
+        # print("Speaker embedding shape: ", speaker_embeddings.shape)
         expanded_embeddings = speaker_embeddings.unsqueeze(1).expand(-1, out.shape[1], -1) 
         out = torch.cat((out, expanded_embeddings), dim=2)
 

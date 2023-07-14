@@ -180,13 +180,15 @@ class Preprocessor:
             for wav_name in tqdm(os.listdir(os.path.join(self.in_dir, speaker))):
                 if ".wav" not in wav_name:
                     continue
-
+                print(wav_name)
                 basename = wav_name.split(".")[0]
                 tg_path = os.path.join(
                     self.out_dir, "TextGrid", speaker, "{}.TextGrid".format(
                         basename)
                 )
+                print(tg_path)
                 if os.path.exists(tg_path):
+
                     ret = self.process_utterance(speaker, basename)
                     if ret is None:
                         continue
@@ -392,7 +394,6 @@ class Preprocessor:
             log_file.write(
                 f'Skipped because `alignment start>=end`: {tg_path}\n')
             return None
-
         # Read and trim wav files
         wav, _ = librosa.load(wav_path)
         # print('sample_rate here: ', _)
@@ -405,6 +406,7 @@ class Preprocessor:
         if wav.shape[0] <= 0.1 * self.sampling_rate:
             log_file.write(
                 f'Skipped because `wav[start:end].shape == 0`: {tg_path}\n')
+            # print(f'Skipped because `wav[start:end].shape == 0`: {tg_path}\n')
             return None
         # Read raw text
         with open(text_path, "r") as f:
@@ -421,14 +423,16 @@ class Preprocessor:
         #     print('wav.shape: ', wav.shape)
         pitch = pw.stonemask(wav.astype(np.float64),
                              pitch, t, self.sampling_rate)
-
         pitch = pitch[: sum(duration)]
+        ### 
+        if len(pitch) == 0:
+            # print(f'Skipped because `len(pitch) == 0`: {wav_path}')
+            return None
         if np.sum(pitch != 0) <= 1:
             # print(f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}')
             log_file.write(
                 f'Skipped because `np.sum(pitch != 0) <= 1`: {wav_path}\n')
             return None
-
         log_file.close()
 
         # Compute mel-scale spectrogram and energy
@@ -450,8 +454,15 @@ class Preprocessor:
             # Phoneme-level average
             pos = 0
             for i, d in enumerate(duration):
+                if i > len(pitch) - 1:
+                    break
                 if d > 0:
-                    pitch[i] = np.mean(pitch[pos: pos + d])
+                    ###
+                    temp = pitch[pos: pos + d]
+                    if len(temp) == 0:
+                        pitch[i] = 0
+                    else:
+                        pitch[i] = np.mean(temp)
                 else:
                     pitch[i] = 0
                 pos += d
@@ -461,8 +472,16 @@ class Preprocessor:
             # Phoneme-level average
             pos = 0
             for i, d in enumerate(duration):
+                if i > len(energy) - 1:
+                    break
                 if d > 0:
-                    energy[i] = np.mean(energy[pos: pos + d])
+                    ###
+                    temp = energy[pos: pos + d]
+                    if len(temp) == 0:
+                        energy[i] = 0
+                    else:
+                        energy[i] = np.mean(temp)
+  
                 else:
                     energy[i] = 0
                 pos += d

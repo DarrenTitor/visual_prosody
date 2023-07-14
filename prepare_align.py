@@ -2,7 +2,7 @@ import argparse
 
 import yaml
 
-from preprocessor import ljspeech, aishell3, libritts, ego4d_final_v2, ego4d_final_v3, ego4d_final_v4, ego4d_final_v5, ego4d_final_v6
+from preprocessor import ljspeech, aishell3, libritts, ego4d_final_v2, ego4d_final_v3, ego4d_final_v4, ego4d_final_v5, ego4d_final_v6, ego4d_final_v7, ego4d_final_v8
 
 
 def main(config):
@@ -22,6 +22,10 @@ def main(config):
         ego4d_final_v5.prepare_align(config)
     if "Ego4D_final_v6" in config["dataset"]:
         ego4d_final_v6.prepare_align(config)
+    if "Ego4D_final_v7" in config["dataset"]:
+        ego4d_final_v7.prepare_align(config)
+    if "Ego4D_final_v8" in config["dataset"]:
+        ego4d_final_v8.prepare_align(config)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

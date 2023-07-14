@@ -18,6 +18,7 @@ class Dataset(Dataset):
         self.cleaners = preprocess_config["preprocessing"]["text"]["text_cleaners"]
         self.batch_size = train_config["optimizer"]["batch_size"]
 
+
         self.split_name = split_name
 
         self.basename, self.speaker, self.text, self.raw_text = self.process_meta(
@@ -67,14 +68,18 @@ class Dataset(Dataset):
         duration = np.load(duration_path)
 
         ### new
-        speaker_embedding_path = os.path.join(
-            self.preprocessed_path,
-            "speaker_embedding",
-            self.split_name,
-            f"{basename}.pt",
-        )
-        ### np.array, shape: (192,)
-        speaker_embedding = torch.load(speaker_embedding_path).squeeze().cpu().numpy()
+        if self.dataset_name in ["LJSpeech", "Ego4D_final_v4"]:
+            speaker_embedding = np.zeros(192,)
+
+        else:
+            speaker_embedding_path = os.path.join(
+                self.preprocessed_path,
+                "speaker_embedding",
+                self.split_name,
+                f"{basename}.pt",
+            )
+            ### np.array, shape: (192,)
+            speaker_embedding = torch.load(speaker_embedding_path).squeeze().cpu().numpy()
 
 
         sample = {

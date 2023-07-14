@@ -1,0 +1,27 @@
+path:
+  ckpt_path: "./output/0711b/ckpt/Ego4D_final_v5"
+  log_path: "./output/0711b/log/Ego4D_final_v5"
+  result_path: "./output/0711b/result/Ego4D_final_v5"
+
+optimizer:
+  batch_size: 24
+  betas: [0.9, 0.98]
+  eps: 0.000000001
+  weight_decay: 0.0
+  grad_clip_thresh: 1.0
+  grad_acc_step: 1
+  warm_up_step: 4000
+  anneal_steps: [300000, 400000, 500000, 600000]
+  anneal_rate: 0.3
+step:
+  total_step: 3000000
+  log_step: 100
+  synth_step: 5000
+  val_step: 5000
+  save_step: 200000
+logger:
+  val_log_k_samples: 2
+
+pretrained:
+  using_warm_start: True
+  pretrained_path: './output/LibriTTS/LibriTTS_800000.pth.tar'

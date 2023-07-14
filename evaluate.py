@@ -17,6 +17,7 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 def evaluate(model, step, configs, logger=None, vocoder=None):
     preprocess_config, model_config, train_config = configs
+    print(f'=> Validate on {train_config["logger"]["val_log_k_samples"]} samples.')
 
     # Get dataset
     dataset = Dataset(
@@ -58,9 +59,11 @@ def evaluate(model, step, configs, logger=None, vocoder=None):
 
     if logger is not None:
         val_log_k_samples = train_config["logger"]["val_log_k_samples"]
-        if val_log_k_samples >= len(batch[0]):
-            val_log_k_samples = 1
+        # print('len(batch): ', len(batch[0]))
+        val_log_k_samples =  min(val_log_k_samples, len(batch[0]))
+
         for idx in range(val_log_k_samples):
+            # print(f"Synthsizing the {idx}th sample...")
             fig, wav_reconstruction, wav_prediction, tag = synth_one_sample(
                 batch,
                 output,

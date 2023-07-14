@@ -121,3 +121,4 @@ hifigan/*.pth.tar
 /Data/
 /temp_log/
 /preprocessed_data/
+config/LJSpeech/900000.pth.tar

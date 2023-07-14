@@ -12,6 +12,26 @@ def get_model(args, configs, device, train=False):
     (preprocess_config, model_config, train_config) = configs
 
     model = FastSpeech2(preprocess_config, model_config).to(device)
+
+    if 'pretrained' in train_config.keys():
+        if train_config['pretrained']['using_warm_start']:
+            try:
+                ckpt = torch.load(train_config['pretrained']['pretrained_path'])
+                model.load_state_dict(ckpt, strict=False)
+
+                # for param in model.encoder.parameters():
+                #     param.requires_grad_(False)
+                # for param in model.decoder.parameters():
+                #     param.requires_grad_(False)
+                # for param in model.mel_linear.parameters():
+                #     param.requires_grad_(False)
+                # for param in model.postnet.parameters():
+                #     param.requires_grad_(False)
+
+
+                print(f"Successfully loaded from {train_config['pretrained']['pretrained_path']}")
+            except Exception as e:
+                print(f"Loading failed: {e}")
     if args.restore_step:
         ckpt_path = os.path.join(
             train_config["path"]["ckpt_path"],

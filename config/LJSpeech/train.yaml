@@ -1,7 +1,7 @@
 path:
-  ckpt_path: "./output/ckpt/LJSpeech"
-  log_path: "./output/log/LJSpeech"
-  result_path: "./output/result/LJSpeech"
+  ckpt_path: "./output/0629lj/ckpt/LJSpeech"
+  log_path: "./output/0629lj/log/LJSpeech"
+  result_path: "./output/0629lj/result/LJSpeech"
 optimizer:
   batch_size: 16
   betas: [0.9, 0.98]
