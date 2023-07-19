@@ -1,0 +1,2671 @@
+wer,ld,m,insertions,deletions,substitutions,inserted_words,deleted_words,substituted_words
+4.0,4,1,0,0,1,[],[],"[('what', 'whats')]"
+0.0,0,5,0,0,0,[],[],[]
+3.0833333333333335,37,12,0,7,4,[],"['oh', 'they', 'wont', 'be', 'as', 'hard', 'right']","[('when', 'good'), ('you', 'morning'), ('nail', 'and'), ('them', 'alms')]"
+0.6111111111111112,11,18,0,1,2,[],['no'],"[('necessary', 'necessarily'), ('cuz', 'because')]"
+3.8,19,5,0,1,4,[],['stand'],"[('them', 'that'), ('all', 'can'), ('down', 'reflect'), ('flat', 'this')]"
+0.0,0,2,0,0,0,[],[],[]
+5.25,21,4,3,0,3,"['when', 'ones', 'there']",[],"[('whats', 'itll'), ('our', 'never'), ('only', 'know')]"
+0.0,0,1,0,0,0,[],[],[]
+2.7,27,10,1,4,3,['shoe'],"['i', 'mean', 'if', 'we']","[('just', 'lets'), ('two', 'for'), ('positions', 'zipkins')]"
+0.8,4,5,0,0,1,[],[],"[('done', 'them')]"
+3.2857142857142856,46,14,1,1,10,['best'],['is'],"[('biscuit', 'good'), ('up', 'in'), ('cuz', 'health'), ('then', 'is'), ('it', 'that'), ('might', 'i'), ('hold', 'would'), ('it', 'all'), ('in', 'get'), ('position', 'therapy')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'now')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'you')]"
+0.8571428571428571,6,7,2,0,0,"['you', 'know']",[],[]
+0.21428571428571427,3,14,1,0,0,['trim'],[],[]
+2.0,10,5,2,0,1,"['i', 'for']",[],"[('can', 'mean')]"
+1.0,19,19,0,1,4,[],['what'],"[('orientation', 'which'), ('is', 'orientations'), ('the', 'are'), ('best', 'that')]"
+1.1666666666666667,7,6,1,0,1,['this'],[],"[('thisll', 'will')]"
+1.0,12,12,0,0,3,[],[],"[('will', 'with'), ('seem', 'seams'), ('the', 'be')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('anyway', 'anywhere')]"
+5.666666666666667,34,6,5,1,4,"['wanna', 'fetch', 'backe', 'forced', 'out']",['theyre'],"[('a', 'i'), ('different', 'wanna'), ('thing', 'fetch'), ('should', 'ascendant')]"
+0.0,0,7,0,0,0,[],[],[]
+3.4,17,5,1,2,2,['out'],"['cord', 'right']","[('uh', 'of'), ('there', 'corridor')]"
+0.0,0,1,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['how'],"[('you', 'right'), ('doing', 'on')]"
+3.4285714285714284,24,7,0,4,3,[],"['do', 'you', 'have', 'to']","[('do', 'nippah'), ('that', 'nippah'), ('inside', 'hey')]"
+1.0,4,4,0,0,1,[],[],"[('its', 'whats')]"
+2.9523809523809526,62,21,9,1,8,"['i', 'think', 'ill', 'talk', 'to', 'you', 'right', 'by', 'side']",['if'],"[('the', 'about'), ('bottom', 'them'), ('check', 'i'), ('and', 'can'), ('sidebyside', 'with'), ('widthwise', 'pliers'), ('dont', 'all'), ('side', 'stuff')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('check', 'cheers')]"
+4.0,12,3,0,0,3,[],[],"[('turn', 'are'), ('that', 'you'), ('off', 'exceptional')]"
+2.0,4,2,0,0,1,[],[],"[('hey', 'nothing')]"
+0.5833333333333334,7,12,0,1,1,[],['you'],"[('dont', 'youll')]"
+4.0,4,1,0,0,1,[],[],"[('alright', 'bye')]"
+2.8,14,5,1,1,2,['i'],['what'],"[('you', 'dont'), ('youre', 'how')]"
+3.125,25,8,0,7,1,[],"['i', 'know', 'you', 'just', 'dont', 'appreciate', 'it']","[('sometimes', 'en')]"
+1.1333333333333333,17,15,1,2,2,['thicker'],"['one', 'well']","[('i', 'bye'), ('guess', 'guys')]"
+3.0,6,2,2,0,0,"['it', 'works']",[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,9,0,0,0,[],[],[]
+0.21052631578947367,4,19,0,0,1,[],[],"[('we', 'you')]"
+4.0,16,4,0,0,4,[],[],"[('right', 'and'), ('then', 'make'), ('i', 'it'), ('guess', 'else')]"
+1.4,14,10,2,0,2,"['i', 'going']",[],"[('gonna', 'to'), ('your', 'our')]"
+7.0,7,1,1,0,1,['thank'],[],"[('hmm', 'you')]"
+4.75,19,4,1,0,4,['open'],[],"[('fine', 'the'), ('im', 'relentlessly'), ('so', 'flattened'), ('fine', 'head')]"
+22.0,22,1,6,0,1,"['but', 'i', 'tell', 'japan', 'im', 'an']",[],"[('no', 'sandwich')]"
+7.0,14,2,2,0,2,"['thank', 'you']",[],"[('two', 'so'), ('more', 'much')]"
+0.0,0,2,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['thanks'],[],"[('six', 'for'), ('more', 'watching')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'son'), ('more', 'when')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'pause')]"
+5.8,29,5,3,0,5,"['the', 'primarily', 'pseudo']",[],"[('pass', 'viewers'), ('ha', 'also'), ('ha', 'holds'), ('ha', 'really'), ('ha', 'sorry')]"
+1.0,7,7,1,0,1,['jab'],[],"[('challenge', 'it')]"
+0.42857142857142855,6,14,0,2,0,[],"['if', 'challenge']",[]
+0.0,0,2,0,0,0,[],[],[]
+8.090909090909092,89,11,22,1,5,"['man', 'im', 'not', 'sure', 'if', 'i', 'can', 'get', 'it', 'im', 'not', 'sure', 'if', 'i', 'can', 'get', 'it', 'im', 'not', 'sure', 'if', 'i']",['lost'],"[('nice', 'can'), ('pass', 'get'), ('so', 'it'), ('my', 'dont'), ('turn', 'mind')]"
+2.0,4,2,0,0,1,[],[],"[('okay', 'yeah')]"
+3.5714285714285716,25,7,3,0,4,"['thats', 'it', 'horn']",[],"[('i', 'for'), ('have', 'me'), ('whole', 'that'), ('deck', 'could')]"
+1.1851851851851851,32,27,4,0,5,"['i', 'dont', 'know', 'how']",[],"[('deck', 'day'), ('to', 'it'), ('ha', 'to'), ('ha', 'do'), ('ha', 'it')]"
+10.0,10,1,2,0,1,"['people', 'dont']",[],"[('ha', 'challenge')]"
+26.5,53,2,15,0,2,"['aca', 'thats', 'manual', 'i', 'just', 'went', 'with', 'whatever', 'i', 'know', 'i', 'asked', 'a', 'guy', 'to']",[],"[('but', 'take'), ('card', 'this')]"
+13.0,13,1,3,0,1,"['thank', 'you', 'very']",[],"[('pakistan', 'much')]"
+2.0,4,2,0,0,1,[],[],"[('two', 'to')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'for'), ('more', 'what')]"
+7.0,28,4,4,0,4,"['i', 'will', 'see', 'you']",[],"[('two', 'in'), ('nine', 'the'), ('two', 'next'), ('nine', 'video')]"
+22.0,22,1,6,0,1,"['can', 'i', 'get', 'it', 'so', 'the']",[],"[('chad', 'even')]"
+0.0,0,2,0,0,0,[],[],[]
+16.0,32,2,8,0,2,"['dont', 'move', 'dont', 'move', 'dont', 'move', 'dont', 'move']",[],"[('mm', 'thats'), ('hmm', 'it')]"
+21.0,21,1,7,0,0,"['share', 'whats', 'at', 'the', 'of', 'the', 'next']",[],[]
+3.5,7,2,0,1,1,[],['three'],"[('five', 'threefive')]"
+7.0,7,1,1,0,1,['the'],[],"[('five', 'event')]"
+1.5,3,2,0,1,0,[],['more'],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('more', 'boom')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'come'), ('one', 'on')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'bye')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'mm')]"
+19.0,19,1,5,0,1,"['i', 'never', 'never', 'be', 'back']",[],"[('pass', 'yet')]"
+16.0,16,1,4,0,1,"['lets', 'takeout', 'a', 'quick']",[],"[('pass', 'note')]"
+3.0,3,1,1,0,0,['the'],[],[]
+4.0,4,1,0,0,1,[],[],"[('pass', 'chanqarksap')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'i')]"
+7.0,7,1,1,0,1,['go'],[],"[('safe', 'same')]"
+2.0,4,2,0,0,1,[],[],"[('more', 'moment')]"
+3.6666666666666665,11,3,1,0,2,['up'],[],"[('at', 'should'), ('you', 'be')]"
+0.0,0,2,0,0,0,[],[],[]
+8.5,17,2,3,0,2,"['im', 'just', 'climbing']",[],"[('one', 'up'), ('more', 'there')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'good')]"
+3.5,7,2,0,1,1,[],['two'],"[('kings', 'brookings')]"
+3.5,7,2,0,1,1,[],['three'],"[('nines', 'demons')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['fuck'],"[('this', 'ok')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['oh'],[],"[('ooh', 'my'), ('man', 'god')]"
+13.0,13,1,3,0,1,"['that', 'was', 'stupid']",[],"[('ahh', 'agh')]"
+5.25,21,4,7,0,0,"['yeah', 'and', 'i', 'was', 'worried', 'was', 'good']",[],[]
+5.5,11,2,1,0,2,['reach'],[],"[('two', 'our'), ('jacks', 'credit')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('more', 'what')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'why'), ('more', 'not')]"
+1.5,3,2,0,1,0,[],['more'],[]
+0.0,0,2,0,0,0,[],[],[]
+5.666666666666667,17,3,3,0,2,"['shifting', 'you', 'need']",[],"[('same', 'it'), ('thing', 'after')]"
+3.0,12,4,0,0,3,[],[],"[('let', 'it'), ('us', 'is'), ('start', 'starting')]"
+1.6,8,5,0,0,2,[],[],"[('i', 'that'), ('have', 'happened')]"
+3.5,7,2,0,1,1,[],['four'],"[('nines', 'fortnite')]"
+0.5,7,14,1,0,1,['call'],[],"[('card', 'car')]"
+4.0,4,1,0,0,1,[],[],"[('four', 'forward')]"
+4.0,12,3,0,0,3,[],[],"[('four', 'code'), ('nines', 'nine'), ('eh', 'thread')]"
+13.0,26,2,6,0,2,"['i', 'will', 'see', 'you', 'in', 'the']",[],"[('last', 'next'), ('time', 'video')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'boommo')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('four', 'otto'), ('more', 'nichols')]"
+25.0,25,1,7,0,1,"['well', 'absolutely', 'well', 'its', 'h', 'well', 's']",[],"[('more', 'well')]"
+0.0,0,2,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('four', 'one')]"
+4.0,12,3,0,0,3,[],[],"[('even', 'gasp'), ('a', 'g'), ('nine', 'snowden')]"
+4.6,23,5,1,0,5,['im'],[],"[('did', 'ready'), ('you', 'what'), ('put', 'man'), ('four', 'a'), ('nines', 'bee')]"
+7.0,14,2,2,0,2,"['make', 'a']",[],"[('i', 'no'), ('cannot', 'challenge')]"
+0.5714285714285714,12,21,0,0,3,[],[],"[('all', 'or'), ('but', 'well'), ('wont', 'want')]"
+8.0,16,2,4,0,1,"['next', 'thing', 'in', 'the']",[],"[('deck', 'original')]"
+10.0,10,1,2,0,1,"['he', 'he']",[],"[('hm', 'he')]"
+36.0,36,1,12,0,0,"['let', 'me', 'for', 'a', 'number', 'of', 'time', 'again', 'what', 'can', 'i', 'get']",[],[]
+10.0,10,1,2,0,1,"['card', 'may']",[],"[('cards', 'may')]"
+4.0,4,1,0,0,1,[],[],"[('oops', 'sorry')]"
+3.5,7,2,0,1,1,[],['oops'],"[('dodge', 'best')]"
+0.5,6,12,0,2,0,[],"['cuz', 'like']",[]
+4.0,4,1,0,0,1,[],[],"[('ha', 'huh')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'ah')]"
+1.9,19,10,5,0,1,"['go', 'technique', 'and', 'achieve', 'round']",[],"[('this', 'it')]"
+1.0571428571428572,37,35,4,3,4,"['and', 'its', 'kind', 'it']","['like', 'you', 'know']","[('we', 'you'), ('can', 'cant'), ('ismael', 'made'), ('kinda', 'of')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+1.0,10,10,1,1,1,['need'],['you'],"[('know', 'now')]"
+1.3529411764705883,23,17,0,5,2,[],"['and', 'know', 'you', 'know', 'and']","[('and', 'then'), ('cant', 'can')]"
+6.5,13,2,3,0,1,"['its', 'clear', 'right']",[],"[('very', 'right')]"
+2.4,12,5,0,0,3,[],[],"[('kind', 'than'), ('of', 'a'), ('like', 'flamé')]"
+10.0,20,2,4,0,2,"['like', 'mental', 'time', 'in']",[],"[('too', 'a'), ('tiny', 'process')]"
+6.6,33,5,7,0,3,"['now', 'go', 'in', 'and', 'find', 'one', 'doctor']",[],"[('whats', 'so'), ('up', 'if'), ('it', 'there')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'uhhuh')]"
+0.6666666666666666,6,9,1,1,0,['do'],['is'],[]
+4.0,8,2,0,0,2,[],[],"[('how', 'stop'), ('many', 'anything')]"
+0.75,3,4,0,1,0,[],['like'],[]
+1.8333333333333333,11,6,1,0,2,['pay'],[],"[('sixes', 'cards'), ('play', 'them')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('cards', 'hearts')]"
+0.8333333333333334,15,18,0,1,3,[],['now'],"[('huh', 'i'), ('it', 'think'), ('is', 'its')]"
+7.0,7,1,1,0,1,['kind'],[],"[('yeah', 'of')]"
+4.0,4,1,0,0,1,[],[],"[('whoa', 'good')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+0.8,4,5,0,0,1,[],[],"[('bluff', 'block')]"
+13.0,13,1,3,0,1,"['thank', 'you', 'very']",[],"[('hm', 'much')]"
+1.8387096774193548,57,31,7,0,9,"['at', 'uh', 'king', 'hmm', 'so', 'it', 'depends']",[],"[('i', 'the'), ('suppose', 'code'), ('i', 'id'), ('i', 'id'), ('keep', 'eat'), ('i', 'id'), ('kings', 'huh'), ('she', 'on'), ('calls', 'me')]"
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('huh', 'watching')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'and')]"
+13.0,13,1,3,0,1,"['for', 'the', 'entire']",[],"[('huh', 'game')]"
+1.5,24,16,4,0,3,"['please', 'toferbo', 'ill', 'have']",[],"[('cards', 'to'), ('youre', 'be'), ('out', 'around')]"
+1.4,14,10,0,2,2,[],"['then', 'but']","[('youre', 'anywhere'), ('there', 'ready')]"
+3.0,9,3,3,0,0,"['should', 'be', 'right']",[],[]
+0.7777777777777778,7,9,1,0,1,['you'],[],"[('youre', 'are')]"
+34.0,34,1,10,0,1,"['keep', 'this', 'out', 'of', 'context', 'does', 'butt', 'a', 'man', 'so']",[],"[('cards', 'far')]"
+2.103448275862069,61,29,15,0,4,"['make', 'thats', 'a', 'good', 'argument', 'and', 'no', 'longer', 'a', 'pass', 'for', 'that', 'filter', 'them', 'goes']",[],"[('us', 'is'), ('pass', 'fast'), ('go', 'all'), ('down', 'right')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'mmm')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+14.0,42,3,10,0,3,"['i', 'really', 'thought', 'that', 'this', 'wouldve', 'been', 'simple', 'in', 'years']",[],"[('two', 'amaastava'), ('more', 'and'), ('six', 'ennieukaafunahmo')]"
+1.5,3,2,0,1,0,[],['six'],[]
+4.0,4,1,0,0,1,[],[],"[('challenge', 'janet')]"
+8.5,17,2,3,0,2,"['be', 'funny', 'like']",[],"[('good', 'that'), ('good', 'kid')]"
+3.076923076923077,40,13,4,0,7,"['tell', 'me', 'he', 'was']",[],"[('no', 'now'), ('challenged', 'important'), ('it', 'as'), ('is', 'i'), ('your', 'am'), ('challenge', 'he'), ('shots', 'shorts')]"
+3.0,3,1,1,0,0,['tomato'],[],[]
+7.0,7,1,1,0,1,['thank'],[],"[('hm', 'you')]"
+3.5,7,2,0,1,1,[],['one'],"[('jack', 'vanjak')]"
+2.3333333333333335,7,3,0,1,1,[],['jack'],"[('says', 'such')]"
+3.6666666666666665,11,3,0,1,2,[],['two'],"[('more', 'its'), ('jacks', 'projects')]"
+3.5,7,2,0,1,1,[],['two'],"[('kings', 'booping')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'bye'), ('more', 'bye')]"
+10.0,10,1,2,0,1,"['check', 'it']",[],"[('challenge', 'out')]"
+3.5,7,2,0,1,1,[],['two'],"[('kings', 'bookings')]"
+5.5,11,2,1,0,2,['thanks'],[],"[('one', 'for'), ('more', 'watching')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('pass', 'bye')]"
+5.0,25,5,3,0,4,"['and', 'we', 'will']",[],"[('pass', 'see'), ('me', 'you'), ('theres', 'in'), ('pass', 'second')]"
+8.5,17,2,3,0,2,"['aaaaaaaa', 'funiiii', 'appa']",[],"[('four', 'dos'), ('king', 'stswtven')]"
+34.0,68,2,20,0,2,"['till', 'you', 'might', 'face', 'if', 'you', 'face', 'that', 'he', 'can', 'take', 'a', 'stage', 'in', 'general', 'and', 'stay', 'very', 'adjustments', 'out']",[],"[('bit', 'of'), ('shorter', 'it')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'killard'), ('nine', 'tanner')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('one', 'what'), ('more', 'the')]"
+0.0,0,2,0,0,0,[],[],[]
+23.0,46,2,14,0,1,"['im', 'going', 'to', 'go', 'to', 'the', 'other', 'side', 'going', 'to', 'go', 'to', 'the', 'other']",[],"[('older', 'side')]"
+3.75,15,4,0,1,3,[],['lead'],"[('with', 'you'), ('that', 'look'), ('confidence', 'good')]"
+1.5,3,2,0,1,0,[],['more'],[]
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('hm', 'yeah')]"
+3.5,42,12,1,1,9,['of'],['me'],"[('the', 'we'), ('nine', 'are'), ('fuck', 'bigger'), ('off', 'than'), ('how', 'again'), ('to', 'we'), ('do', 'are'), ('that', 'larger'), ('though', 'yourself')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'it'), ('more', 'hurt')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('more', 'bye')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'thank'), ('more', 'you')]"
+4.0,8,2,0,0,2,[],[],"[('perfect', 'very'), ('island', 'satisfying')]"
+4.0,8,2,0,0,2,[],[],"[('science', 'chinese'), ('project', 'mill')]"
+7.0,7,1,1,0,1,['thank'],[],"[('hm', 'you')]"
+4.0,4,1,0,0,1,[],[],"[('ahh', 'aaah')]"
+4.0,4,1,0,0,1,[],[],"[('nice', 'i')]"
+13.0,13,1,3,0,1,"['thank', 'you', 'very']",[],"[('game', 'much')]"
+0.0,0,1,0,0,0,[],[],[]
+2.3333333333333335,14,6,2,0,2,"['if', 'you']",[],"[('okay', 'get'), ('steady', 'still')]"
+4.0,12,3,0,0,3,[],[],"[('two', 'thanks'), ('more', 'for'), ('nights', 'watching')]"
+5.5,11,2,1,0,2,['okay'],[],"[('ok', 'its'), ('challenge', 'heavy')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'hahahaha')]"
+19.0,19,1,5,0,1,"['de', 'persecuting', 'pillar', 'for', 'aboard']",[],"[('finally', 'film')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('challenge', 'channel')]"
+10.0,10,1,2,0,1,"['and', 'the']",[],"[('ha', 'linearity')]"
+5.5,22,4,2,0,4,"['may', 'i']",[],"[('you', 'have'), ('made', 'a'), ('that', 'good'), ('before', 'one')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,21,6,2,1,3,"['dont', 'kill']",['thought'],"[('you', 'dont'), ('had', 'run'), ('fours', 'so')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'boom')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'boom')]"
+6.0,6,1,2,0,0,"['me', 'later']",[],[]
+3.5,7,2,0,1,1,[],['four'],"[('six', 'growth')]"
+0.0,0,2,0,0,0,[],[],[]
+34.0,34,1,10,0,1,"['but', 'both', 'are', 'a', 'few', 'things', 'in', 'turn', 'of', 'the']",[],"[('what', 'deal')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('more', 'tomo')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'thank'), ('more', 'you')]"
+3.0,3,1,1,0,0,['font'],[],[]
+10.0,10,1,2,0,1,"['see', 'you']",[],"[('two', 'too')]"
+10.0,10,1,2,0,1,"['to', 'hear']",[],"[('two', 'it')]"
+7.0,7,1,1,0,1,['thank'],[],"[('ha', 'you')]"
+2.0,4,2,0,0,1,[],[],"[('six', 'take')]"
+10.0,20,2,4,0,2,"['youll', 'never', 'forget', 'to']",[],"[('two', 'go'), ('jacks', 'check')]"
+2.0,4,2,0,0,1,[],[],"[('two', 'no')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'it'), ('more', 'off')]"
+5.5,11,2,1,0,2,['ch'],[],"[('two', 'card'), ('more', 'to')]"
+5.5,11,2,1,0,2,['done'],[],"[('challenge', 'ya'), ('oh', 'awhh')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('oh', 'ohhhhhh')]"
+4.333333333333333,26,6,2,0,5,"['the', 'wind']",[],"[('thanks', 'is'), ('who', 'a'), ('ever', 'challenge'), ('wins', 'its'), ('the', 'a')]"
+0.5,14,28,2,0,2,"['you', 'will']",[],"[('youll', 'get'), ('later', 'to')]"
+13.0,13,1,3,0,1,"['wavelength', 'working', 'of']",[],"[('okay', 'bang')]"
+1.6842105263157894,32,19,7,1,2,"['because', 'i', 'got', 'to', 'eat', 'jati', 'kakar']",['worth'],"[('well', 'but'), ('card', 'dharman')]"
+1.5,18,12,0,2,3,[],"['but', 'telling']","[('you', 'a'), ('to', 'neutral'), ('pair', 'player')]"
+21.5,43,2,13,0,1,"['this', 'is', 'my', 'last', 'so', 'i', 'am', 'sure', 'you', 'can', 'ok', 'now', 'lets']",[],"[('okay', 'go')]"
+9.222222222222221,83,9,25,0,2,"['a', 'little', 'preword', 'when', 'im', 'making', 'it', 'out', 'of', 'the', 'wrist', 'clean', 'im', 'going', 'to', 'try', 'to', 'get', 'it', 'out', 'of', 'the', 'safe', 'liquor', 'and']",[],"[('risk', 'i'), ('reward', 'thought')]"
+4.333333333333333,39,9,5,0,6,"['i', 'dont', 'know', 'chat', 'stand']",[],"[('challenge', 'with'), ('it', 'anybody'), ('or', 'can'), ('the', 'up'), ('next', 'for'), ('person', 'something')]"
+13.0,26,2,6,0,2,"['and', 'he', 'would', 'be', 'good', 'that']",[],"[('anybody', 'was'), ('can', 'it')]"
+4.0,4,1,0,0,1,[],[],"[('eight', 'it')]"
+1.5,3,2,0,1,0,[],['oops'],[]
+3.5,7,2,0,1,1,[],['three'],"[('eight', 'create')]"
+0.0,0,1,0,0,0,[],[],[]
+5.0,15,3,1,0,3,['very'],[],"[('lets', 'clear'), ('play', 'about'), ('around', 'it')]"
+0.0,0,2,0,0,0,[],[],[]
+2.0,6,3,1,1,0,['can'],['make'],[]
+3.6666666666666665,11,3,0,1,2,[],['mm'],"[('two', 'option'), ('ace', 'bye')]"
+3.6666666666666665,11,3,0,1,2,[],['watch'],"[('out', 'thank'), ('everybody', 'you')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['stand'],[],"[('challenge', 'up')]"
+8.666666666666666,26,3,6,0,2,"['see', 'if', 'you', 'can', 'whip', 'all']",[],"[('nice', 'right'), ('good', 'shoot')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'bye')]"
+4.0,8,2,0,0,2,[],[],"[('blue', 'ad'), ('jack', 'rosa')]"
+3.75,15,4,0,1,3,[],['you'],"[('would', 'worse'), ('have', 'time'), ('jacks', 'trips')]"
+5.0,15,3,1,0,3,['thank'],[],"[('oh', 'you'), ('my', 'very'), ('god', 'much')]"
+2.0,4,2,0,0,1,[],[],"[('two', 'no')]"
+7.0,7,1,1,0,1,['not'],[],"[('bad', 'really')]"
+3.5,7,2,0,1,1,[],['still'],"[('winning', 'inteca')]"
+16.0,32,2,8,0,2,"['i', 'cant', 'think', 'of', 'something', 'withoutus', 'but', 'what']",[],"[('many', 'you'), ('more', 'need')]"
+8.0,24,3,7,1,0,"['which', 'will', 'help', 'in', 'other', 'legs', 'everyday']",['clues'],[]
+0.5,10,20,1,1,1,['can'],['today'],"[('will', 'you')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'mm')]"
+0.0,0,17,0,0,0,[],[],[]
+2.6,26,10,6,0,2,"['for', 'people', 'asking', 'both', 'are', 'active']",[],"[('uh', 'to'), ('perhaps', 'live')]"
+13.0,26,2,6,0,2,"['i', 'will', 'see', 'you', 'in', 'the']",[],"[('last', 'next'), ('time', 'video')]"
+1.1111111111111112,20,18,3,1,2,"['you', 'i', 'that']",['and'],"[('youll', 'will'), ('ill', 'will')]"
+2.25,18,8,1,1,3,['do'],['you'],"[('and', 'or'), ('whatever', 'different'), ('take', 'big')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('ok', 'okay')]"
+2.8,14,5,2,0,2,"['for', 'the']",[],"[('pupil', 'smithpupil'), ('me', 'need')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'and')]"
+0.6666666666666666,6,9,2,0,0,"['the', 'the']",[],[]
+13.0,13,1,3,0,1,"['record', 'saudi', 'champion']",[],"[('okay', 'and')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'bye')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('block', 'left')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'mm')]"
+1.6666666666666667,20,12,2,2,2,"['bluffs', 'tk']","['next', 'time']","[('bluff', 'can'), ('bluff', 'gloves')]"
+4.0,4,1,0,0,1,[],[],"[('so', 'hello')]"
+0.14285714285714285,3,21,0,1,0,[],['uhm'],[]
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('hm', 'watching')]"
+4.0,4,1,0,0,1,[],[],"[('alright', 'and')]"
+7.0,7,1,1,0,1,['please'],[],"[('hmm', 'dont')]"
+19.0,19,1,5,0,1,"['of', 'what', 'we', 'are', 'talking']",[],"[('hmm', 'in')]"
+4.0,4,1,0,0,1,[],[],"[('remembering', 'bounds')]"
+12.857142857142858,180,14,44,0,12,"['now', 'i', 'hope', 'you', 'enjoy', 'the', 'video', 'if', 'you', 'want', 'want', 'support', 'ill', 'tell', 'you', 'why', 'it', 'will', 'last', 'week', 'dont', 'why', 'we', 'shouldnt', 'get', 'it', 'or', 'not', 'disciplines', 'that', 'may', 'make', 'sure', 'your', 'eyes', 'arent', 'full', 'of', 'effort', 'but', 'i', 'hope', 'you', 'are']",[],"[('point', 'happen'), ('pass', 'to'), ('can', 'forget'), ('just', 'to'), ('pass', 'there'), ('pass', 'to'), ('all', 'ask'), ('cards', 'me'), ('remain', 'buzz'), ('in', 'me'), ('someone', 'bulls'), ('hands', 'up')]"
+28.0,28,1,8,0,1,"['toy', 'new', 'episodes', 'of', 'little', 'star', 'wars', 'next']",[],"[('pass', 'time')]"
+6.0,18,3,2,0,3,"['and', 'how']",[],"[('mix', 'that'), ('mix', 'wid'), ('mix', 'worse')]"
+1.1818181818181819,13,11,0,3,1,[],"['i', 'single', 'eh']","[('will', 'ill')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'bye')]"
+3.5,7,2,0,1,1,[],['ha'],"[('joker', 'r')]"
+4.0,20,5,0,0,5,[],[],"[('fine', 'and'), ('joker', 'youll'), ('counts', 'go'), ('for', 'on'), ('anything', 'swinging')]"
+4.0,4,1,0,0,1,[],[],"[('ok', 'open')]"
+1.875,30,16,1,1,6,['are'],['then'],"[('two', 'they'), ('jokers', 'can'), ('then', 'count'), ('jokers', 'as'), ('can', 'anything'), ('cards', 'god')]"
+10.0,10,1,2,0,1,"['i', 'dont']",[],"[('ha', 'know')]"
+2.2,11,5,1,0,2,['too'],[],"[('one', 'none'), ('joker', 'good')]"
+7.285714285714286,51,7,9,0,6,"['fuck', 'she', 'was', 'an', 'ki', 'bitten', 'name', 'in', 'the']",[],"[('joker', 'morning'), ('and', 'when'), ('uh', 'going'), ('she', 'back'), ('said', 'got'), ('like', 'her')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'huh')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'oh')]"
+0.5483870967741935,17,31,2,1,2,"['wall', 'around']",['decks'],"[('here', 'days'), ('the', 'that')]"
+5.5,11,2,1,0,2,['dont'],[],"[('two', 'do'), ('there', 'that')]"
+7.0,28,4,8,0,1,"['while', 'i', 'rucks', 'up', 'the', 'second', 'one', 'off']",[],"[('no', 'ah')]"
+5.5,11,2,1,0,2,['peace'],[],"[('passing', 'and'), ('passing', 'justice')]"
+2.5,35,14,2,3,5,"['parthing', 'in']","['if', 'counter', 'clockwise']","[('uh', 'the'), ('passing', 'rule'), ('he', 'we'), ('i', 'ill'), ('clockwise', 'counterclockwisewarming')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+7.0,7,1,1,0,1,['thank'],[],"[('left', 'you')]"
+2.2857142857142856,32,14,8,0,2,"['clicker', 'then', 'the', 'filter', 'is', 'not', 'localized', 'there']",[],"[('clockwise', 'again'), ('guys', 'ways')]"
+13.0,13,1,3,0,1,"['always', 'in', 'the']",[],"[('ha', 'game')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'edward')]"
+10.0,10,1,2,0,1,"['see', 'you']",[],"[('hm', 'andconnor')]"
+4.777777777777778,43,9,9,0,4,"['pass', 'nice', 'like', 'what', 'chefs', 'passion', 'for', 'unf', 'mo']",[],"[('and', 'like'), ('if', 'a'), ('you', 'single'), ('like', 'grillout')]"
+4.0,4,1,0,0,1,[],[],"[('ha', 'time')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'okay')]"
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('ha', 'watching')]"
+1.3829787234042554,65,47,15,0,5,"['was', 'like', 'have', 'you', 'got', 'a', 'gunner', 'again', 'and', 'im', 'gonna', 'lay', 'this', 'of', 'work']",[],"[('keep', 'many'), ('on', 'pawn'), ('call', 'called'), ('to', 'do'), ('be', 'you')]"
+0.0,0,3,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('hm', 'okay')]"
+1.5714285714285714,11,7,1,0,2,['poo'],[],"[('youre', 'its'), ('two', 'bag')]"
+0.0,0,4,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['thank'],[],"[('alright', 'you')]"
+2.888888888888889,26,9,6,0,2,"['many', 'you', 'dont', 'have', 'to', 'play']",[],"[('then', 'years'), ('pass', 'again')]"
+7.0,7,1,1,0,1,['thank'],[],"[('fuck', 'you')]"
+1.2142857142857142,17,14,3,0,2,"['you', 'will', 'end']",[],"[('would', 'will'), ('easy', 'it')]"
+9.5,19,2,5,0,1,"['that', 'part', 'can', 'do', 'it']",[],"[('ka', 'times')]"
+10.0,20,2,4,0,2,"['i', 'cant', 'believe', 'it']",[],"[('that', 'five'), ('card', 'thousand')]"
+40.0,40,1,12,0,1,"['if', 'you', 'have', 'any', 'questions', 'i', 'will', 'see', 'you', 'in', 'the', 'next']",[],"[('cards', 'video')]"
+2.0,4,2,0,0,1,[],[],"[('two', 'to')]"
+4.0,4,1,0,0,1,[],[],"[('seven', 'box')]"
+4.0,4,1,0,0,1,[],[],"[('seven', 'kevin')]"
+0.0,0,1,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['see'],[],"[('six', 'you')]"
+7.0,7,1,1,0,1,['yippo'],[],"[('you', 'kanshuta')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('three', 'im'), ('more', 'sorry')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'fall'), ('more', 'slip')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'dream'), ('more', 'angry')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'pause')]"
+13.0,13,1,3,0,1,"['poss', 'o', 'after']",[],"[('pass', 'that')]"
+5.0,10,2,2,0,1,"['up', 'to']",[],"[('happy', 'you')]"
+7.0,14,2,2,0,2,"['or', 'the']",[],"[('four', 'fourth'), ('nines', 'words')]"
+3.5,7,2,0,1,1,[],['four'],"[('twos', 'fordube')]"
+13.0,13,1,3,0,1,"['it', 'fingabelle', 'you']",[],"[('oh', 'ststroke')]"
+40.0,40,1,12,0,1,"['i', 'dont', 'know', 'im', 'thinking', 'of', 'the', 'beginning', 'im', 'not', 'your', 'last']",[],"[('chance', 'product')]"
+18.0,18,1,6,0,0,"['i', 'am', 'taking', 'focus', 'on', 'this']",[],[]
+2.3333333333333335,7,3,1,0,1,['link'],[],"[('play', 'it')]"
+4.0,8,2,0,0,2,[],[],"[('mhm', 'happy'), ('ha', 'boxing')]"
+3.0,21,7,0,3,3,[],"['ha', 'uh', 'spade']","[('count', 'yeah'), ('really', 'we'), ('spade', 'huh')]"
+3.5,7,2,1,0,1,['very'],[],"[('really', 'little')]"
+3.238095238095238,68,21,11,1,8,"['a', 'configuration', 'exercise', 'and', 'then', 'okay', 'we', 'can', 'just', 'have', 'one']",['individually'],"[('of', 'and'), ('seven', 'then'), ('diamonds', 'we'), ('wings', 'can'), ('well', 'individual'), ('will', 'you'), ('soon', 'probably'), ('scan', 'have')]"
+13.0,13,1,3,0,1,"['enise', 'fuckes', 'in']",[],"[('okay', 'harder')]"
+7.0,7,1,1,0,1,['op'],[],"[('club', 'nom')]"
+4.0,16,4,0,0,4,[],[],"[('heart', 'art'), ('jack', 'nothin'), ('heart', 'art'), ('heart', 'art')]"
+0.0,0,9,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+2.9166666666666665,35,12,0,9,2,[],"['swimmers', 'i', 'dont', 'think', 'thus', 'is', 'your', 'ice', 'cream']","[('what', 'welcome'), ('like', 'to')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['yes'],"[('look', 'this'), ('at', 'okay')]"
+0.0,0,1,0,0,0,[],[],[]
+3.0,3,1,1,0,0,['oh'],[],[]
+10.0,10,1,2,0,1,"['happy', 'santa']",[],"[('nasty', 'fe')]"
+0.0,0,9,0,0,0,[],[],[]
+3.8333333333333335,46,12,0,2,10,[],"['i', 'went']","[('through', 'to'), ('it', 'watch'), ('the', 'you'), ('other', 'do'), ('night', 'what'), ('threw', 'i'), ('some', 'am'), ('myself', 'just'), ('away', 'for'), ('instead', 'this')]"
+5.5,11,2,1,0,2,['i'],[],"[('take', 'love'), ('this', 'unimodelessness')]"
+2.0,8,4,0,0,2,[],[],"[('yeah', 'blah'), ('mine', 'my')]"
+3.5,21,6,1,2,3,['see'],"['these', 'are']","[('yours', 'see'), ('want', 'what'), ('one', 'runs')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.8888888888888888,8,9,0,0,2,[],[],"[('cause', 'good'), ('its', 'as')]"
+3.3333333333333335,10,3,1,1,1,['thank'],['found'],"[('them', 'father')]"
+4.0,4,1,0,0,1,[],[],"[('yep', 'yup')]"
+1.0,10,10,1,1,1,['on'],['it'],"[('unopened', 'open')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+3.3125,53,16,0,11,5,[],"['second', 'chad', 'is', 'a', 'small', 'town', 'located', 'in', 'the', 'state', 'of']","[('southern', 'that'), ('crisis', 'tooknt'), ('injured', 'out'), ('province', 'pretty'), ('area', 'much')]"
+3.8,19,5,0,1,4,[],['that'],"[('prides', 'let'), ('themselves', 'it'), ('on', 'go'), ('using', 'touch')]"
+4.0,8,2,0,0,2,[],[],"[('mm', 'thank'), ('hmm', 'you')]"
+0.0,0,6,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('uhuh', 'byebye')]"
+4.4,22,5,2,0,4,"['love', 'can']",[],"[('have', 'we'), ('you', 'play'), ('played', 'it'), ('before', 'shiver')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,8,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('hmm', 'for')]"
+0.5384615384615384,7,13,0,1,1,[],['um'],"[('hands', 'hand')]"
+0.0,0,1,0,0,0,[],[],[]
+4.333333333333333,65,15,18,1,2,"['based', 'on', 'the', 'kani', 'kani', 'kahaha', 'or', 'the', 'kani', 'kahaha', 'or', 'the', 'king', 'for', 'king', 'for', 'visepthain', 'have']",['uh'],"[('face', 'you'), ('down', 'visepthain')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'good')]"
+3.0,3,1,0,1,0,[],['hmm'],[]
+8.5,17,2,3,0,2,"['shfamir', 'welcomed', 'to']",[],"[('call', 'cross'), ('out', 'the')]"
+4.0,4,1,0,0,1,[],[],"[('ah', 'bye')]"
+4.0,4,1,0,0,1,[],[],"[('ah', 'bye')]"
+4.0,4,1,0,0,1,[],[],"[('two', 'go')]"
+7.0,7,1,1,0,1,['thank'],[],"[('because', 'you')]"
+3.0,12,4,0,0,3,[],[],"[('a', 'ill'), ('whole', 'turn'), ('talent', 'everything')]"
+97.0,97,1,31,0,1,"['only', 'cloths', 'as', 'lot', 'of', 'steam', 'and', 'stuff', 'and', 'all', 'these', 'annual', 'brick', 'that', 'stuffs', 'just', 'all', 'about', 'lets', 'ehh', 'go', 'get', 'it', 'good', 'luck', 'and', 'have', 'a', 'good', 'day', 'on']",[],"[('india', 'guys')]"
+3.0,18,6,1,5,0,['thank'],"['can', 'just', 'say', 'pass', 'pass']",[]
+7.0,7,1,1,0,1,['thank'],[],"[('uhoh', 'you')]"
+4.75,19,4,1,0,4,['even'],[],"[('oh', 'a'), ('single', 'bathroom'), ('its', 'in'), ('okay', 'baltimore')]"
+0.0,0,6,0,0,0,[],[],[]
+2.75,11,4,1,0,2,['i'],[],"[('ill', 'will'), ('decks', 'dps')]"
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('uh', 'watching')]"
+0.0,0,4,0,0,0,[],[],[]
+19.0,19,1,5,0,1,"['hy', 'withingalogme', 'de', 'al', 'vide']",[],"[('single', 'bolikake')]"
+4.0,8,2,0,0,2,[],[],"[('joker', 'ah'), ('card', 'yeah')]"
+3.0,18,6,2,0,3,"['youll', 'go']",[],"[('ah', 'alright'), ('joker', 'go'), ('counts', 'on')]"
+0.0,0,1,0,0,0,[],[],[]
+1.5294117647058822,26,17,1,1,5,['two'],['so'],"[('there', 'they'), ('jokers', 'kings'), ('counter', 'count'), ('them', 'as'), ('card', 'anything')]"
+0.0,0,1,0,0,0,[],[],[]
+7.285714285714286,51,7,12,1,3,"['so', 'i', 'manage', 'to', 'take', 'her', 'the', 'wardrobe', 'we', 'just', 'will', 'this']",['she'],"[('joker', 'life'), ('call', 'what'), ('liar', 'difficult')]"
+0.5789473684210527,11,19,0,1,2,[],['so'],"[('there', 'we'), ('are', 'have')]"
+0.0,0,1,0,0,0,[],[],[]
+1.0,4,4,0,0,1,[],[],"[('a', 'the')]"
+2.0,10,5,2,0,1,"['molar', 'root']",[],"[('the', 'that')]"
+4.0,24,6,0,0,6,[],[],"[('one', 'thank'), ('game', 'you'), ('passing', 'very'), ('a', 'much'), ('lot', 'for'), ('of', 'watching')]"
+19.0,19,1,5,0,1,"['i', 'will', 'talk', 'to', 'you']",[],"[('passing', 'later')]"
+10.0,10,1,2,0,1,"['talking', 'on']",[],"[('passing', 'arul')]"
+0.0,0,1,0,0,0,[],[],[]
+5.0,25,5,3,0,4,"['have', 'to', 'do']",[],"[('oh', 'for'), ('and', 'what'), ('could', 'with'), ('it', 'celebrate')]"
+3.0833333333333335,37,12,0,11,1,[],"['ah', 'passing', 'lets', 'say', 'if', 'he', 'starts', 'and', 'i', 'play', 'something']","[('counterclockwise', 'jew')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'p')]"
+7.0,7,1,1,0,1,['and'],[],"[('hmm', 'breathe')]"
+5.0,10,2,2,0,1,"['click', 'at']",[],"[('clicker', 'us')]"
+6.666666666666667,20,3,4,0,2,"['lets', 'click', 'there', 'okay']",[],"[('left', 'on'), ('clicker', 'the')]"
+3.0,3,1,0,1,0,[],['uh'],[]
+3.0,3,1,0,1,0,[],['oh'],[]
+4.0,4,1,0,0,1,[],[],"[('oh', 'bye')]"
+0.6666666666666666,8,12,0,0,2,[],[],"[('your', 'you'), ('guys', 'ways')]"
+7.0,7,1,1,0,1,['out'],[],"[('okay', 'there')]"
+3.75,30,8,10,0,0,"['pass', 'like', 'tino', 'ne', 'kardia', 'to', 'give', 'him', 'a', 'hachalega']",[],[]
+4.0,4,1,0,0,1,[],[],"[('uh', 'video')]"
+4.0,8,2,0,0,2,[],[],"[('card', 'a'), ('game', 'chair')]"
+1.4871794871794872,58,39,1,13,4,['i'],"['and', 'i', 'keep', 'on', 'continuing', 'because', 'no', 'one', 'called', 'me', 'out', 'like', 'to']","[('its', 'sleep'), ('the', 'in'), ('be', 'if'), ('to', 'you')]"
+4.0,4,1,0,0,1,[],[],"[('uh', 'uhm')]"
+0.0,0,1,0,0,0,[],[],[]
+0.5,3,6,1,0,0,['net'],[],[]
+0.0,0,1,0,0,0,[],[],[]
+1.3333333333333333,4,3,0,0,1,[],[],"[('okay', 'so')]"
+3.5,7,2,0,1,1,[],['were'],"[('just', 'you')]"
+0.0,0,4,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('decks', 'favored')]"
+0.5,3,6,0,1,0,[],['play'],[]
+1.4666666666666666,22,15,2,0,4,"['play', 'will']",[],"[('because', 'well'), ('if', 'be'), ('we', 'a'), ('want', 'wand')]"
+3.0,15,5,0,1,3,[],['one'],"[('deck', 'that'), ('in', 'can'), ('the', 'be')]"
+6.75,27,4,5,0,3,"['condiment', 'i', 'am', 'going', 'to']",[],"[('whenever', 'avoid'), ('time', 'curling'), ('were', 'it')]"
+8.5,17,2,3,0,2,"['in', 'the', 'last']",[],"[('or', 'sylpes'), ('but', 'room')]"
+2.3333333333333335,7,3,0,1,1,[],['are'],"[('we', 'available')]"
+3.5,7,2,0,1,1,[],['oops'],"[('sarge', 'dodge')]"
+7.0,7,1,1,0,1,['good'],[],"[('hmm', 'correla')]"
+1.5454545454545454,17,11,0,3,2,[],"['the', 'habit', 'of']","[('like', 'to'), ('checking', 'check')]"
+4.0,4,1,0,0,1,[],[],"[('uhhuh', 'bye')]"
+1.0851063829787233,51,47,5,8,3,"['dont', 'take', 'naked', 'mitchies', 'mitch']","['we', 'can', 'figure', 'out', 'but', 'like', 'you', 'know']","[('maybe', 'the'), ('main', 'the'), ('flyer', 'fly')]"
+4.0,4,1,0,0,1,[],[],"[('uh', 'ais')]"
+1.16,29,25,1,6,2,['be'],"['you', 'know', 'and', 'you', 'still', 'and']","[('can', 'cant'), ('can', 'cant')]"
+0.0,0,3,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('more', 'i'), ('kind', 'have'), ('of', 'a'), ('like', 'tv')]"
+10.0,10,1,2,0,1,"['i', 'am']",[],"[('time', 'never')]"
+3.142857142857143,22,7,2,0,4,"['does', 'coevicard']",[],"[('though', 'so'), ('doesnt', 'not'), ('card', 'the'), ('or', 'closedratula')]"
+14.5,29,2,7,0,2,"['because', 'when', 'we', 'think', 'about', 'todd', 'and']",[],"[('card', 'started'), ('card', 'with')]"
+10.0,10,1,2,0,1,"['i', 'love']",[],"[('ah', 'you')]"
+0.0,0,1,0,0,0,[],[],[]
+5.0,10,2,2,0,1,"['the', 'mado']",[],"[('card', 'concorde')]"
+3.5,7,2,0,1,1,[],['mm'],"[('hmm', 'good')]"
+3.0,27,9,0,1,6,[],['you'],"[('have', 'youre'), ('to', 'too'), ('say', 'pale'), ('how', 'im'), ('many', 'in'), ('is', 'you')]"
+2.3333333333333335,7,3,1,0,1,['with'],[],"[('what', 'them')]"
+5.0,15,3,1,0,3,['pattern'],[],"[('how', 'of'), ('many', 'illustrated'), ('cards', 'images')]"
+2.72,68,25,0,16,5,[],"['how', 'uh', 'art', 'king', 'it', 'is', 'easier', 'for', 'you', 'to', 'get', 'rid', 'them', 'at', 'the', 'same']","[('many', 'i'), ('sixes', 'saw'), ('of', 'any'), ('many', 'number'), ('time', 'cards')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('cards', 'clubs')]"
+5.5,11,2,1,0,2,['that'],[],"[('uh', 'was'), ('oh', 'good')]"
+5.5,22,4,2,0,4,"['ill', 'get']",[],"[('okay', 'it'), ('right', 'ill'), ('right', 'get'), ('right', 'it')]"
+0.8,4,5,0,0,1,[],[],"[('bluff', 'block')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'love')]"
+0.696969696969697,23,33,2,3,2,"['the', 'legend']","['um', 'uh', 'uh']","[('i', 'as'), ('kings', 'things')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'from')]"
+3.0,3,1,0,1,0,[],['huh'],[]
+3.3,33,10,0,3,6,[],"['if', 'i', 'call']","[('you', 'and'), ('liar', 'she'), ('or', 'calls'), ('i', 'a'), ('i', 'letter'), ('challenge', 'look')]"
+2.909090909090909,32,11,4,0,5,"['or', 'in', 'a', 'chat']",[],"[('hmm', 'and'), ('uh', 'june'), ('oh', 'or'), ('oh', 'whatever'), ('okay', 'ok')]"
+0.0,0,9,0,0,0,[],[],[]
+1.625,13,8,1,2,1,['you'],"['if', 'i']","[('youre', 'are')]"
+0.0,0,1,0,0,0,[],[],[]
+11.8,59,5,13,0,5,"['because', 'im', 'proud', 'to', 'have', 'me', 'to', 'be', 'silent', 'maybe', 'not', 'at', 'your']",[],"[('these', 'fail'), ('are', 'on'), ('the', 'your'), ('cards', 'links'), ('i', 'participants')]"
+1.303030303030303,43,33,5,0,7,"['make', 'it', 'so', 'for', 'like']",[],"[('makes', 'organized'), ('organizing', 'and'), ('fun', 'point'), ('not', 'normally'), ('normal', 'a'), ('or', 'larkilkatt'), ('give', 'keep')]"
+3.5,7,2,0,1,1,[],['six'],"[('six', 'sixsix')]"
+0.0,0,2,0,0,0,[],[],[]
+10.0,10,1,2,0,1,"['our', 'veterans']",[],"[('call', 'year')]"
+8.333333333333334,50,6,10,0,5,"['if', 'i', 'argument', 'for', 'all', 'you', 'must', 'they', 'will', 'be']",[],"[('cheers', 'had'), ('my', 'able'), ('call', 'to'), ('two', 'enthrate'), ('more', 'them')]"
+2.0,4,2,0,0,1,[],[],"[('six', 'pick')]"
+10.0,10,1,2,0,1,"['ateurs', 'shall']",[],"[('challenge', 'carry')]"
+3.1666666666666665,19,6,0,5,1,[],"['hashtag', 'yeah', 'oh', 'good', 'good']","[('good', 'therapy')]"
+1.8,27,15,1,0,6,['he'],[],"[('it', 'was'), ('is', 'important'), ('your', 'that'), ('chance', 'i'), ('important', 'am'), ('shots', 'shorts')]"
+4.0,4,1,0,0,1,[],[],"[('okay', 'tiiolence')]"
+19.0,19,1,5,0,1,"['who', 'gets', 'to', 'call', 'the']",[],"[('hmm', 'shorts')]"
+2.0,4,2,0,0,1,[],[],"[('jack', 'jag')]"
+4.0,12,3,0,0,3,[],[],"[('six', 'thanks'), ('one', 'for'), ('jack', 'watching')]"
+3.6,18,5,2,0,3,"['its', 'for']",[],"[('do', 'its'), ('it', 'not'), ('pass', 'me')]"
+3.6666666666666665,11,3,0,1,2,[],['do'],"[('it', 'with'), ('again', 'you')]"
+3.3333333333333335,10,3,0,2,1,[],"['two', 'more']","[('jacks', 'projects')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'go'), ('jacks', 'check')]"
+2.0,4,2,0,0,1,[],[],"[('two', 'for')]"
+7.0,14,2,2,0,2,"['as', 'for']",[],"[('two', 'your'), ('more', 'mission')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'iieri')]"
+4.0,8,2,0,0,2,[],[],"[('challenge', 'oh'), ('woah', 'good')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('woah', 'ohhh')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('game', 'camera')]"
+4.0,12,3,0,0,3,[],[],"[('are', 'ill'), ('we', 'be'), ('going', 'anything')]"
+1.75,7,4,1,0,1,['we'],[],"[('whoever', 'were')]"
+7.0,7,1,1,0,1,['bye'],[],"[('hmm', 'now')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('gets', 'get')]"
+0.36666666666666664,11,30,1,0,2,['you'],[],"[('youll', 'will'), ('play', 'do')]"
+0.0,0,1,0,0,0,[],[],[]
+1.5,33,22,6,1,3,"['chance', 'because', 'i', 'got', 'to', 'your']",['if'],"[('worth', 'eat'), ('chance', 'other'), ('because', 'day')]"
+10.0,10,1,2,0,1,"['talons', 'tehran']",[],"[('hmm', 'wwwistaniqarcom')]"
+11.5,23,2,5,0,2,"['and', 'after', 'all', 'i', 'dont']",[],"[('hmm', 'like'), ('hmm', 'obstacles')]"
+1.8125,29,16,2,1,5,"['but', 'your']",['just'],"[('well', 'thirdplayer'), ('you', 'is'), ('thought', 'the'), ('that', 'excuse'), ('i', 'me')]"
+16.0,16,1,4,0,1,"['im', 'like', 'i', 'dont']",[],"[('hmm', 'know')]"
+14.5,29,2,7,0,2,"['i', 'that', 'is', 'my', 'collecting', 'money', 'by']",[],"[('oh', 'the'), ('okay', 'end')]"
+5.333333333333333,32,6,8,0,2,"['nice', 'its', 'but', 'the', 'mikoto', 'does', 'the', 'order']",[],"[('nay', 'going'), ('nay', 'good')]"
+0.8571428571428571,6,7,0,2,0,[],"['see', 'hopefully']",[]
+0.9090909090909091,10,11,0,2,1,[],"['or', 'okay']","[('its', 'it')]"
+9.0,18,2,6,0,0,"['challenge', 'it', 'not', 'just', 'the', 'left']",[],[]
+3.5,7,2,0,1,1,[],['three'],"[('eight', 'create')]"
+5.5,11,2,1,0,2,['see'],[],"[('three', 'you'), ('eight', 'later')]"
+0.0,0,1,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['do'],"[('it', 'hunts')]"
+3.5,7,2,0,1,1,[],['its'],"[('a', 'okay')]"
+7.0,7,1,1,0,1,['its'],[],"[('ace', 'poop')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'huh')]"
+2.0,4,2,0,0,1,[],[],"[('two', 'poof')]"
+11.5,23,2,5,0,2,"['for', 'what', 'i', 'made', 'you']",[],"[('oh', 'body'), ('its', 'now')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'no')]"
+7.0,7,1,1,0,1,['thats'],[],"[('alright', 'good')]"
+7.0,14,2,2,0,2,"['and', 'theyre']",[],"[('one', 'gonna'), ('eight', 'leave')]"
+0.0,0,2,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['thanks'],[],"[('two', 'for'), ('more', 'watching')]"
+4.0,4,1,0,0,1,[],[],"[('nice', 'bye')]"
+7.0,14,2,2,0,2,"['thank', 'you']",[],"[('one', 'very'), ('more', 'much')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('challenge', 'and')]"
+4.0,8,2,0,0,2,[],[],"[('case', 'cheers'), ('huh', 'now')]"
+10.0,10,1,2,0,1,"['mm', 'thats']",[],"[('nice', 'awesome')]"
+2.0,4,2,0,0,1,[],[],"[('good', 'great')]"
+9.0,9,1,3,0,0,"['see', 'you', 'later']",[],[]
+0.0,0,1,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('two', 'im')]"
+3.0,9,3,1,2,0,['thank'],"['do', 'not']",[]
+4.0,8,2,0,0,2,[],[],"[('have', 'strong'), ('jacks', 'ball')]"
+4.0,4,1,0,0,1,[],[],"[('one', 'and')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'come'), ('more', 'on')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'for'), ('more', 'what')]"
+9.0,27,3,5,0,3,"['i', 'dont', 'think', 'this', 'thing']",[],"[('for', 'will'), ('the', 'happen'), ('win', 'instead')]"
+6.5,65,10,14,1,5,"['ill', 'give', 'it', 'a', 'first', 'a', 'little', 'bit', 'more', 'ill', 'give', 'you', 'a', 'good']",['how'],"[('many', 'any'), ('are', 'thing'), ('let', 'give'), ('play', 'thing'), ('okay', 'ok')]"
+0.0,0,1,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['three'],"[('kings', 'be')]"
+10.0,10,1,2,0,1,"['i', 'dont']",[],"[('yoga', 'know')]"
+10.0,10,1,2,0,1,"['im', 'feeling']",[],"[('oh', 'you')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'go'), ('four', 'forward')]"
+3.0,24,8,0,4,3,[],"['good', 'yes', 'thought', 'you']","[('had', 'dont'), ('more', 'even'), ('fours', 'know')]"
+0.0,0,2,0,0,0,[],[],[]
+11.5,23,2,5,0,2,"['the', 'first', 'level', 'couldve', 'clear']",[],"[('three', 'great'), ('fours', 'right')]"
+7.0,7,1,1,0,1,['do'],[],"[('two', 'not')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'love'), ('more', 'you')]"
+5.5,11,2,1,0,2,['believe'],[],"[('three', 'in'), ('more', 'god')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('three', 'thank'), ('more', 'you')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'trust')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'bye')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'extraordinary'), ('nines', 'else')]"
+8.5,17,2,3,0,2,"['thank', 'you', 'for']",[],"[('four', 'your'), ('twos', 'graphics')]"
+7.0,7,1,1,0,1,['thank'],[],"[('okay', 'you')]"
+0.0,0,3,0,0,0,[],[],[]
+10.666666666666666,32,3,8,0,2,"['we', 'are', 'bit', 'we', 'are', 'like', 'killing', 'it']",[],"[('double', 'about'), ('and', 'in')]"
+13.0,13,1,3,0,1,"['in', 'humble', 'bit']",[],"[('ha', 'vallakheale')]"
+2.1666666666666665,13,6,0,3,1,[],"['huh', 'what', 'level']","[('i', 'we')]"
+0.0,0,3,0,0,0,[],[],[]
+7.0,21,3,3,0,3,"['its', 'just', 'me']",[],"[('uh', 'its'), ('speed', 'just'), ('speed', 'me')]"
+5.0,35,7,4,1,5,"['comes', 'with', 'the', 'repentance']",['this'],"[('is', 'and'), ('not', 'thats'), ('a', 'how'), ('complication', 'isnt'), ('exercise', 'it')]"
+0.6,3,5,0,1,0,[],['just'],[]
+9.25,37,4,7,0,4,"['and', 'then', 'we', 'can', 'use', 'this', 'when']",[],"[('okay', 'we'), ('huh', 'do'), ('huh', 'it'), ('okay', 'later')]"
+3.5,14,4,2,0,2,"['we', 'can']",[],"[('well', 'use'), ('suits', 'it')]"
+3.3333333333333335,10,3,2,0,1,"['to', 'be']",[],"[('separated', 'good')]"
+3.0,3,1,1,0,0,['cua'],[],[]
+0.4666666666666667,7,15,0,1,1,[],['okay'],"[('it', 'them')]"
+1.5454545454545454,17,11,3,0,2,"['the', 'at', 'the']",[],"[('as', 'very'), ('well', 'time')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'therit')]"
+3.5,7,2,0,1,1,[],['i'],"[('will', 'holla')]"
+1.75,7,4,0,1,1,[],['take'],"[('clubs', 'gloves')]"
+0.8,4,5,0,0,1,[],[],"[('clubs', 'clums')]"
+0.0,0,13,0,0,0,[],[],[]
+3.0,27,9,0,1,6,[],['two'],"[('of', 'youre'), ('them', 'looking'), ('with', 'at'), ('spades', 'spadeson'), ('have', 'know'), ('spade', 'spadeson')]"
+7.0,7,1,1,0,1,['i'],[],"[('huh', 'south')]"
+2.75,11,4,0,1,2,[],['i'],"[('will', 'ill'), ('start', 'insert')]"
+23.5,47,2,13,0,2,"['ill', 'see', 'you', 'later', 'ill', 'have', 'to', 'say', 'goodbye', 'all', 'night', 'already', 'bye']",[],"[('passing', 'bye'), ('aloud', 'now')]"
+2.0,4,2,0,0,1,[],[],"[('scared', 'gay')]"
+1.5,3,2,0,1,0,[],['oh'],[]
+3.5,7,2,0,1,1,[],['three'],"[('fours', 'reforce')]"
+2.0,4,2,0,0,1,[],[],"[('more', 'feature')]"
+4.0,8,2,0,0,2,[],[],"[('maam', 'the'), ('you', 'manual')]"
+7.0,7,1,1,0,1,['thank'],[],"[('yes', 'you')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'yes')]"
+4.0,4,1,0,0,1,[],[],"[('cards', 'bye')]"
+3.5,14,4,0,2,2,[],"['what', 'do']","[('you', 'i'), ('mean', 'forgot')]"
+7.0,7,1,1,0,1,['playing'],[],"[('huh', 'i')]"
+4.0,32,8,0,0,8,[],[],"[('i', 'thats'), ('cha', 'a'), ('id', 'nice'), ('oh', 'job'), ('okay', 'thats'), ('i', 'a'), ('challenged', 'nice'), ('you', 'job')]"
+1.375,11,8,0,1,2,[],['any'],"[('okay', 'of'), ('time', 'anytime')]"
+2.0,8,4,0,0,2,[],[],"[('i', 'oh'), ('will', 'you')]"
+4.0,8,2,0,0,2,[],[],"[('phone', 'for'), ('here', 'you')]"
+4.0,12,3,0,0,3,[],[],"[('but', 'for'), ('if', 'your'), ('he', 'future')]"
+4.0,8,2,0,0,2,[],[],"[('he', 'believe'), ('makes', 'that')]"
+0.6153846153846154,8,13,0,0,2,[],[],"[('like', 'it'), ('your', 'you')]"
+3.25,26,8,0,2,5,[],"['nothing', 'yet']","[('ill', 'it'), ('give', 'really'), ('it', 'became'), ('a', 'useful'), ('second', 'you')]"
+0.0,0,2,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['twos'],"[('do', 'good'), ('i', 'work')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'thanks')]"
+3.5,7,2,0,1,1,[],['two'],"[('three', 'asagementscom')]"
+3.6666666666666665,11,3,1,0,2,['free'],[],"[('how', 'for'), ('threes', 'too')]"
+13.0,13,1,3,0,1,"['how', 'many', 'thieves']",[],"[('two', 'do')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'dont'), ('more', 'work')]"
+3.5,7,2,0,1,1,[],['one'],"[('more', 'run')]"
+3.5,7,2,0,1,1,[],['three'],"[('more', 'rainbow')]"
+0.0,0,2,0,0,0,[],[],[]
+1.5,3,2,1,0,0,['time'],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('more', 'lalate')]"
+2.0,6,3,0,2,0,[],"['woah', 'ah']",[]
+8.5,17,2,3,0,2,"['we', 'will', 'see']",[],"[('do', 'you'), ('the', 'night')]"
+0.0,0,2,0,0,0,[],[],[]
+0.5,4,8,0,0,1,[],[],"[('since', 'yes')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'do'), ('seven', 'so')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'good'), ('more', 'morning')]"
+5.5,11,2,1,0,2,['dont'],[],"[('two', 'want'), ('more', 'it')]"
+3.0,6,2,2,0,0,"['for', 'time']",[],[]
+3.5,7,2,0,1,1,[],['one'],"[('more', 'i')]"
+1.5,3,2,0,1,0,[],['more'],[]
+3.25,26,8,0,6,2,[],"['some', 'challenge', 'coming', 'up', 'dday', 'i']","[('was', 'all'), ('actually', 'the')]"
+1.6111111111111112,29,18,1,2,5,['she'],"['the', 'she']","[('thing', 'take'), ('is', 'it'), ('she', 'we'), ('shes', 'is'), ('cuz', 'because')]"
+3.375,27,8,0,5,3,[],"['you', 'have', 'so', 'many', 'cards']","[('only', 'it'), ('three', 'doesnt'), ('cards', 'care')]"
+0.0,0,3,0,0,0,[],[],[]
+1.4,7,5,0,1,1,[],['one'],"[('king', 'wanking')]"
+7.0,7,1,1,0,1,['and'],[],"[('bullshit', 'portable')]"
+11.5,23,2,5,0,2,"['yes', 'he', 'makes', 'its', 'bullshit']",[],"[('two', 'good'), ('aces', 'job')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('pick', 'i'), ('up', 'got'), ('them', 'the'), ('cards', 'guy')]"
+3.3333333333333335,10,3,0,2,1,[],"['i', 'hate']","[('you', 'symmetry')]"
+3.75,15,4,0,1,3,[],['fuck'],"[('you', 'socky'), ('one', 'want'), ('two', 'to')]"
+7.0,7,1,1,0,1,['thats'],[],"[('bullshit', 'it')]"
+1.8333333333333333,11,6,0,1,2,[],['two'],"[('shup', 'suit'), ('up', 'huh')]"
+2.0,4,2,0,0,1,[],[],"[('four', 'for')]"
+3.5,7,2,1,0,1,['three'],[],"[('threes', 'use')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'for'), ('threes', 'three')]"
+2.0454545454545454,45,22,0,7,6,[],"['right', 'quick', 'i', 'just', 'i', 'just', 'wanna']","[('hold', 'no'), ('on', 'no'), ('hold', 'no'), ('on', 'no'), ('do', 'report'), ('math', 'industry')]"
+10.0,10,1,2,0,1,"['through', 'all']",[],"[('four', 'the')]"
+0.4,4,10,0,0,1,[],[],"[('cards', 'cars')]"
+0.0,0,7,0,0,0,[],[],[]
+1.4,21,15,2,1,3,"['wrong', 'need']",['no'],"[('you', 'man'), ('all', 'with'), ('you', 'me')]"
+3.5,7,2,0,1,1,[],['three'],"[('fours', 'threefours')]"
+6.4,32,5,4,0,5,"['yeah', 'bullshit', 'yeah', 'im']",[],"[('you', 'thinking'), ('wanna', 'for'), ('call', 'all'), ('that', 'the'), ('bullshit', 'evidence')]"
+5.5,11,2,1,0,2,['we'],[],"[('yeah', 'are'), ('bullshit', 'both')]"
+3.1666666666666665,19,6,1,0,4,['forward'],[],"[('damn', 'and'), ('four', 'ill'), ('im', 'take'), ('thinking', 'it')]"
+5.5,11,2,1,0,2,['and'],[],"[('have', 'performing'), ('fun', 'creep')]"
+2.6666666666666665,16,6,0,0,4,[],[],"[('cuz', 'go'), ('guess', 'for'), ('what', 'it'), ('um', 'oh')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'thank'), ('five', 'you')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+2.5,35,14,2,3,5,"['car', 'two']","['any', 'one', 'of']","[('sevens', 'southerns'), ('cuz', 'because'), ('yall', 'anyone'), ('see', 'hear'), ('card', 'southerns')]"
+3.75,15,4,0,1,3,[],['now'],"[('you', 'nice'), ('sound', 'at'), ('sus', 'first')]"
+0.0,0,3,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('sevens', 'twoseven')]"
+2.6666666666666665,16,6,0,0,4,[],[],"[('call', 'come'), ('that', 'on'), ('bullshit', 'bossie'), ('dare', 'need')]"
+2.4444444444444446,22,9,1,1,4,['in'],['didnt'],"[('realize', 'really'), ('i', 'havent'), ('among', 'my'), ('okay', 'hand')]"
+1.375,11,8,1,0,2,['and'],[],"[('well', 'we'), ('cards', 'cars')]"
+3.6666666666666665,11,3,0,1,2,[],['i'],"[('i', 'interventionulsevoice'), ('really', 'strange')]"
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'onenine')]"
+2.0,4,2,0,0,1,[],[],"[('ten', 'time')]"
+0.875,7,8,0,1,1,[],['can'],"[('yall', 'yeah')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'people')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'and'), ('jacks', 'jazz')]"
+0.0,0,2,0,0,0,[],[],[]
+2.6666666666666665,8,3,0,0,2,[],[],"[('youll', 'you'), ('call', 'recall')]"
+3.6666666666666665,33,9,0,3,6,[],"['no', 'i', 'didnt']","[('expect', 'unfortunately'), ('put', 'thats'), ('down', 'behind'), ('so', 'all'), ('fucking', 'of'), ('fast', 'us')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'bennup')]"
+6.666666666666667,80,12,12,0,11,"['im', 'going', 'to', 'go', 'with', 'this', 'ball', 'of', 'green', 'can', 'you', 'it']",[],"[('the', 'i'), ('threes', 'know'), ('in', 'its'), ('one', 'a'), ('hand', 'turn'), ('oh', 'go'), ('my', 'back'), ('god', 'we'), ('you', 'dont'), ('are', 'know'), ('lying', 'it')]"
+3.3333333333333335,30,9,1,1,6,['oh'],['know'],"[('i', 'no'), ('i', 'dont'), ('i', 'oh'), ('know', 'no'), ('its', 'itll'), ('okay', 'turn')]"
+4.0,8,2,0,0,2,[],[],"[('its', 'bat'), ('okay', 'lakecloche')]"
+3.5,7,2,0,1,1,[],['its'],"[('okay', 'afrana')]"
+0.0,0,2,0,0,0,[],[],[]
+7.0,28,4,4,0,4,"['go', 'on', 'for', 'a']",[],"[('one', 'little'), ('four', 'bit'), ('its', 'so'), ('okay', 'good')]"
+2.142857142857143,15,7,4,1,0,"['oh', 'shoot', 'damn', 'it']",['its'],[]
+4.666666666666667,14,3,2,0,2,"['force', 'up']",[],"[('bullshit', 'it'), ('damn', 'pick')]"
+1.25,10,8,0,2,1,[],"['fuck', 'fives']","[('cuz', 'foxes')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+1.4545454545454546,16,11,0,4,1,[],"['i', 'dont', 'well', 'why']","[('you', 'and')]"
+4.0,12,3,0,0,3,[],[],"[('sleep', 'take'), ('around', 'a'), ('here', 'break')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['i'],[],"[('fine', 'am')]"
+3.8333333333333335,23,6,0,1,5,[],['so'],"[('i', 'okay'), ('cant', 'im'), ('even', 'in'), ('drink', 'the'), ('liquor', 'wicker')]"
+2.857142857142857,40,14,4,4,4,"['cat', 'that', 'piece', 'of']","['ready', 'one', 'two', 'one']","[('two', 'thank'), ('three', 'you'), ('catch', 'was'), ('clap', 'cloud')]"
+3.909090909090909,43,11,0,1,10,[],['its'],"[('all', 'ill'), ('fun', 'find'), ('and', 'you'), ('games', 'able'), ('until', 'to'), ('you', 'get'), ('got', 'help'), ('something', 'on'), ('to', 'the'), ('lose', 'students')]"
+0.8333333333333334,10,12,2,0,1,"['its', 'so']",[],"[('the', 'risky')]"
+4.0,40,10,3,1,7,"['can', 'try', 'to']",['no'],"[('i', 'in'), ('dont', 'the'), ('trust', 'outpost'), ('cut', 'find'), ('it', 'me'), ('with', 'fucking'), ('you', 'fucking')]"
+1.6,8,5,0,0,2,[],[],"[('you', 'we'), ('didnt', 'can')]"
+5.2,26,5,6,0,2,"['would', 'like', 'to', 'read', 'it', 'my']",[],"[('its', 'if'), ('left', 'bad')]"
+4.333333333333333,13,3,3,0,1,"['i', 'cant', 'reach']",[],"[('no', 'it')]"
+4.857142857142857,34,7,5,1,4,"['ours', 'is', 'just', 'usually', 'whoever']",['well'],"[('who', 'wants'), ('goes', 'to'), ('first', 'do'), ('yeah', 'it')]"
+0.0,0,7,0,0,0,[],[],[]
+1.75,21,12,2,1,3,"['gods', 'there']",['understand'],"[('we', 'read'), ('just', 'you'), ('have', 'talk')]"
+0.0,0,1,0,0,0,[],[],[]
+4.666666666666667,14,3,2,0,2,"['im', 'trying']",[],"[('i', 'to'), ('understand', 'sound')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('cuz', 'please'), ('we', 'you')]"
+1.6666666666666667,20,12,4,0,2,"['oh', 'you', 'can', 'name']",[],"[('thats', 'that'), ('we', 'well')]"
+5.333333333333333,16,3,4,0,1,"['can', 'you', 'name', 'me']",[],"[('we', 'you')]"
+4.5,27,6,1,0,6,['have'],[],"[('thats', 'fun'), ('funny', 'youll'), ('you', 'have'), ('know', 'to'), ('i', 'prove'), ('could', 'it')]"
+0.0,0,4,0,0,0,[],[],[]
+2.5,15,6,0,1,3,[],['a'],"[('two', 'too'), ('shut', 'much'), ('up', 'shadow')]"
+3.6,18,5,2,0,3,"['theyre', 'really']",[],"[('do', 'now'), ('i', 'you'), ('or', 'good')]"
+1.75,7,4,1,0,1,['for'],[],"[('first', 'it')]"
+8.5,17,2,3,0,2,"['are', 'they', 'hoping']",[],"[('one', 'about'), ('ace', 'a')]"
+4.0,4,1,0,0,1,[],[],"[('um', 'okay')]"
+2.0,4,2,0,0,1,[],[],"[('ace', 'a')]"
+3.3333333333333335,10,3,0,2,1,[],"['mhm', 'two']","[('twos', 'do')]"
+4.0,16,4,0,0,4,[],[],"[('i', 'ive'), ('gotta', 'got'), ('pace', 'a'), ('myself', 'maximize')]"
+0.0,0,4,0,0,0,[],[],[]
+3.0,12,4,0,0,3,[],[],"[('look', 'ill'), ('all', 'call'), ('want', 'home')]"
+2.4545454545454546,27,11,0,5,3,[],"['i', 'know', 'i', 'i', 'doing']","[('it', 'being'), ('like', 'my'), ('this', 'parent')]"
+10.0,10,1,2,0,1,"['stupid', 'from']",[],"[('two', 'mom')]"
+3.0,3,1,1,0,0,['one'],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('five', 'done')]"
+7.0,7,1,1,0,1,['well'],[],"[('bullshit', 'sure')]"
+3.25,39,12,0,5,6,[],"['i', 'needed', 'the', 'cards', 'anyway']","[('thank', 'anyway'), ('i', 'might'), ('need', 'part'), ('my', 'back'), ('cards', 'to'), ('back', 'six')]"
+3.5,7,2,1,0,1,['in'],[],"[('sixes', 'sexes')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('three', 'we'), ('sevens', 'speak')]"
+3.5,21,6,2,1,3,"['is', 'ended']",['call'],"[('bullshit', 'what'), ('dare', 'up'), ('you', 'with')]"
+1.6363636363636365,18,11,0,2,3,[],"['i', 'dont']","[('know', 'no'), ('you', 'do'), ('got', 'down')]"
+3.25,13,4,0,3,1,[],"['wait', 'you', 'got']","[('it', 'awake')]"
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'ixto')]"
+2.0,4,2,0,0,1,[],[],"[('ten', 'turn')]"
+3.1176470588235294,53,17,0,15,2,[],"['hmm', 'no', 'quit', 'saying', 'call', 'that', 'bullshit', 'you', 'really', 'got', 'to', 'stop', 'selling', 'yourself', 'out']","[('like', 'que'), ('that', 'tox')]"
+2.75,11,4,0,1,2,[],['call'],"[('that', 'comment'), ('bullshit', 'worship')]"
+3.75,15,4,0,1,3,[],['then'],"[('stop', 'this'), ('saying', 'house'), ('it', 'landed')]"
+1.75,14,8,1,1,2,['feel'],['just'],"[('i', 'in'), ('just', 'this')]"
+4.0,44,11,4,0,8,"['youre', 'like', 'hurt', 'no']",[],"[('you', 'i'), ('hard', 'i'), ('shut', 'like'), ('up', 'to'), ('shut', 'have'), ('up', 'something'), ('and', 'defending'), ('play', 'dad')]"
+2.090909090909091,23,11,5,0,2,"['how', 'its', 'defended', 'yeah', 'shut']",[],"[('myself', 'not'), ('defensive', 'up')]"
+3.0,6,2,2,0,0,"['thats', 'it']",[],[]
+7.0,7,1,1,0,1,['do'],[],"[('two', 'not')]"
+4.5,27,6,5,0,3,"['enough', 'you', 'guys', 'oh', 'my']",[],"[('no', 'are'), ('she', 'gonna'), ('she', 'god')]"
+0.0,0,2,0,0,0,[],[],[]
+10.0,40,4,12,0,1,"['i', 'was', 'like', 'oh', 'i', 'was', 'like', 'no', 'i', 'was', 'like', 'oh']",[],"[('bullshit', 'no')]"
+0.3076923076923077,4,13,0,0,1,[],[],"[('mhm', 'mmhmm')]"
+0.0,0,13,0,0,0,[],[],[]
+1.5714285714285714,11,7,0,1,2,[],['hm'],"[('threes', 'please'), ('three', 'please')]"
+6.4,32,5,4,0,5,"['turns', 'i', 'didnt', 'think']",[],"[('take', 'thats'), ('two', 'gonna'), ('of', 'be'), ('these', 'taped'), ('fours', 'so')]"
+0.9,9,10,2,1,0,"['two', 'lives']",['two'],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'plus'), ('fives', 'mine')]"
+1.7142857142857142,12,7,0,0,3,[],[],"[('how', 'okay'), ('many', 'two'), ('nah', 'no')]"
+4.0,4,1,0,0,1,[],[],"[('two', 'too')]"
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('six', 'watching')]"
+2.0,4,2,0,0,1,[],[],"[('eight', 'eights')]"
+3.5,14,4,0,2,2,[],"['three', 'eight']","[('one', 'umann'), ('nine', 'perform')]"
+2.8,14,5,0,2,2,[],"['ill', 'by']","[('help', 'thank'), ('one', 'bye')]"
+5.5,11,2,1,0,2,['youre'],[],"[('three', 'welcome'), ('tens', 'demons')]"
+3.8,19,5,1,0,4,['i'],[],"[('are', 'have'), ('you', 'a'), ('gonna', 'report'), ('call', 'on')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'keep'), ('queens', 'saying')]"
+7.0,7,1,1,0,1,['or'],[],"[('kings', 'things')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'th'), ('aces', 'beenroprietic')]"
+2.5,25,10,1,2,4,['talk'],"['wanna', 'really']","[('call', 'more'), ('bullshit', 'to'), ('on', 'you'), ('that', 'older')]"
+4.0,8,2,0,0,2,[],[],"[('call', 'so'), ('it', 'cool')]"
+3.6666666666666665,11,3,0,1,2,[],['i'],"[('can', 'apple'), ('wait', 'eh')]"
+3.888888888888889,35,9,0,1,8,[],['now'],"[('cuz', 'not'), ('shes', 'cooking'), ('laughing', 'but'), ('now', 'a'), ('i', 'lot'), ('cant', 'of'), ('do', 'the'), ('it', 'work')]"
+0.0,0,10,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['dont'],[],"[('oh', 'shoot'), ('bullshit', 'him')]"
+0.0,0,5,0,0,0,[],[],[]
+3.75,15,4,0,1,3,[],['damn'],"[('she', 'dont'), ('played', 'be'), ('me', 'afraid')]"
+0.0,0,1,0,0,0,[],[],[]
+0.8,4,5,0,0,1,[],[],"[('up', 'out')]"
+4.0,4,1,0,0,1,[],[],"[('uh', 'first')]"
+3.5,42,12,2,0,9,"['three', 'two']",[],"[('you', 'all'), ('said', 'of'), ('three', 'us'), ('oh', 'all'), ('i', 'right'), ('thought', 'all'), ('alright', 'right'), ('alright', 'all'), ('alright', 'right')]"
+2.0,4,2,0,0,1,[],[],"[('twos', 'two')]"
+3.625,29,8,0,3,5,[],"['yall', 'better', 'not']","[('yall', 'now'), ('better', 'very'), ('not', 'else'), ('say', 'i'), ('shit', 'should')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('give', 'kidding')]"
+7.0,7,1,1,0,1,['thank'],[],"[('order', 'you')]"
+4.0,28,7,0,0,7,[],[],"[('damn', 'why'), ('damn', 'was'), ('why', 'i'), ('would', 'not'), ('someone', 'feeling'), ('feel', 'wall'), ('bullshitted', 'shitting')]"
+3.8181818181818183,84,22,3,1,18,"['the', 'movie', 'ill']",['alright'],"[('aight', 'oh'), ('man', 'no'), ('this', 'im'), ('is', 'not'), ('all', 'going'), ('i', 'to'), ('got', 'go'), ('yall', 'put'), ('all', 'that'), ('i', 'with'), ('got', 'some'), ('is', 'trees'), ('two', 'its'), ('threes', 'not'), ('take', 'going'), ('it', 'to'), ('or', 'lead'), ('leave', 'to')]"
+3.0,6,2,2,0,0,"['oh', 'oh']",[],[]
+3.4,34,10,0,6,4,[],"['oh', 'no', 'oh', 'no', 'give', 'me']","[('give', 'always'), ('me', 'on'), ('one', 'the'), ('second', 'end')]"
+6.0,18,3,2,0,3,"['dont', 'even']",[],"[('or', 'build'), ('youre', 'with'), ('just', 'it')]"
+6.0,24,4,4,0,3,"['but', 'not', 'good', 'people']",[],"[('about', 'thats'), ('to', 'my'), ('go', 'boy')]"
+3.0,21,7,1,2,3,['how'],"['got', 'it']","[('alright', 'are'), ('you', 'gonna'), ('got', 'eat')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+3.3333333333333335,10,3,0,2,1,[],"['you', 'got']","[('it', 'brother')]"
+1.4615384615384615,19,13,0,5,1,[],"['okay', 'i', 'was', 'about', 'to']","[('say', 'then')]"
+2.4285714285714284,17,7,1,2,2,['know'],"['no', 'two']","[('gonna', 'i'), ('sixes', 'twosister')]"
+20.5,41,2,11,0,2,"['once', 'on', 'a', 'minute', 'we', 'will', 'take', 'care', 'of', 'you', 'great']",[],"[('one', 'work'), ('seven', 'now')]"
+3.5,7,2,0,1,1,[],['uh'],"[('bullshit', 'bye')]"
+3.4,17,5,0,3,2,[],"['you', 'got', 'to']","[('take', 'good'), ('all', 'struggling')]"
+2.0,4,2,0,0,1,[],[],"[('eight', 'a')]"
+3.75,15,4,0,1,3,[],['imma'],"[('let', 'mollres'), ('that', 'de'), ('be', 'sight')]"
+6.8,34,5,6,0,4,"['if', 'i', 'were', 'we', 'saw', 'in']",[],"[('imma', 'a'), ('let', 'guy'), ('one', 'the'), ('be', 'video')]"
+3.5,7,2,0,1,1,[],['one'],"[('ten', 'wanton')]"
+4.0,4,1,0,0,1,[],[],"[('yeah', 'yep')]"
+2.0,4,2,0,0,1,[],[],"[('one', 'im')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,9,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('no', 'now')]"
+2.7142857142857144,19,7,0,1,4,[],['i'],"[('pick', 'im'), ('up', 'picking'), ('bullshit', 'most'), ('ten', 'its')]"
+0.0,0,4,0,0,0,[],[],[]
+6.0,18,3,2,0,3,"['then', 'get']",[],"[('i', 'out'), ('got', 'of'), ('two', 'school')]"
+4.428571428571429,31,7,1,0,7,['risking'],[],"[('risk', 'our'), ('and', 'award'), ('reward', 'oh'), ('its', 'thats'), ('just', 'what'), ('a', 'were'), ('game', 'getting')]"
+4.0,12,3,0,0,3,[],[],"[('only', 'im'), ('got', 'just'), ('terrible', 'forgetting')]"
+2.0,4,2,0,0,1,[],[],"[('king', 'take')]"
+5.5,11,2,1,0,2,['do'],[],"[('two', 'i'), ('aces', 'assist')]"
+3.2,16,5,0,0,4,[],[],"[('call', 'all'), ('it', 'day'), ('fold', 'full'), ('it', 'day')]"
+4.6,46,10,2,0,10,"['turn', 'on']",[],"[('you', 'your'), ('said', 'keys'), ('one', 'need'), ('king', 'to'), ('i', 'get'), ('just', 'an'), ('want', 'sarukiuptoos'), ('to', 'gift'), ('make', 'thank'), ('sure', 'you')]"
+2.3333333333333335,7,3,1,0,1,['it'],[],"[('its', 'was')]"
+3.7142857142857144,26,7,0,2,5,[],"['i', 'just']","[('i', 'mark'), ('just', 'the'), ('wanna', 'other'), ('make', 'way'), ('sure', 'through')]"
+3.0,15,5,0,1,3,[],['ah'],"[('two', 'in'), ('two', 'part'), ('twos', 'those')]"
+0.0,0,2,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['oh'],[],"[('hmm', 'no'), ('bullshit', 'peter')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('pick', 'take'), ('up', 'out')]"
+0.0,0,6,0,0,0,[],[],[]
+40.0,40,1,12,0,1,"['passerby', 'pocket', 'would', 'say', 'this', 'employees', 'thats', 'available', 'to', 'the', 'seventh', 'company']",[],"[('bullshit', 'pushing')]"
+5.5,11,2,1,0,2,['r'],[],"[('two', 'hard'), ('fours', 'focus')]"
+2.0,12,6,0,4,0,[],"['bullshit', 'put', 'it', 'back']",[]
+3.4,17,5,0,3,2,[],"['alright', 'ill', 'take']","[('it', 'thank'), ('alright', 'you')]"
+1.75,7,4,0,1,1,[],['alright'],"[('alright', 'right')]"
+10.0,10,1,2,0,1,"['go', 'for']",[],"[('okay', 'it')]"
+2.375,19,8,1,0,4,['he'],[],"[('heres', 'has'), ('the', 'a'), ('deck', 'back'), ('fucked', 'fat')]"
+3.0,6,2,2,0,0,"['its', 'been']",[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+1.75,7,4,0,1,1,[],['hold'],"[('on', 'oh')]"
+7.0,14,2,2,0,2,"['come', 'on']",[],"[('ah', 'lets'), ('okay', 'see')]"
+3.8,38,10,1,1,8,['well'],['just'],"[('bullshit', 'should'), ('just', 'we'), ('take', 'thank'), ('it', 'you'), ('just', 'lets'), ('take', 'one'), ('it', 'second'), ('bullshit', 'waltz')]"
+0.0,0,6,0,0,0,[],[],[]
+3.5555555555555554,32,9,0,0,8,[],[],"[('be', 'must'), ('that', 'find'), ('why', 'me'), ('im', 'self'), ('calling', 'as'), ('bullshit', 'king'), ('on', 'of'), ('you', 'nicol')]"
+2.75,11,4,0,1,2,[],['uncle'],"[('serve', 'i'), ('it', 'did')]"
+2.0,14,7,0,2,2,[],"['yeah', 'oh']","[('best', 'that'), ('believe', 'leaves')]"
+1.5,3,2,0,1,0,[],['one'],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('your', 'magicoff'), ('ass', 'already')]"
+4.0,16,4,0,0,4,[],[],"[('youre', 'a'), ('on', 'lot'), ('the', 'of'), ('case', 'just')]"
+1.0,4,4,0,0,1,[],[],"[('card', 'cards')]"
+2.1333333333333333,32,15,0,4,5,[],"['know', 'something', 'it', 'aight']","[('you', 'i'), ('want', 'wanted'), ('even', 'call'), ('a', 'that'), ('nine', 'one')]"
+0.5,7,14,1,0,1,['a'],[],"[('bullshit', 'vosme')]"
+0.0,0,5,0,0,0,[],[],[]
+4.5,27,6,1,0,6,['im'],[],"[('you', 'hungry'), ('dont', 'but'), ('want', 'im'), ('to', 'not'), ('play', 'that'), ('mahjong', 'bad')]"
+2.8,14,5,1,1,2,['my'],['want'],"[('to', 'wanna'), ('mahjong', 'genre')]"
+0.6,3,5,0,1,0,[],['movie'],[]
+0.4444444444444444,4,9,0,0,1,[],[],"[('there', 'baby')]"
+3.0,18,6,1,1,3,['marks'],['are'],"[('allowed', 'lot'), ('to', 'of'), ('mahjong', 'on')]"
+1.5,12,8,0,0,3,[],[],"[('well', 'what'), ('just', 'does'), ('its', 'look')]"
+0.0,0,7,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+3.25,26,8,0,6,2,[],"['oh', 'oh', 'oh', 'oh', 'god', 'oh']","[('dear', 'wonderful'), ('god', 'view')]"
+3.142857142857143,22,7,0,6,1,[],"['dear', 'god', 'i', 'got', 'that', 'on']","[('camera', 'oh')]"
+3.142857142857143,22,7,0,2,4,[],"['now', 'its']","[('it', 'i'), ('seems', 'also'), ('hot', 'a'), ('hm', 'ton')]"
+2.7777777777777777,25,9,0,7,1,[],"['i', 'was', 'to', 'fall', 'backwards', 'i', 'was']","[('like', 'that')]"
+3.4705882352941178,59,17,1,0,14,['its'],[],"[('when', 'its'), ('the', 'like'), ('cribs', 'no'), ('the', 'its'), ('cribs', 'cold'), ('the', 'cold'), ('kids', 'its'), ('in', 'very'), ('the', 'very'), ('crib', 'loud'), ('drop', 'ill'), ('it', 'get'), ('its', 'a'), ('hot', 'pile')]"
+6.0,18,3,2,0,3,"['and', 'i']",[],"[('how', 'hope'), ('open', 'you'), ('this', 'missed')]"
+3.6,18,5,2,0,3,"['did', 'a']",[],"[('open', 'pretty'), ('the', 'much'), ('mahjong', 'on')]"
+0.0,0,1,0,0,0,[],[],[]
+2.0,12,6,0,4,0,[],"['yo', 'its', 'jesus', 'christ']",[]
+0.0,0,7,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('well', 'hello'), ('there', 'wheres'), ('goes', 'our'), ('that', 'blower')]"
+4.0,12,3,0,0,3,[],[],"[('there', 'theyre'), ('goes', 'going'), ('that', 'deaf')]"
+0.4666666666666667,7,15,0,1,1,[],['well'],"[('this', 'these')]"
+5.0,30,6,2,0,6,"['i', 'dont']",[],"[('how', 'just'), ('do', 'blame'), ('we', 'on'), ('even', 'you'), ('play', 'i'), ('mahjong', 'love')]"
+10.666666666666666,32,3,8,0,2,"['i', 'think', 'if', 'i', 'end', 'up', 'turning', 'up']",[],"[('playing', 'hard'), ('mahjong', 'okay')]"
+1.1,11,10,0,1,2,[],['the'],"[('big', 'fake'), ('game', 'guy')]"
+1.5,3,2,1,0,0,['too'],[],[]
+0.0,0,8,0,0,0,[],[],[]
+2.0,10,5,0,2,1,[],"['over', 'there']","[('a', 'the')]"
+3.5,35,10,0,1,8,[],['are'],"[('are', 'fucking'), ('you', 'ro'), ('sure', 'stole'), ('youre', 'some'), ('supposed', 'of'), ('to', 'my'), ('match', 'damn'), ('these', 'stuff')]"
+2.230769230769231,29,13,0,7,2,[],"['mhm', 'and', 'so', 'you', 'it', 'supposes', 'to']","[('like', 'mmhmm'), ('youre', 'its')]"
+0.2413793103448276,7,29,0,1,1,[],['is'],"[('number', 'numbers')]"
+17.5,35,2,9,0,2,"['myself', 'yeah', 'yeah', 'im', 'yall', 'need', 'me', 'and', 'daniel']",[],"[('thats', 'i'), ('the', 'love')]"
+0.0,0,3,0,0,0,[],[],[]
+5.142857142857143,36,7,8,0,3,"['serve', 'with', 'the', 'girl', 'pass', 'girls', 'might', 'be']",[],"[('feel', 'pass'), ('right', 'following'), ('now', 'him')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'ha')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'pass')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+0.26666666666666666,4,15,0,0,1,[],[],"[('game', 'games')]"
+0.36363636363636365,4,11,0,0,1,[],[],"[('game', 'games')]"
+3.75,45,12,3,0,9,"['i', 'hope', 'a']",[],"[('no', 'its'), ('thought', 'time'), ('they', 'for'), ('said', 'one'), ('they', 'were'), ('wouldnt', 'going'), ('they', 'to'), ('want', 'have'), ('games', 'game')]"
+0.0,0,10,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('like', 'attack')]"
+4.0,8,2,0,0,2,[],[],"[('text', 'tax'), ('him', 'them')]"
+1.0,18,18,0,2,3,[],"['um', 'have']","[('number', 'remember'), ('mm', 'um'), ('who', 'he')]"
+3.875,31,8,1,0,7,['you'],[],"[('we', 'know'), ('got', 'save'), ('to', 'your'), ('play', 'jerks'), ('that', 'to'), ('game', 'a'), ('still', 'pound')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'more'), ('fours', 'force')]"
+3.2,16,5,0,0,4,[],[],"[('you', 'baby'), ('got', 'mac'), ('that', 'just'), ('motherfucker', 'fuckin')]"
+3.25,13,4,1,2,1,['worst'],"['that', 'one']","[('five', 'laugh')]"
+0.6,3,5,0,1,0,[],['wait'],[]
+0.9166666666666666,11,12,0,1,2,[],['you'],"[('cause', 'because'), ('dont', 'no')]"
+0.0,0,5,0,0,0,[],[],[]
+5.0,15,3,1,0,3,['the'],[],"[('that', 'purpose'), ('kinda', 'of'), ('bullshit', 'it')]"
+3.5,7,2,0,1,1,[],['damn'],"[('it', 'ymark')]"
+5.6,28,5,4,0,4,"['i', 'dont', 'know', 'dont']",[],"[('thought', 'think'), ('that', 'were'), ('was', 'both'), ('bullshit', 'in')]"
+5.5,11,2,1,0,2,['im'],[],"[('two', 'too'), ('sixes', 'sexist')]"
+3.5,14,4,0,2,2,[],"['there', 'you']","[('go', 'very'), ('too', 'contrast')]"
+5.5,11,2,1,0,2,['om'],[],"[('one', 'double'), ('seven', 'throat')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('seven', 'summon')]"
+3.5,7,2,0,1,1,[],['one'],"[('eight', 'ready')]"
+3.4,17,5,0,3,2,[],"['have', 'fun', 'with']","[('that', 'no'), ('seven', 'or')]"
+3.5,7,2,0,1,1,[],['four'],"[('nines', 'orconf')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+4.25,17,4,2,1,2,"['what', 'is']",['one'],"[('i', 'that'), ('ten', 'was')]"
+3.5,7,2,0,1,1,[],['one'],"[('deck', 'welcome')]"
+5.5,11,2,1,0,2,['oh'],[],"[('full', 'be'), ('bs', 'this')]"
+5.5,11,2,1,0,2,['and'],[],"[('four', 'pork'), ('queens', 'wings')]"
+3.2,32,10,0,8,2,[],"['do', 'i', 'want', 'some', 'queens', 'no', 'i', 'dont']","[('want', 'so'), ('king', 'pretty')]"
+7.0,14,2,2,0,2,"['its', 'right']",[],"[('rightfully', 'really'), ('called', 'cool')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+7.5,90,12,18,0,9,"['boss', 'out', 'just', 'skip', 'your', 'turn', 'why', 'just', 'skip', 'your', 'turn', 'just', 'skip', 'your', 'its', 'just', 'one', 'more']",[],"[('bullshit', 'it'), ('pick', 'take'), ('outwhy', 'turn'), ('i', 'just'), ('know', 'skip'), ('i', 'your'), ('dont', 'turn'), ('wanna', 'just'), ('my', 'your')]"
+1.0,4,4,0,0,1,[],[],"[('turn', 'time')]"
+5.5,55,10,9,0,7,"['you', 'hear', 'me', 'im', 'scared', 'scared', 'to', 'start', 'its']",[],"[('skip', 'to'), ('your', 'start'), ('turn', 'im'), ('skip', 'safe'), ('your', 'its'), ('turn', 'just'), ('four', 'more')]"
+0.0,0,2,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['bush'],[],"[('bullshit', 'it')]"
+10.0,20,2,4,0,2,"['were', 'really', 'cool', 'lets']",[],"[('rightfully', 'do'), ('called', 'it')]"
+0.0,0,2,0,0,0,[],[],[]
+1.2222222222222223,11,9,1,0,2,['one'],[],"[('two', 'six'), ('sixes', 'yes')]"
+3.5,7,2,0,1,1,[],['how'],"[('many', 'coming')]"
+4.0,16,4,0,0,4,[],[],"[('two', 'what'), ('sixes', 'makes'), ('two', 'me'), ('six', 'stop')]"
+1.25,10,8,0,2,1,[],"['oh', 'oh']","[('four', 'fool')]"
+4.0,16,4,4,0,1,"['know', 'the', 'other', 'two']",[],"[('howre', 'how')]"
+3.5,14,4,2,0,2,"['this', 'flip']",[],"[('savage', 'sound'), ('me', 'is')]"
+8.5,17,2,3,0,2,"['when', 'i', 'sh']",[],"[('four', 'it'), ('eights', 'is')]"
+0.0,0,1,0,0,0,[],[],[]
+3.3333333333333335,10,3,0,2,1,[],"['this', 'is']","[('bullying', 'you')]"
+3.3333333333333335,20,6,0,4,2,[],"['im', 'gonna', 'put', 'down']","[('those', 'and'), ('eights', 'mistakes')]"
+3.0,12,4,0,0,3,[],[],"[('this', 'his'), ('isnt', 'or'), ('a', 'the')]"
+6.0,6,1,2,0,0,"['a', 'spin']",[],[]
+11.5,23,2,5,0,2,"['be', 'nice', 'yours', 'isnt', 'even']",[],"[('what', 'a'), ('bullshit', 'tin')]"
+3.8333333333333335,23,6,0,1,5,[],['bs'],"[('yours', 'yes'), ('isnt', 'youre'), ('even', 'the'), ('a', 'dema'), ('ten', 'tim')]"
+3.857142857142857,27,7,0,1,6,[],['look'],"[('at', 'yo'), ('this', 'you'), ('cuz', 'should'), ('he', 'done'), ('had', 'to'), ('nine', 'that')]"
+4.0,12,3,0,0,3,[],[],"[('he', 'we'), ('had', 'are'), ('eight', 'eggs')]"
+3.25,13,4,0,3,1,[],"['no', 'i', 'had']","[('seven', 'me')]"
+7.0,7,1,1,0,1,['oh'],[],"[('eight', 'thats')]"
+3.12,78,25,1,13,9,['yeah'],"['he', 'had', 'nine', 'bruh', 'thats', 'called', 'had', 'nines', 'so', 'how', 'you', 'gonna', 'shut']","[('why', 'bro'), ('bullshit', 'thought'), ('up', 'thought'), ('and', 'bullshit'), ('go', 'oh'), ('shut', 'yeah'), ('up', 'i'), ('and', 'didnt'), ('go', 'notice')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,11,0,0,0,[],[],[]
+3.4166666666666665,41,12,2,1,8,"['silly', 'mmhmm']",['card'],"[('you', 'well'), ('right', 'i'), ('cause', 'could'), ('i', 'not'), ('switched', 'switch'), ('trying', 'car'), ('to', 'id'), ('slick', 'hey')]"
+4.0,4,1,0,0,1,[],[],"[('ten', 'ew')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'or'), ('jacks', 'jaxx')]"
+3.5,7,2,0,1,1,[],['i'],"[('just', 'as')]"
+3.5,7,2,1,0,1,['for'],[],"[('queen', 'you')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'playingley')]"
+3.6666666666666665,11,3,0,1,2,[],['playing'],"[('with', 'battle'), ('me', 'party')]"
+4.0,12,3,0,0,3,[],[],"[('four', 'fucking'), ('kings', 'b'), ('shit', 'rarea')]"
+3.7777777777777777,34,9,8,2,1,"['you', 'know', 'what', 'i', 'really', 'dont', 'want', 'to']","['four', 'twos']","[('call', 'go')]"
+8.5,17,2,3,0,2,"['ifully', 'over', 'the']",[],"[('four', 'cheers'), ('aces', 'game')]"
+0.0,0,8,0,0,0,[],[],[]
+2.0,10,5,1,1,1,['for'],['man'],"[('fours', 'threes')]"
+5.6,28,5,4,0,4,"['i', 'was', 'points', 'we']",[],"[('bullshit', 'worried'), ('hm', 'dont'), ('bullshit', 'sit'), ('fives', 'will')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'those'), ('four', 'words')]"
+3.4,34,10,0,2,7,[],"['bullshit', 'on']","[('i', 'luckily'), ('really', 'we'), ('wanna', 'will'), ('that', 'the'), ('but', 'loschola'), ('youre', 'number'), ('right', 'aye')]"
+4.75,19,4,1,0,4,['the'],[],"[('oh', 'lord'), ('i', 'god'), ('got', 'monitor'), ('sixes', 'this')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'whats'), ('six', 'next')]"
+1.0,4,4,0,0,1,[],[],"[('pick', 'fit')]"
+3.0,6,2,0,2,0,[],"['three', 'sevens']",[]
+3.5,7,2,0,1,1,[],['four'],"[('eights', 'braised')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'were'), ('eights', 'east')]"
+4.0,8,2,0,0,2,[],[],"[('i', 'and'), ('know', 'now')]"
+2.2,11,5,0,1,2,[],['one'],"[('time', 'i'), ('man', 'mean')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'do'), ('tens', 'tins')]"
+3.0625,49,16,0,15,1,[],"['she', 'got', 'two', 'tens', 'all', 'of', 'yall', 'thats', 'cool', 'thats', 'cool', 'though', 'you', 'got', 'it']","[('momma', 'oonchangcom')]"
+5.5,11,2,1,0,2,['for'],[],"[('four', 'a'), ('jacks', 'check')]"
+6.0,18,3,2,0,3,"['and', 'i']",[],"[('hey', 'get'), ('man', 'it'), ('look', 'well')]"
+5.5,22,4,2,0,4,"['please', 'man']",[],"[('i', 'its'), ('on', 'a'), ('the', 'good'), ('table', 'one')]"
+0.0,0,3,0,0,0,[],[],[]
+4.166666666666667,25,6,7,0,1,"['i', 'hope', 'its', 'a', 'little', 'bit', 'funny']",[],"[('set', 'said')]"
+2.6666666666666665,16,6,0,0,4,[],[],"[('this', 'that'), ('thing', 'you'), ('is', 'will'), ('recording', 'enjoy')]"
+0.3,3,10,1,0,0,['to'],[],[]
+7.0,21,3,3,0,3,"['i', 'get', 'to']",[],"[('we', 'go'), ('can', 'for'), ('take', 'another')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,12,3,0,0,3,[],[],"[('and', 'then'), ('our', 'ours'), ('gloves', 'loves')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('that', 'us')]"
+1.3333333333333333,24,18,0,4,3,[],"['in', 'okay', 'then', 'im']","[('taking', 'kicking'), ('mode', 'right'), ('good', 'yeah')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('uhhuh', 'yeah')]"
+3.6666666666666665,11,3,0,1,2,[],['alright'],"[('lets', 'thank'), ('play', 'you')]"
+2.0,8,4,0,0,2,[],[],"[('mine', 'find'), ('keeps', 'his')]"
+2.2,11,5,1,0,2,['putting'],[],"[('playing', 'the'), ('bs', 'end')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.625,10,16,0,2,1,[],"['deck', 'of']","[('cards', 'defocart')]"
+0.0,0,1,0,0,0,[],[],[]
+2.6666666666666665,16,6,0,0,4,[],[],"[('damn', 'dan'), ('cuz', 'cause'), ('these', 'youre'), ('are', 'a')]"
+0.0,0,1,0,0,0,[],[],[]
+3.3,33,10,0,7,3,[],"['gadgets', 'for', 'you', 'you', 'gat', 'any', 'more']","[('gadgets', 'mdt'), ('for', 'one'), ('me', 'two')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'okay')]"
+0.0,0,5,0,0,0,[],[],[]
+2.357142857142857,33,14,3,0,6,"['while', 'we', 'we']",[],"[('welcome', 'are'), ('to', 'the'), ('yes', 'dealer'), ('welcome', 'i'), ('to', 'consider'), ('were', 'are')]"
+4.666666666666667,14,3,2,0,2,"['walk', 'here']",[],"[('youre', 'as'), ('the', 'a')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('yup', 'yep'), ('liar', 'blire')]"
+7.0,28,4,4,0,4,"['this', 'is', 'your', 'father']",[],"[('following', 'with'), ('just', 'our'), ('say', 'reagan'), ('yes', 'earlier')]"
+0.0,0,1,0,0,0,[],[],[]
+2.4,12,5,0,0,3,[],[],"[('i', 'to'), ('functioning', 'function'), ('skills', 'exams')]"
+3.6666666666666665,11,3,0,1,2,[],['its'],"[('already', 'this'), ('out', 'way')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('i', 'ive'), ('do', 'been')]"
+1.4,7,5,0,1,1,[],['if'],"[('get', 'got')]"
+4.375,35,8,1,0,8,['ive'],[],"[('if', 'hardened'), ('i', 'the'), ('get', 'dr'), ('a', 'carry'), ('joker', 'on'), ('ill', 'with'), ('at', 'all'), ('you', 'ourselves')]"
+8.0,16,2,4,0,1,"['stay', 'in', 'front', 'of']",[],"[('dont', 'me')]"
+3.6666666666666665,11,3,0,1,2,[],['what'],"[('the', 'compared'), ('hell', 'to')]"
+1.75,7,4,1,0,1,['hands'],[],"[('people', 'from')]"
+3.8,19,5,0,1,4,[],['hell'],"[('listen', 'the'), ('as', 'anniversary'), ('i', 'of'), ('predicted', 'the')]"
+2.2,11,5,1,0,2,['do'],[],"[('no', 'now'), ('deal', 'it')]"
+3.3333333333333335,10,3,1,1,1,['you'],['yeah'],"[('you', 'time')]"
+0.3,3,10,1,0,0,['and'],[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+2.8,14,5,1,1,2,['okay'],['bro'],"[('no', 'you'), ('yeah', 'can')]"
+0.6,3,5,1,0,0,['with'],[],[]
+4.0,12,3,0,0,3,[],[],"[('read', 'its'), ('the', 'very'), ('thing', 'distinct')]"
+1.2380952380952381,26,21,1,1,5,['i'],['i'],"[('and', 'when'), ('will', 'would'), ('just', 'drift'), ('split', 'with'), ('deck', 'dog')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,9,0,0,0,[],[],[]
+0.0,0,8,0,0,0,[],[],[]
+3.4285714285714284,24,7,0,0,6,[],[],"[('no', 'now'), ('i', 'im'), ('dont', 'on'), ('think', 'my'), ('so', 'face'), ('do', 'after')]"
+0.0,0,3,0,0,0,[],[],[]
+3.1538461538461537,41,13,1,6,5,['a'],"['my', 'head', 'its', 'like', 'wearing', 'a']","[('like', 'wanger'), ('falling', 'crown'), ('crown', 'the'), ('a', 'young'), ('tiara', 'man')]"
+2.0476190476190474,43,21,0,5,7,[],"['like', 'feel', 'like', 'im', 'romes']","[('in', 'can'), ('like', 'recommend'), ('where', 'wrong'), ('like', 'ones'), ('you', 'for'), ('wear', 'me'), ('crown', 'round')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('already', 'alright')]"
+1.5,12,8,2,2,0,"['part', 'to']","['whose', 'uhuh']",[]
+10.0,10,1,2,0,1,"['the', 'personal']",[],"[('two', 'bull')]"
+4.0,4,1,0,0,1,[],[],"[('two', 'oops')]"
+0.0,0,5,0,0,0,[],[],[]
+1.6666666666666667,25,15,3,0,4,"['love', 'do', 'for']",[],"[('he', 'you'), ('is', 'layers'), ('left', 'okay'), ('do', 'did')]"
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+2.3333333333333335,7,3,1,0,1,['what'],[],"[('whatd', 'did')]"
+3.5,7,2,0,1,1,[],['two'],"[('aces', 'okay')]"
+0.0,0,2,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('three', 'previous')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'stay'), ('four', 'smooth')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('bs', 'thats'), ('first', 'the'), ('of', 'entire'), ('five', 'video')]"
+0.0,0,7,0,0,0,[],[],[]
+3.0,6,2,1,1,0,['number'],['the'],[]
+0.0,0,4,0,0,0,[],[],[]
+8.0,24,3,8,0,0,"['never', 'no', 'game', 'ill', 'read', 'the', 'next', 'one']",[],[]
+3.3333333333333335,10,3,0,2,1,[],"['four', 'fucking']","[('four', 'foror')]"
+1.2,12,10,0,0,3,[],[],"[('are', 'oh'), ('you', 'youre'), ('bs', 'bf')]"
+2.9,58,20,2,4,10,"['gonna', 'one']","['im', 'gonna', 'add', 'not']","[('call', 'on'), ('bullshit', 'her'), ('on', 'cobble'), ('that', 'too'), ('calling', 'like'), ('bullshit', 'oh'), ('on', 'ill'), ('that', 'see'), ('calling', 'buy'), ('bullshit', 'shit')]"
+0.0,0,4,0,0,0,[],[],[]
+1.1363636363636365,25,22,1,2,4,['the'],"['i', 'have']","[('fours', 'four'), ('to', 'whole'), ('hold', 'of'), ('deck', 'day')]"
+2.4444444444444446,22,9,0,2,4,[],"['i', 'deck']","[('really', 'probably'), ('had', 'have'), ('thats', 'desk'), ('uh', 'to')]"
+2.7777777777777777,25,9,3,0,4,"['gonna', 'get', 'on']",[],"[('im', 'time'), ('tired', 'dont'), ('of', 'break'), ('being', 'that')]"
+3.75,15,4,0,1,3,[],['what'],"[('time', 'whats'), ('is', 'on'), ('it', 'this')]"
+0.0,0,15,0,0,0,[],[],[]
+1.5,9,6,3,0,0,"['at', 'making', 'everything']",[],[]
+5.5,22,4,2,0,4,"['im', 'a']",[],"[('players', 'new'), ('over', 'guy'), ('for', 'thank'), ('a', 'you')]"
+4.625,37,8,3,0,7,"['i', 'very', 'different']",[],"[('oh', 'want'), ('we', 'you'), ('should', 'to'), ('back', 'from'), ('its', 'what'), ('almost', 'i'), ('done', 'want')]"
+1.4736842105263157,28,19,8,0,1,"['oh', 'he', 'was', 'supposed', 'to', 'want', 'to', 'wait']",[],"[('settings', 'setting')]"
+1.5454545454545454,17,11,2,1,2,"['thank', 'ill']",['in'],"[('hell', 'keep'), ('be', 'you')]"
+0.75,12,16,0,0,3,[],[],"[('thats', 'its'), ('them', 'on'), ('mahjong', 'majou')]"
+2.875,92,32,6,6,14,"['im', 'can', 'with', 'of', 'but', 'the']","['right', 'now', 'this', 'bonding', 'time', 'before']","[('mahjong', 'not'), ('or', 'sure'), ('uno', 'if'), ('know', 'get'), ('thats', 'a'), ('actually', 'lot'), ('sounds', 'of'), ('dont', 'want'), ('wanna', 'to'), ('video', 'your'), ('is', 'its'), ('i', 'bonnington'), ('have', 'brought'), ('to', 'the')]"
+1.1111111111111112,10,9,1,1,1,['just'],['bruh'],"[('justnot', 'not')]"
+0.0,0,9,0,0,0,[],[],[]
+2.3333333333333335,14,6,2,0,2,"['tell', 'them']",[],"[('till', 'to'), ('eleven', 'spin')]"
+0.0,0,13,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['or'],[],"[('youre', 'see')]"
+4.666666666666667,14,3,2,0,2,"['and', 'you']",[],"[('or', 'well'), ('viv', 'then')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+1.3333333333333333,4,3,0,0,1,[],[],"[('that', 'hit')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'yeah')]"
+0.0,0,1,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['i'],[],"[('give', 'hate'), ('me', 'that')]"
+0.0,0,3,0,0,0,[],[],[]
+1.8333333333333333,22,12,0,2,4,[],"['know', 'i']","[('can', 'cant'), ('her', 'our'), ('and', 'in'), ('right', 'already')]"
+0.0,0,2,0,0,0,[],[],[]
+2.0,6,3,2,0,0,"['im', 'gonna']",[],[]
+3.5,7,2,0,1,1,[],['a'],"[('asshole', 'bye')]"
+2.3333333333333335,7,3,1,0,1,['im'],[],"[('three', 'thirty')]"
+5.2727272727272725,58,11,6,0,10,"['these', 'days', 'i', 'wont', 'it', 'shut']",[],"[('hes', 'im'), ('just', 'tiredyou'), ('upset', 'think'), ('cuz', 'im'), ('i', 'outta'), ('called', 'the'), ('his', 'pocket'), ('bullshit', 'shit'), ('many', 'the'), ('times', 'ries')]"
+0.0,0,14,0,0,0,[],[],[]
+0.17391304347826086,4,23,0,0,1,[],[],"[('his', 'the')]"
+1.7096774193548387,53,31,5,6,5,"['im', 'out', 'of', 'size', 'are']","['i', 'had', 'two', 'sevens', 'so', 'so']","[('i', 'that'), ('it', 'that'), ('ahhh', 'you'), ('thiss', 'really'), ('seven', 'sure')]"
+0.75,15,20,0,1,3,[],['just'],"[('shouldve', 'should'), ('called', 'call'), ('all', 'on')]"
+0.8,8,10,0,0,2,[],[],"[('wouldnt', 'would'), ('cards', 'cup')]"
+2.0,4,2,0,0,1,[],[],"[('wheres', 'heres')]"
+3.5,7,2,1,0,1,['live'],[],"[('the', 'in')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+0.36363636363636365,4,11,0,0,1,[],[],"[('the', 'and')]"
+1.25,15,12,0,1,3,[],['cards'],"[('imma', 'to'), ('real', 'card'), ('quick', 'through')]"
+3.2,16,5,0,4,1,[],"['knew', 'you', 'started', 'on']","[('four', 'the')]"
+5.0,15,3,1,0,3,['you'],[],"[('yep', 'up'), ('i', 'by'), ('know', 'now')]"
+4.0,4,1,0,0,1,[],[],"[('ace', 'dace')]"
+2.2,22,10,0,2,4,[],"['give', 'me']","[('one', 'im'), ('second', 'sorry'), ('ill', 'i'), ('grab', 'grabbed')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('im', 'were'), ('an', 'that')]"
+4.666666666666667,42,9,2,0,9,"['im', 'continuing']",[],"[('asian', 'to'), ('my', 'bring'), ('brain', 'this'), ('doesnt', 'in'), ('function', 'front'), ('that', 'of'), ('fast', 'my'), ('like', 'plastic'), ('this', 'best')]"
+0.0,0,3,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('how', 'not')]"
+7.0,7,1,1,0,1,['oh'],[],"[('uno', 'no')]"
+0.0,0,1,0,0,0,[],[],[]
+3.4,17,5,0,3,2,[],"['im', 'sorry', 'im']","[('so', 'the'), ('sorry', 'the')]"
+7.0,7,1,1,0,1,['well'],[],"[('damn', 'done')]"
+4.0,4,1,0,0,1,[],[],"[('damn', 'end')]"
+2.3333333333333335,7,3,0,1,1,[],['even'],"[('howd', 'thank')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('two', 'soon')]"
+1.9166666666666667,23,12,1,0,5,['for'],[],"[('i', 'ill'), ('your', 'you'), ('one', 'on'), ('two', 'the'), ('three', 'me')]"
+0.0,0,2,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['thank'],[],"[('bullshit', 'you')]"
+1.75,14,8,0,2,2,[],"['hm', 'you']","[('guys', 'hmm'), ('are', 'thats')]"
+3.5,7,2,1,0,1,['dont'],[],"[('two', 'do')]"
+3.5,7,2,0,1,1,[],['two'],"[('nines', 'yeah')]"
+2.0,4,2,0,0,1,[],[],"[('one', 'on')]"
+3.130434782608696,72,23,0,16,6,[],"['fuck', 'you', 'guys', 'all', 'seen', 'check', 'im', 'upset', 'he', 'saw', 'my', 'cards', 'how', 'about', 'that', 'wouldve']","[('my', 'bad'), ('cards', 'night'), ('mhm', 'peaceful'), ('been', 'one'), ('a', 'twothese'), ('surprise', 'camera')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'people')]"
+7.0,14,2,2,0,2,"['and', 'oh']",[],"[('one', 'charming'), ('point', 'working')]"
+7.0,7,1,1,0,1,['post'],[],"[('bullshit', 'it')]"
+4.0,4,1,0,0,1,[],[],"[('fuck', 'clim')]"
+7.0,7,1,1,0,1,['about'],[],"[('fuck', 'practice')]"
+2.0,4,2,0,0,1,[],[],"[('king', 'thing')]"
+2.75,11,4,1,0,2,['oh'],[],"[('bullshit', 'shit'), ('up', 'out')]"
+0.0,0,4,0,0,0,[],[],[]
+2.1666666666666665,13,6,3,0,1,"['my', 'heads', 'just']",[],"[('dammit', 'stuck')]"
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('two', 'watching')]"
+3.25,13,4,0,3,1,[],"['damn', 'she', 'got']","[('you', 'thanks')]"
+0.0,0,6,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('s', 'codes')]"
+7.666666666666667,23,3,5,0,2,"['i', 'will', 'see', 'in', 'the']",[],"[('know', 'next'), ('what', 'video')]"
+7.75,31,4,5,0,4,"['check', 'out', 'my', 'instagram', 'levi']",[],"[('yeah', 'resources'), ('we', 'on'), ('got', 'channel'), ('the', 'one')]"
+5.5,22,4,2,0,4,"['with', 'the']",[],"[('what', 'arms'), ('time', 'within'), ('is', 'the'), ('it', 'board')]"
+1.0,4,4,0,0,1,[],[],"[('tile', 'path')]"
+3.5,7,2,0,1,1,[],['im'],"[('missing', 'oh')]"
+4.0,4,1,0,0,1,[],[],"[('ten', 'again')]"
+2.0,4,2,0,0,1,[],[],"[('cut', 'got')]"
+3.5,28,8,0,4,4,[],"['cut', 'it', 'cut', 'it']","[('cut', 'very'), ('it', 'very'), ('cut', 'very'), ('it', 'very')]"
+2.142857142857143,30,14,1,1,6,['tell'],['it'],"[('aint', 'dont'), ('cut', 'the'), ('it', 'best'), ('thats', 'of'), ('why', 'all'), ('this', 'it')]"
+0.0,0,2,0,0,0,[],[],[]
+3.1,31,10,1,0,7,['you'],[],"[('yeah', 'know'), ('if', 'what'), ('dont', 'want'), ('wanna', 'to'), ('i', 'on'), ('would', 'this'), ('just', 'tada')]"
+10.0,10,1,2,0,1,"['thanks', 'for']",[],"[('interesting', 'watching')]"
+4.6,23,5,1,0,5,['those'],[],"[('looks', 'are'), ('like', 'the'), ('theres', 'research'), ('three', 'right'), ('sets', 'here')]"
+0.0,0,7,0,0,0,[],[],[]
+1.0,7,7,0,1,1,[],['on'],"[('set', 'for')]"
+11.5,23,2,5,0,2,"['and', 'ill', 'hold', 'on', 'for']",[],"[('the', 'a'), ('um', 'while')]"
+1.0,8,8,0,0,2,[],[],"[('the', 'that'), ('sheet', 'shirt')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'nope')]"
+3.5,14,4,0,2,2,[],"['oh', 'its']","[('my', 'm'), ('turn', 'k')]"
+4.0,4,1,0,0,1,[],[],"[('yep', 'beep')]"
+3.1818181818181817,35,11,0,9,2,[],"['there', 'must', 'be', 'a', 'lot', 'of', 'crack', 'in', 'there']","[('two', 'too'), ('ace', 'asians')]"
+0.0,0,1,0,0,0,[],[],[]
+3.8,19,5,1,0,4,['you'],[],"[('he', 'cant'), ('called', 'watch'), ('bullshit', 'it'), ('you', 'yet')]"
+0.0,0,8,0,0,0,[],[],[]
+0.14285714285714285,3,21,0,1,0,[],['well'],[]
+5.5,11,2,1,0,2,['i'],[],"[('one', 'want'), ('two', 'to')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['its'],[],"[('what', 'smart')]"
+0.0,0,5,0,0,0,[],[],[]
+1.5,30,20,1,5,3,['no'],"['cuz', 'i', 'know', 'damn', 'dont']","[('well', 'because'), ('any', 'damn'), ('and', 'walknavining')]"
+14.5,29,2,7,0,2,"['thank', 'you', 'well', 'see', 'you', 'in', 'the']",[],"[('your', 'next'), ('play', 'one')]"
+2.0,4,2,0,0,1,[],[],"[('sixes', 'sexes')]"
+5.0,25,5,3,0,4,"['sure', 'it', 'wont']",[],"[('i', 'im'), ('should', 'do'), ('organize', 'last'), ('these', 'year')]"
+4.0,4,1,0,0,1,[],[],"[('one', 'bye')]"
+1.9,19,10,1,0,4,['im'],[],"[('whoo', 'ooh'), ('i', 'thought'), ('totally', 'id'), ('jumped', 'jump')]"
+2.0,4,2,0,0,1,[],[],"[('eight', 'rates')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('yep', 'yes')]"
+0.0,0,1,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['got'],"[('them', 'now')]"
+4.0,4,1,0,0,1,[],[],"[('nine', 'align')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'more'), ('ten', 'channel')]"
+3.2,16,5,0,4,1,[],"['oh', 'my', 'god', 'one']","[('jack', 'gio')]"
+1.5714285714285714,11,7,0,1,2,[],['this'],"[('is', 'thats'), ('queens', 'points')]"
+4.0,4,1,0,0,1,[],[],"[('kings', 'shake')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'thanks')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,10,0,0,0,[],[],[]
+16.0,32,2,8,0,2,"['im', 'gonna', 'bounce', 'her', 'and', 'pick', 'that', 'out']",[],"[('the', 'of'), ('fuck', 'her')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'mmhmm'), ('twos', 'aww')]"
+3.6666666666666665,11,3,0,1,2,[],['damn'],"[('one', 'thank'), ('three', 'you')]"
+0.0,0,5,0,0,0,[],[],[]
+3.875,62,16,10,0,8,"['look', 'at', 'that', 'new', 'one', 'yeah', 'look', 'at', 'that', 'item']",[],"[('because', 'look'), ('i', 'at'), ('knew', 'that'), ('fuck', 'oh'), ('up', 'thats'), ('no', 'so'), ('hold', 'big'), ('on', 'hooto')]"
+2.7777777777777777,25,9,0,3,4,[],"['do', 'her', 'give']","[('like', 'so'), ('that', 'new'), ('her', 'youre'), ('chance', 'chin')]"
+2.5555555555555554,23,9,0,1,5,[],['are'],"[('you', 'theres'), ('targeting', 'tard'), ('me', 'coming'), ('now', 'out'), ('cuz', 'because')]"
+2.0,6,3,0,2,0,[],"['two', 'fours']",[]
+5.5,11,2,1,0,2,['thea'],[],"[('the', 'canet'), ('fuck', 'library')]"
+2.0,8,4,0,0,2,[],[],"[('two', 'too'), ('fives', 'far')]"
+0.0,0,9,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('hmm', 'bye')]"
+3.75,15,4,0,1,3,[],['now'],"[('six', 'wake'), ('call', 'up'), ('you', 'absolutely')]"
+5.5,11,2,1,0,2,['el'],[],"[('three', 'towth'), ('sevens', 'you')]"
+0.42857142857142855,3,7,0,1,0,[],['um'],[]
+1.625,13,8,0,3,1,[],"['lets', 'three', 'three']","[('eights', 'tool')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'happen'), ('nine', 'aquawrax')]"
+0.8888888888888888,8,9,0,0,2,[],[],"[('tens', 'turns'), ('jacks', 'turns')]"
+5.5,11,2,1,0,2,['to'],[],"[('two', 'coe'), ('queens', 'robbins')]"
+0.0,0,2,0,0,0,[],[],[]
+1.3333333333333333,4,3,0,0,1,[],[],"[('kings', 'things')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('four', 'for')]"
+1.5,3,2,0,1,0,[],['yeah'],[]
+4.0,8,2,0,0,2,[],[],"[('yeah', 'thank'), ('one', 'you')]"
+3.7142857142857144,26,7,0,2,5,[],"['two', 'yeah']","[('you', 'go'), ('got', 'ahead'), ('that', 'there'), ('yeah', 'force'), ('bullshit', 'it')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('up', 'im'), ('in', 'just'), ('this', 'proud'), ('two', 'too')]"
+3.6666666666666665,22,6,0,2,4,[],"['a', 'lot']","[('of', 'ill'), ('bs', 'be'), ('yo', 'a'), ('hm', 'little')]"
+4.6,23,5,1,0,5,['top'],[],"[('two', 'of'), ('queens', 'all'), ('mhm', 'these'), ('oh', 'im'), ('hmm', 'kidding')]"
+1.5,3,2,0,1,0,[],['one'],[]
+0.0,0,2,0,0,0,[],[],[]
+3.388888888888889,61,18,2,5,10,"['anything', 'with']","['its', 'okay', 'okay', 'if', 'he']","[('calls', 'me'), ('bs', 'nast'), ('all', 'oh'), ('to', 'the'), ('do', 'other'), ('is', 'one'), ('pick', 'oh'), ('it', 'no'), ('back', 'lets'), ('up', 'go')]"
+3.727272727272727,41,11,0,3,8,[],"['imma', 'let', 'it']","[('imma', 'group'), ('let', 'sexy'), ('it', 'im'), ('slide', 'little'), ('imma', 'small'), ('let', 'im'), ('it', 'little'), ('slide', 'small')]"
+0.0,0,2,0,0,0,[],[],[]
+3.6666666666666665,22,6,0,2,4,[],"['hard', 'to']","[('call', 'our'), ('bs', 'obvious'), ('in', 'literature'), ('this', 'term')]"
+3.2857142857142856,23,7,1,0,5,['im'],[],"[('imma', 'gonna'), ('ahead', 'to'), ('for', 'the'), ('that', 'thousand'), ('too', 'tools')]"
+0.0,0,2,0,0,0,[],[],[]
+1.0,4,4,0,0,1,[],[],"[('cards', 'guys')]"
+3.5,7,2,0,1,1,[],['one'],"[('five', 'sorry')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('no', 'okay')]"
+2.3333333333333335,7,3,1,0,1,['be'],[],"[('bs', 'as')]"
+3.0,21,7,3,0,3,"['ray', 'bitch', 'bitch']",[],"[('really', 'bitch'), ('pick', 'bitch'), ('up', 'h')]"
+3.5,7,2,0,1,1,[],['to'],"[('you', 'oh')]"
+4.5,27,6,4,1,3,"['i', 'dont', 'he', 'gets']",['had'],"[('two', 'sir'), ('service', 'oh'), ('awesome', 'shit')]"
+0.0,0,5,0,0,0,[],[],[]
+2.0,10,5,2,0,1,"['im', 'sorry']",[],"[('first', 'its')]"
+2.75,22,8,1,1,4,['did'],['much'],"[('smoother', 'smooth'), ('that', 'this'), ('is', 'really'), ('though', 'sounded')]"
+0.0,0,2,0,0,0,[],[],[]
+5.166666666666667,31,6,5,0,4,"['dont', 'hurt', 'it', 'need', 'to']",[],"[('felt', 'come'), ('like', 'on'), ('seen', 'send'), ('like', 'life')]"
+1.75,77,44,3,4,14,"['want', 'to', 'the']","['you', 'it', 'if', 'you']","[('suspicious', 'sufficient'), ('call', 'be'), ('bs', 'asked'), ('went', 'have'), ('bs', 'us'), ('you', 'we'), ('takes', 'we'), ('dont', 'i'), ('call', 'mean'), ('the', 'no'), ('were', 'one'), ('gonna', 'is'), ('be', 'calling'), ('like', 'me')]"
+0.9666666666666667,29,30,0,3,5,[],"['i', 'mean', 'calling']","[('nobody', 'gonna'), ('else', 'play'), ('besides', 'exercise'), ('cards', 'cars'), ('hand', 'head')]"
+0.8125,26,32,1,1,5,['both'],['and'],"[('also', 'not'), ('the', 'if'), ('sign', 'someone'), ('mm', 'mmm'), ('bullshitting', 'sitting')]"
+3.0,18,6,0,2,3,[],"['the', 'name']","[('of', 'an'), ('the', 'average'), ('game', 'guy')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('rounds', 'rattle')]"
+2.0,8,4,0,0,2,[],[],"[('it', 'about'), ('happens', 'things')]"
+3.5,7,2,0,1,1,[],['i'],"[('know', 'here')]"
+4.0,8,2,0,0,2,[],[],"[('hey', 'theyre'), ('chris', 'crisp')]"
+5.5,22,4,2,0,4,"['im', 'going']",[],"[('aint', 'to'), ('that', 'be'), ('dirty', 'nervous'), ('though', 'now')]"
+0.0,0,2,0,0,0,[],[],[]
+0.4,4,10,0,0,1,[],[],"[('takes', 'take')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('ass', 'out')]"
+0.25,3,12,0,1,0,[],['them'],[]
+3.8,19,5,3,2,1,"['do', 'you', 'need']","['in', 'my']","[('ass', 'emory')]"
+3.625,29,8,2,1,5,"['well', 'thats']",['else'],"[('do', 'youre'), ('you', 'going'), ('want', 'to'), ('from', 'call'), ('though', 'out')]"
+3.0,12,4,0,0,3,[],[],"[('hey', 'a'), ('my', 'must'), ('speed', 'be')]"
+0.0,0,9,0,0,0,[],[],[]
+3.2142857142857144,45,14,0,7,6,[],"['no', 'its', 'not', 'got', 'a', 'candle', 'with']","[('a', 'dont'), ('i', 'know'), ('got', 'what'), ('lighter', 'im'), ('with', 'talking'), ('like', 'about')]"
+2.8,28,10,0,4,4,[],"['its', 'like', 'eh', 'eh']","[('loaf', 'lot'), ('the', 'go'), ('stick', 'take'), ('end', 'care')]"
+2.142857142857143,15,7,1,0,3,['do'],[],"[('we', 'you'), ('play', 'my'), ('mahjong', 'job')]"
+3.111111111111111,28,9,0,4,4,[],"['it', 'would', 'be', 'fun']","[('we', 'i'), ('twister', 'first'), ('wont', 'or'), ('it', 'wannim')]"
+0.6,3,5,0,1,0,[],['on'],[]
+0.9375,15,16,0,1,3,[],['twister'],"[('can', 'twisterkin'), ('oh', 'are'), ('or', 'are')]"
+0.42857142857142855,3,7,0,1,0,[],['we'],[]
+3.75,30,8,0,2,6,[],"['oh', 'my']","[('god', 'schwartzing'), ('what', 'with'), ('do', 'reason'), ('we', 'nor'), ('call', 'the'), ('it', 'cult')]"
+4.0,8,2,0,0,2,[],[],"[('i', 'how'), ('know', 'nice')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,12,3,0,0,3,[],[],"[('that', 'aaahh'), ('means', 'ag'), ('what', 'at')]"
+7.0,7,1,1,0,1,['by'],[],"[('bible', 'people')]"
+4.75,19,4,1,0,4,['see'],[],"[('to', 'you'), ('mean', 'all'), ('something', 'next'), ('else', 'time')]"
+0.0,0,1,0,0,0,[],[],[]
+1.0,4,4,0,0,1,[],[],"[('name', 'trick')]"
+4.0,40,10,3,1,7,"['my', 'im', 'important']",['going'],"[('nothing', 'friend'), ('we', 'for'), ('to', 'gonna'), ('it', 'here'), ('on', 'my'), ('recorded', 'best'), ('cameras', 'friend')]"
+3.142857142857143,22,7,2,0,4,"['i', 'feel']",[],"[('so', 'a'), ('smooth', 'smoothie'), ('we', 'that'), ('it', 'i')]"
+0.0,0,1,0,0,0,[],[],[]
+1.8333333333333333,11,6,0,1,2,[],['we'],"[('know', 'no'), ('we', 'i')]"
+0.0,0,6,0,0,0,[],[],[]
+1.1428571428571428,8,7,0,0,2,[],[],"[('like', 'my'), ('a', 'shop')]"
+0.6,3,5,0,1,0,[],['a'],[]
+0.0,0,3,0,0,0,[],[],[]
+2.0,14,7,0,2,2,[],"['you', 'know']","[('we', 'were'), ('the', 'that')]"
+7.0,14,2,2,0,2,"['i', 'just']",[],"[('black', 'want'), ('mirror', 'to')]"
+1.7777777777777777,48,27,5,3,6,"['see', 'if', 'youre', 'cheating', 'or']","['no', 'we', 'and']","[('we', 'were'), ('are', 'were'), ('we', 'yeah'), ('waiting', 'were'), ('like', 'in'), ('mm', 'not')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.8,19,5,1,0,4,['seems'],[],"[('to', 'so'), ('cheat', 'to'), ('you', 'be'), ('mean', 'wearing')]"
+4.0,12,3,0,0,3,[],[],"[('no', 'now'), ('to', 'too'), ('cheat', 'cheap')]"
+4.0,8,2,0,0,2,[],[],"[('alright', 'love'), ('then', 'you')]"
+1.1,11,10,0,1,2,[],['i'],"[('have', 'ive'), ('have', 'ive')]"
+3.066666666666667,46,15,0,2,10,[],"['know', 'anyway']","[('what', 'no'), ('am', 'more'), ('talking', 'time'), ('about', 'yeah'), ('so', 'its'), ('for', 'any'), ('one', 'way'), ('of', 'to'), ('them', 'run'), ('to', 'into')]"
+1.3333333333333333,12,9,0,0,3,[],[],"[('youre', 'you'), ('solid', 'saw'), ('so', 'us')]"
+1.6363636363636365,18,11,1,1,3,['going'],['age'],"[('and', 'eggs'), ('gonna', 'to'), ('two', 'soup')]"
+4.0,4,1,0,0,1,[],[],"[('three', 'burney')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('four', 'for'), ('fours', 'force')]"
+5.333333333333333,16,3,4,0,1,"['picked', 'that', 'shit', 'of']",[],"[('bullshit', 'up')]"
+2.75,11,4,0,1,2,[],['pick'],"[('that', 'pass'), ('shit', 'it')]"
+1.75,7,4,0,1,1,[],['three'],"[('fours', 'threefourths')]"
+1.0,3,3,0,1,0,[],['uh'],[]
+2.1666666666666665,13,6,0,3,1,[],"['but', 'i', 'only']","[('put', 'biomap')]"
+1.7142857142857142,24,14,0,0,6,[],[],"[('four', 'fourfour'), ('fours', 'and'), ('now', 'ill'), ('shut', 'set'), ('that', 'it'), ('pick', 'take')]"
+2.3333333333333335,7,3,1,0,1,['give'],[],"[('gimme', 'me')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('pick', 'take'), ('up', 'off')]"
+0.0,0,3,0,0,0,[],[],[]
+1.4,7,5,1,0,1,['a'],[],"[('four', 'form')]"
+2.2857142857142856,16,7,0,4,1,[],"['know', 'but', 'you', 'four']","[('fours', 'horrible')]"
+0.0,0,5,0,0,0,[],[],[]
+10.0,10,1,2,0,1,"['because', 'of']",[],"[('him', 'the')]"
+0.0,0,12,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('fives', 'ok')]"
+0.0,0,8,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('yeah', 'aramo')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('nines', 'term')]"
+2.0,4,2,0,0,1,[],[],"[('tens', 'times')]"
+5.5,11,2,1,0,2,['more'],[],"[('one', 'do'), ('jack', 'it')]"
+2.0,4,2,0,0,1,[],[],"[('what', 'more')]"
+2.0,4,2,0,0,1,[],[],"[('jack', 'two')]"
+5.666666666666667,17,3,3,0,2,"['ill', 'let', 'that']",[],"[('one', 'go'), ('point', 'on')]"
+3.5,7,2,0,1,1,[],['one'],"[('queen', 'bye')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('aces', 'what')]"
+3.5,7,2,0,1,1,[],['one'],"[('two', 'wendy…')]"
+0.0,0,7,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['check'],"[('it', 'take'), ('out', 'care')]"
+1.6,8,5,0,0,2,[],[],"[('some', 'its'), ('more', 'war')]"
+1.2222222222222223,22,18,0,2,4,[],"['two', 'three']","[('four', 'i'), ('im', 'just'), ('using', 'want'), ('side', 'set')]"
+1.4,14,10,0,2,2,[],"['supposed', 'to']","[('say', 'saying'), ('five', 'my')]"
+3.6666666666666665,22,6,2,0,4,"['i', 'sort']",[],"[('hey', 'know'), ('was', 'of'), ('to', 'got'), ('call', 'a')]"
+0.0,0,3,0,0,0,[],[],[]
+3.0833333333333335,37,12,0,11,1,[],"['oh', 'no', 'no', 'no', 'you', 'got', 'it', 'you', 'got', 'it', 'one']","[('four', 'in')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('do', 'too'), ('i', 'right')]"
+0.0,0,2,0,0,0,[],[],[]
+0.6666666666666666,4,6,0,0,1,[],[],"[('no', 'now')]"
+0.23076923076923078,3,13,0,1,0,[],['i'],[]
+14.5,29,2,7,0,2,"['and', 'i', 'can', 'barely', 'sink', 'i', 'can']",[],"[('one', 'only'), ('six', 'sink')]"
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'barely')]"
+10.0,10,1,2,0,1,"['i', 'cant']",[],"[('bullshit', 'listen')]"
+0.4444444444444444,4,9,0,0,1,[],[],"[('you', 'he')]"
+3.25,52,16,1,3,10,['oh'],"['a', 'five', 'i']","[('bullshit', 'just'), ('cause', 'come'), ('its', 'on'), ('five', 'no'), ('and', 'no'), ('know', 'to—that'), ('that', 'doesnt'), ('for', 'have'), ('a', 'to'), ('fact', 'schröd')]"
+3.3333333333333335,20,6,0,4,2,[],"['what', 'did', 'you', 'say']","[('yours', 'continually'), ('was', 'second')]"
+3.75,15,4,1,0,3,['dont'],[],"[('said', 'know'), ('a', 'if'), ('four', 'well')]"
+0.47619047619047616,10,21,2,0,1,"['well', 'cant']",[],"[('cannot', 'even')]"
+3.2,16,5,1,3,1,['so'],"['just', 'called', 'bullshit']","[('i', 'you')]"
+4.0,24,6,0,0,6,[],[],"[('ah', 'look'), ('oh', 'at'), ('thats', 'my'), ('funny', 'cards'), ('as', 'right'), ('hell', 'now')]"
+3.3333333333333335,10,3,0,2,1,[],"['i', 'hate']","[('myself', 'bye')]"
+1.0,11,11,0,1,2,[],['i'],"[('know', 'no'), ('seven', 'summon')]"
+3.0,30,10,1,1,6,['sure'],['im'],"[('sly', 'you'), ('aint', 'know'), ('like', 'love'), ('a', 'this'), ('sly', 'live'), ('fox', 'box')]"
+1.0666666666666667,16,15,1,3,1,['you'],"['not', 'really', 'youre']","[('yall', 'all')]"
+0.0,0,2,0,0,0,[],[],[]
+2.3529411764705883,40,17,1,3,7,['bigger'],"['its', 'really', 'me']","[('cuz', 'cause'), ('to', 'and'), ('and', 'need'), ('bickering', 'as'), ('back', 'i'), ('and', 'can'), ('forth', 'see')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('broke', 'wait')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'tell'), ('sevens', 'us')]"
+0.44,11,25,0,1,2,[],['um'],"[('sixes', 'six'), ('did', 'hits')]"
+3.0,12,4,0,0,3,[],[],"[('i', 'thats'), ('said', 'it'), ('sevens', 'sounds')]"
+2.0,4,2,0,0,1,[],[],"[('sevens', 'songs')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'pop'), ('eights', 'elements')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('jacks', 'cheers')]"
+1.1428571428571428,8,7,0,0,2,[],[],"[('my', 'messed'), ('stuff', 'up')]"
+1.12,28,25,4,0,4,"['going', 'cool', 'leaf', 'alright']",[],"[('im', 'and'), ('gonna', 'i'), ('gonna', 'to'), ('queen', 'jack')]"
+3.5,7,2,0,1,1,[],['four'],"[('queens', 'porce')]"
+0.0,0,1,0,0,0,[],[],[]
+1.0,4,4,0,0,1,[],[],"[('bs', 'yes')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'yeah')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'go')]"
+1.375,11,8,0,1,2,[],['master'],"[('okay', 'and'), ('is', 'masters')]"
+3.1,31,10,0,9,1,[],"['oh', 'a', 'lot', 'of', 'bs', 'in', 'here', 'i', 'like']","[('that', 'alrighty')]"
+1.0,4,4,0,0,1,[],[],"[('twos', 'tears')]"
+2.8823529411764706,49,17,0,3,10,[],"['are', 'you', 'got']","[('alright', 'said'), ('then', 'yeah'), ('ill', 'thats'), ('just', 'what'), ('take', 'ive'), ('ill', 'been'), ('take', 'doing'), ('my', 'no'), ('cards', 'sir'), ('cuz', 'like')]"
+1.75,7,4,1,0,1,['n'],[],"[('i', 'ive')]"
+0.0,0,1,0,0,0,[],[],[]
+3.25,13,4,0,3,1,[],"['ill', 'take', 'my']","[('cards', 'bye')]"
+22.0,22,1,6,0,1,"['whichever', 'one', 'you', 'want', 'to', 'take']",[],"[('four', 'before')]"
+1.6666666666666667,10,6,2,0,1,"['yeah', 'fucks']",[],"[('fives', 'yeah')]"
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'issue')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('five', 'okay')]"
+7.0,7,1,1,0,1,['for'],[],"[('bullshit', 'sure')]"
+0.3333333333333333,4,12,0,0,1,[],[],"[('cards', 'card')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'magnuss'), ('sixes', 'forward')]"
+2.0,4,2,0,0,1,[],[],"[('sixes', 'sexes')]"
+0.0,0,2,0,0,0,[],[],[]
+1.3333333333333333,8,6,0,0,2,[],[],"[('how', 'call'), ('about', 'that')]"
+2.3333333333333335,35,15,0,5,5,[],"['uh', 'no', 'it', 'got', 'it']","[('you', 'youve'), ('you', 'to'), ('you', 'do'), ('one', 'alright'), ('eight', 'thank')]"
+2.0,4,2,0,0,1,[],[],"[('nine', 'now')]"
+0.0,0,2,0,0,0,[],[],[]
+1.8333333333333333,33,18,1,6,3,['please'],"['mm', 'no', 'cuz', 'you', 'said', 'yourself']","[('out', 'you'), ('like', 'so'), ('that', 'far')]"
+0.0,0,4,0,0,0,[],[],[]
+2.6666666666666665,16,6,0,0,4,[],[],"[('wanted', 'want'), ('him', 'a'), ('to', 'hinter'), ('call', 'car')]"
+4.0,16,4,0,0,4,[],[],"[('then', 'this'), ('stop', 'stuffs'), ('saying', 'in'), ('it', 'there')]"
+3.125,25,8,0,7,1,[],"['i', 'just', 'dont', 'say', 'anything', 'i', 'just']","[('play', 'okay')]"
+0.0,0,1,0,0,0,[],[],[]
+3.4444444444444446,31,9,1,4,4,['no'],"['her', 'shut', 'up', 'one']","[('be', 'i'), ('jack', 'myself'), ('shut', 'being'), ('up', 'defensive')]"
+0.5454545454545454,6,11,0,2,0,[],"['i', 'like']",[]
+4.0,20,5,0,0,5,[],[],"[('i', 'thanks'), ('said', 'have'), ('jack', 'a'), ('shut', 'good'), ('up', 'night')]"
+4.153846153846154,54,13,6,0,9,"['not', 'off', 'i', 'dont', 'know', 'do']",[],"[('no', 'you'), ('she', 'want'), ('already', 'to'), ('she', 'is'), ('cant', 'it'), ('put', 'going'), ('it', 'to'), ('back', 'put'), ('up', 'the')]"
+2.0,4,2,0,0,1,[],[],"[('queens', 'coins')]"
+1.2727272727272727,14,11,2,0,2,"['when', 'it']",[],"[('one', 'kidding'), ('king', 'me')]"
+1.25,15,12,1,0,3,['want'],[],"[('mhm', 'mmmm'), ('mhm', 'mmmm'), ('wanna', 'to')]"
+1.6666666666666667,15,9,1,0,3,['i'],[],"[('so', 'didnt'), ('one', 'want'), ('two', 'to')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'families')]"
+2.357142857142857,66,28,0,10,9,[],"['hm', 'he', 'said', 'threes', 'call', 'it', 'if', 'you', 'want', 'got']","[('threes', 'three'), ('call', 'good'), ('it', 'good'), ('call', 'im'), ('it', 'going'), ('how', 'to'), ('many', 'tell'), ('no', 'now'), ('it', 'guys')]"
+3.6,18,5,0,2,3,[],"['go', 'ahead']","[('go', 'good'), ('ahead', 'good'), ('hmm', 'oh')]"
+3.5,7,2,0,1,1,[],['two'],"[('fives', 'perfect')]"
+0.0,0,2,0,0,0,[],[],[]
+8.5,17,2,3,0,2,"['welcome', 'hm', 'what']",[],"[('one', 'was'), ('seven', 'that')]"
+2.0,4,2,0,0,1,[],[],"[('eights', 'eggs')]"
+10.0,10,1,2,0,1,"['there', 'you']",[],"[('damn', 'go')]"
+0.8888888888888888,8,9,0,0,2,[],[],"[('eight', 'eights'), ('ill', 'how')]"
+2.5,15,6,0,1,3,[],['boy'],"[('you', 'were'), ('gon', 'gonna'), ('that', 'it')]"
+3.5,7,2,0,1,1,[],['two'],"[('jacks', 'ook')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('kings', 'okay')]"
+2.625,21,8,3,0,3,"['want', 'want', 'it']",[],"[('wanna', 'to'), ('wanna', 'to'), ('bullshit', 'volition')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('go', 'dont')]"
+0.0,0,3,0,0,0,[],[],[]
+2.111111111111111,19,9,1,0,4,['not'],[],"[('nah', 'because'), ('cuz', 'shes'), ('youre', 'my'), ('laughing', 'no')]"
+6.0,30,5,5,1,3,"['in', 'the', 'good', 'comedy', 'part']",['im'],"[('looking', 'i'), ('my', 'would'), ('cards', 'have')]"
+7.0,7,1,1,0,1,['oh'],[],"[('bullshit', 'shit')]"
+3.0,15,5,0,5,0,[],"['never', 'reveal', 'to', 'the', 'opponents']",[]
+3.75,15,4,1,0,3,['because'],[],"[('damn', 'we'), ('she', 'play'), ('played', 'with')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'blossom')]"
+0.8,4,5,0,0,1,[],[],"[('pick', 'take')]"
+0.0,0,3,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('twos', 'two')]"
+1.8888888888888888,34,18,0,6,4,[],"['oh', 'i', 'fucked', 'up', 'alright', 'well']","[('better', 'burning'), ('not', 'out'), ('better', 'burning'), ('not', 'out')]"
+4.0,4,1,0,0,1,[],[],"[('shit', 'shut')]"
+0.6363636363636364,7,11,1,0,1,['give'],[],"[('gimme', 'me')]"
+3.75,30,8,0,2,6,[],"['damn', 'damn']","[('why', 'what'), ('were', 'weapon'), ('so', 'do'), ('many', 'you'), ('people', 'want'), ('bullshitting', 'crafting')]"
+4.0,4,1,0,0,1,[],[],"[('lily', 'okay')]"
+2.764705882352941,94,34,1,21,7,['well'],"['alright', 'man', 'look', 'this', 'for', 'yall', 'all', 'got', 'is', 'two', 'threes', 'hold', 'on', 'hold', 'on', 'gimme', 'gimme', 'gimme', 'one', 'second', 'i']","[('i', 'ive'), ('or', 'take'), ('leave', 'to'), ('need', 'oh'), ('to', 'no'), ('double', 't'), ('check', 'sap')]"
+3.4285714285714284,24,7,4,0,3,"['my', 'single', 'with', 'the']",[],"[('im', 'god'), ('singles', 'entire'), ('in', 'line')]"
+2.5714285714285716,18,7,0,2,3,[],"['alright', 'you']","[('got', 'all'), ('it', 'right'), ('you', 'he')]"
+0.0,0,2,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['you'],"[('know', 'itll'), ('what', 'work')]"
+3.0,9,3,1,2,0,['thank'],"['got', 'it']",[]
+1.3333333333333333,16,12,0,4,1,[],"['okay', 'was', 'wanna', 'call']","[('it', 'are')]"
+2.142857142857143,15,7,0,1,3,[],['nah'],"[('you', 'were'), ('gon', 'gonna'), ('sixes', 'sessions')]"
+5.5,11,2,1,0,2,['you'],[],"[('one', 'want'), ('seven', 'some')]"
+3.75,30,8,0,2,6,[],"['uh', 'bullshit']","[('yo', 'oh'), ('pick', 'more'), ('all', 'soon'), ('that', 'yeah'), ('shit', 'pretty'), ('up', 'close')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5454545454545454,39,11,1,0,9,['im'],[],"[('imma', 'gonna'), ('let', 'thank'), ('that', 'you'), ('be', 'im'), ('imma', 'gonna'), ('one', 'on'), ('fly', 'so'), ('v', 'ill'), ('uh', 'be')]"
+0.0,0,1,0,0,0,[],[],[]
+0.36363636363636365,8,22,0,0,2,[],[],"[('player', 'paper'), ('liar', 'lie')]"
+1.0588235294117647,18,17,1,1,3,['getting'],['that'],"[('going', 'out'), ('cards', 'cars'), ('though', 'dude')]"
+0.0,0,13,0,0,0,[],[],[]
+1.5,6,4,2,0,0,"['this', 'says']",[],[]
+0.5555555555555556,10,18,0,2,1,[],"['a', 'a']","[('down', 'on')]"
+1.4444444444444444,26,18,0,2,5,[],"['that', 'card']","[('the', 'a'), ('let', 'car'), ('me', 'itll'), ('read', 'be'), ('this', 'ridiculous')]"
+0.7058823529411765,12,17,0,0,3,[],[],"[('like', 'but'), ('rank', 'right'), ('higher', 'heart')]"
+1.0909090909090908,12,11,0,0,3,[],[],"[('it', 'at'), ('a', 'every'), ('higher', 'type')]"
+1.7142857142857142,12,7,0,0,3,[],[],"[('ive', 'i'), ('playing', 'point'), ('too', 'to')]"
+2.0,26,13,0,2,5,[],"['but', 'i']","[('could', 'back'), ('be', 'to'), ('biased', 'me'), ('cuz', 'bias'), ('i', 'because')]"
+2.875,23,8,3,2,2,"['a', 'if', 'youre']","['first', 'of']","[('all', 'so'), ('four', 'not')]"
+2.076923076923077,54,26,4,2,9,"['youre', 'going', 'to', 'get']","['redouble', 'rank']","[('youre', 'i'), ('not', 'would'), ('allowed', 'love'), ('double', 'go'), ('fours', 'floor'), ('you', 'youre'), ('over', 'up'), ('where', 'right'), ('you', 'one')]"
+0.42857142857142855,3,7,0,1,0,[],['its'],[]
+1.9090909090909092,21,11,0,3,3,[],"['why', 'are', 'number']","[('you', 'its'), ('four', 'out'), ('then', 'authority')]"
+0.7,7,10,0,1,1,[],['cuz'],"[('a', 'the')]"
+3.6666666666666665,44,12,4,0,8,"['poor', 'to', 'the', 'for']",[],"[('when', 'one'), ('fours', 'us'), ('youre', 'when'), ('supposed', 'we'), ('to', 'your'), ('be', 'cousin'), ('putting', 'put'), ('fives', 'farts')]"
+0.0,0,1,0,0,0,[],[],[]
+2.5714285714285716,18,7,0,2,3,[],"['that', 'doesnt']","[('doesnt', 'does'), ('make', 'a'), ('sense', 'lot')]"
+0.5,8,16,0,0,2,[],[],"[('play', 'point'), ('how', 'out')]"
+4.0,20,5,0,0,5,[],[],"[('yes', 'okay'), ('what', 'im'), ('ever', 'not'), ('what', 'raving'), ('ever', 'yet')]"
+2.142857142857143,15,7,0,1,3,[],['going'],"[('to', 'not'), ('read', 'making'), ('again', 'whatever')]"
+2.7,27,10,0,1,6,[],['bunch'],"[('uh', 'thats'), ('of', 'terrible'), ('bullshit', 'shit'), ('im', 'of'), ('gonna', 'us'), ('say', 'are')]"
+0.0,0,6,0,0,0,[],[],[]
+3.2666666666666666,49,15,1,2,10,['a'],"['you', 'this']","[('know', 'thats'), ('this', 'why'), ('games', 'its'), ('liar', 'lion'), ('game', 'who'), ('its', 'gets'), ('liar', 'wire'), ('cuz', 'whos'), ('its', 'gonna'), ('going', 'sure')]"
+0.0,0,5,0,0,0,[],[],[]
+1.121212121212121,74,66,3,7,11,"['to', 'this', 'this']","['it', 'four', 'im', 'going', 'to', 'the', 'like']","[('yall', 'you'), ('alright', 'for'), ('down', 'out'), ('fours', 'force'), ('be', 'we'), ('playing', 'play'), ('cuz', 'because'), ('as', 'is'), ('hell', 'a'), ('to', 'good'), ('that', 'on')]"
+0.4444444444444444,4,9,0,0,1,[],[],"[('leaned', 'learned')]"
+0.0,0,1,0,0,0,[],[],[]
+0.34146341463414637,14,41,0,2,2,[],"['ace', 'three']","[('spades', 'eighthspeed'), ('fours', 'threefours')]"
+1.6363636363636365,36,22,1,3,6,['be'],"['comes', 'in', 'alright']","[('bs', 'as'), ('about', 'well'), ('you', 'goes'), ('go', 'to'), ('bs', 'rbs'), ('two', 'too')]"
+1.6428571428571428,23,14,0,5,2,[],"['and', 'thats', 'how', 'you', 'catch']","[('them', 'all'), ('them', 'curse')]"
+1.7272727272727273,19,11,1,0,4,['you'],[],"[('thats', 'its'), ('he', 'when'), ('he', 'you'), ('goes', 'go')]"
+1.5384615384615385,20,13,0,4,2,[],"['it', 'it', 'it', 'i']","[('promise', 'our'), ('you', 'problem')]"
+4.0,4,1,0,0,1,[],[],"[('five', 'bye')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'cheers'), ('sixes', 'texas')]"
+3.5,7,2,0,1,1,[],['one'],"[('seven', 'also')]"
+3.5,7,2,0,1,1,[],['one'],"[('eight', 'bye')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('one', 'thank'), ('ten', 'you')]"
+1.5,3,2,0,1,0,[],['one'],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('kings', 'okay')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'nice')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('threes', 'section')]"
+3.5,7,2,0,1,1,[],['how'],"[('many', 'hi')]"
+2.0,4,2,0,0,1,[],[],"[('threes', 'degrees')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'thank'), ('four', 'you')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('one', 'lets'), ('six', 'see')]"
+3.5,7,2,0,1,1,[],['one'],"[('seven', 'considering')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'when'), ('eight', 'i')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'uzz'), ('nine', 'programs')]"
+7.0,14,2,2,0,2,"['see', 'you']",[],"[('two', 'next'), ('tens', 'time')]"
+4.0,12,3,0,0,3,[],[],"[('two', 'see'), ('two', 'you'), ('jacks', 'jax')]"
+0.7777777777777778,7,9,0,1,1,[],['want'],"[('to', 'wanna')]"
+3.0,27,9,0,5,3,[],"['i', 'want', 'bs', 'so', 'bad']","[('to', 'honor'), ('on', 'bso'), ('that', 'battle')]"
+0.0,0,6,0,0,0,[],[],[]
+2.6666666666666665,8,3,0,0,2,[],[],"[('wait', 'we'), ('no', 'know')]"
+1.3846153846153846,18,13,6,0,0,"['teacher', 'and', 'fell', 'that', 'oh', 'yeah']",[],[]
+0.6666666666666666,4,6,0,0,1,[],[],"[('you', 'yeah')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('quite', 'quit'), ('care', 'there')]"
+3.142857142857143,22,7,2,0,4,"['im', 'b']",[],"[('imma', 'gonna'), ('bs', 'i'), ('on', 'throw'), ('now', 'up')]"
+0.0,0,1,0,0,0,[],[],[]
+3.125,25,8,0,7,1,[],"['mhm', 'mhm', 'thats', 'a', 'whole', 'lot', 'of']","[('bs', 'oh')]"
+3.2857142857142856,23,7,0,5,2,[],"['which', 'one', 'are', 'you', 'gonna']","[('be', 'is'), ('on', 'blocker')]"
+2.3333333333333335,7,3,1,0,1,['a'],[],"[('blue', 'blip')]"
+3.5,14,4,0,2,2,[],"['oh', 'i']","[('guess', 'bye'), ('im', 'guys')]"
+5.0,15,3,1,0,3,['yeah'],[],"[('yellow', 'lets'), ('or', 'go'), ('black', 'that')]"
+4.0,4,1,0,0,1,[],[],"[('bet', 'thats')]"
+2.0,8,4,0,0,2,[],[],"[('more', 'were'), ('black', 'back')]"
+1.4,7,5,0,1,1,[],['yeah'],"[('no', 'well')]"
+0.0,0,3,0,0,0,[],[],[]
+3.5,14,4,0,2,2,[],"['oh', 'there']","[('we', 'thats'), ('go', 'perfect')]"
+1.0,7,7,0,1,1,[],['oh'],"[('oh', 'a')]"
+3.5,14,4,0,2,2,[],"['doesnt', 'matter']","[('to', 'fucking'), ('me', 'burnout')]"
+5.5,11,2,1,0,2,['thanks'],[],"[('thirteen', 'for'), ('credits', 'watching')]"
+3.2,16,5,0,4,1,[],"['oh', 'yeah', 'lets', 'do']","[('it', 'no')]"
+3.6666666666666665,11,3,0,1,2,[],['five'],"[('oh', 'bye'), ('one', 'everyone')]"
+7.0,7,1,1,0,1,['joule'],[],"[('open', 'room')]"
+1.6,8,5,0,0,2,[],[],"[('ones', 'was'), ('rigged', 'rig')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('hey', 'theyre')]"
+5.333333333333333,16,3,4,0,1,"['he', 'he', 'he', 'he']",[],"[('you', 'he')]"
+7.0,7,1,1,0,1,['bye'],[],"[('okay', 'bye')]"
+0.0,0,7,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('whew', 'whoa')]"
+6.5,39,6,5,0,6,"['i', 'love', 'you', 'i', 'love']",[],"[('that', 'you'), ('was', 'i'), ('close', 'love'), ('that', 'you'), ('was', 'love'), ('close', 'you')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('same', 'thanks'), ('spot', 'for')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'bye')]"
+1.5,3,2,0,1,0,[],['buddy'],[]
+3.3,33,10,0,7,3,[],"['ooh', 'you', 'were', 'you', 'were', 'you', 'what']","[('were', 'thanks'), ('you', 'for'), ('saying', 'watching')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+0.6666666666666666,4,6,0,0,1,[],[],"[('you', 'they')]"
+0.0,0,5,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('yeah', 'help')]"
+3.5,14,4,0,2,2,[],"['in', 'the']","[('twohundreds', 'twooneerds'), ('now', 'novel')]"
+2.0714285714285716,29,14,0,3,5,[],"['see', 'what', 'see']","[('barely', 'bailey'), ('youre', 'serious'), ('what', 'serious'), ('youre', 'i'), ('saying', 'know')]"
+0.0,0,1,0,0,0,[],[],[]
+3.2,16,5,0,4,1,[],"['ooh', 'you', 'are', 'dropping']","[('quick', 'campsite')]"
+5.5,22,4,2,0,4,"['and', 'we']",[],"[('you', 'want'), ('ever', 'to'), ('do', 'learn'), ('whoever', 'to')]"
+4.0,16,4,0,0,4,[],[],"[('messing', 'from'), ('up', 'our'), ('my', 'local'), ('world', 'location')]"
+5.0,15,3,1,0,3,['thank'],[],"[('okay', 'you'), ('lets', 'for'), ('play', 'watching')]"
+3.0,18,6,1,1,3,['need'],['off'],"[('can', 'to'), ('our', 'no'), ('masks', 'products')]"
+0.0,0,1,0,0,0,[],[],[]
+2.0,22,11,2,0,4,"['kicking', 'picture']",[],"[('only', 'definitely'), ('taking', 'of'), ('pictures', 'the'), ('mode', 'north')]"
+3.75,15,4,0,1,3,[],['all'],"[('right', 'yeah'), ('lets', 'thats'), ('play', 'great')]"
+4.666666666666667,14,3,2,0,2,"['spread', 'it']",[],"[('its', 'full'), ('going', 'on')]"
+0.0,0,5,0,0,0,[],[],[]
+3.3333333333333335,10,3,0,2,1,[],"['yeah', 'we']","[('are', 'lover')]"
+3.5,7,2,1,0,1,['shut'],[],"[('shuffle', 'up')]"
+1.5,3,2,0,1,0,[],['then'],[]
+1.619047619047619,34,21,1,1,7,['no'],['looking'],"[('down', 'that'), ('is', 'was'), ('cos', 'poor'), ('these', 'for'), ('are', 'neither'), ('brand', 'will'), ('new', 'it')]"
+4.0,4,1,0,0,1,[],[],"[('doubtful', 'green')]"
+3.1666666666666665,19,6,0,5,1,[],"['i', 'will', 'bring', 'myself', 'a']","[('chair', 'wow')]"
+2.090909090909091,23,11,0,5,2,[],"['anymore', 'gadgets', 'for', 'me', 'you']","[('got', 'any'), ('anymore', 'more')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'bye')]"
+2.0,8,4,0,0,2,[],[],"[('anymore', 'love'), ('gadgets', 'it')]"
+9.75,39,4,9,0,3,"['pour', 'the', 'vegetables', 'in', 'a', 'row', 'hair', 'for', 'a']",[],"[('welcome', 'oil'), ('to', 'drink'), ('olympics', 'ball')]"
+2.4444444444444446,22,9,2,0,4,"['our', 'videos']",[],"[('the', 'i'), ('session', 'think'), ('playing', 'planning'), ('bs', 'yes')]"
+4.0,4,1,0,0,1,[],[],"[('right', 'alright')]"
+3.3333333333333335,20,6,0,4,2,[],"['yup', 'liar', 'thats', 'what']","[('its', 'yep'), ('called', 'flyer')]"
+2.1666666666666665,13,6,1,2,1,['be'],"['but', 'yeah']","[('bs', 'it')]"
+4.333333333333333,26,6,2,0,5,"['see', 'there']",[],"[('i', 'there'), ('have', 'there'), ('no', 'are'), ('functioning', 'options'), ('skills', 'here')]"
+2.2,11,5,0,1,2,[],['two'],"[('jokers', 'twojoker'), ('out', 'low')]"
+2.7142857142857144,19,7,0,1,4,[],['do'],"[('i', 'im'), ('am', 'gonna'), ('skilled', 'still'), ('at', 'do')]"
+2.5454545454545454,28,11,3,1,4,"['i', 'listen', 'joke']",['yeah'],"[('get', 'pocket'), ('joker', 'or'), ('im', 'ill'), ('throwing', 'throw')]"
+1.2,6,5,0,2,0,[],"['did', 'you']",[]
+5.5,11,2,1,0,2,['appreciate'],[],"[('please', 'yall'), ('do', 'shit')]"
+3.6666666666666665,11,3,0,1,2,[],['oh'],"[('yeah', 'go'), ('step', 'now')]"
+1.6,8,5,0,0,2,[],[],"[('no', 'im'), ('deal', 'get')]"
+2.3333333333333335,7,3,1,0,1,['im'],[],"[('yeah', 'glad')]"
+1.1,11,10,1,0,2,['and'],[],"[('no', 'now'), ('in', 'on')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'hello')]"
+4.0,4,1,0,0,1,[],[],"[('right', 'bye')]"
+2.142857142857143,15,7,1,0,3,['do'],[],"[('not', 'left'), ('deal', 'your'), ('yourself', 'toe')]"
+3.2,16,5,0,4,1,[],"['okay', 'you', 'can', 'deal']","[('yourself', 'love')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('thing', 'same')]"
+0.4782608695652174,11,23,0,1,2,[],['it'],"[('will', 'would'), ('deck', 'neck')]"
+27.0,81,3,23,0,3,"['a', 'didnt', 'hurt', 'my', 'head', 'since', 'im', 'off', 'but', 'i', 'just', 'wanted', 'all', 'of', 'the', 'nutrients', 'to', 'dolphins', 'because', 'they', 'were', 'named', 'back']",[],"[('are', 'in'), ('you', 'the'), ('sure', 'eat')]"
+2.888888888888889,26,9,0,2,5,[],"['were', 'so']","[('going', 'im'), ('to', 'not'), ('play', 'the'), ('many', 'main'), ('rounds', 'round')]"
+0.0,0,8,0,0,0,[],[],[]
+3.857142857142857,27,7,0,1,6,[],['no'],"[('i', 'mm'), ('dont', 'hmm'), ('think', 'looks'), ('so', 'like'), ('do', 'a'), ('we', 'baby')]"
+3.076923076923077,40,13,0,8,4,[],"['its', 'like', 'falling', 'off', 'my', 'head', 'its', 'tiara']","[('like', 'the'), ('wearing', 'wes'), ('a', 'is'), ('crown', 'kind')]"
+1.25,25,20,2,1,4,"['wrongies', 'of']",['i'],"[('feel', 'actually'), ('like', 'if'), ('wear', 'were'), ('crown', 'frown')]"
+1.2857142857142858,9,7,0,3,0,[],"['all', 'right', 'can']",[]
+2.2857142857142856,16,7,0,0,4,[],[],"[('part', 'right'), ('the', 'two'), ('right', 'very'), ('the', 'fruits')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'too'), ('aces', 'airframe')]"
+3.5,7,2,0,1,1,[],['two'],"[('aces', 'cheers')]"
+2.4,12,5,0,4,0,[],"['the', 'person', 'the', 'left']",[]
+1.6666666666666667,10,6,0,2,1,[],"['to', 'my']","[('left', 'tomorrow')]"
+0.9166666666666666,11,12,0,1,2,[],['do'],"[('do', 'can'), ('two', 'to')]"
+3.75,15,4,1,0,3,['good'],[],"[('me', 'what'), ('im', 'happened'), ('next', 'pneeciya')]"
+4.0,12,3,0,0,3,[],[],"[('its', 'knees'), ('her', 'help'), ('turn', 'us')]"
+2.5,10,4,0,2,1,[],"['what', 'say']","[('did', 'thank')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'too'), ('aces', 'white')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'looking'), ('four', 'forward')]"
+2.25,18,8,0,2,3,[],"['you', 'got']","[('to', 'youre'), ('go', 'your'), ('five', 'part')]"
+2.142857142857143,15,7,0,1,3,[],['the'],"[('no', 'oh'), ('same', 'this'), ('number', 'now')]"
+3.3333333333333335,20,6,0,4,2,[],"['yeah', 'you', 'could', 'do']","[('the', 'so'), ('same', 'okay')]"
+1.0,4,4,0,0,1,[],[],"[('cards', 'card')]"
+0.8181818181818182,9,11,0,3,0,[],"['what', 'kind', 'of']",[]
+4.0,8,2,0,0,2,[],[],"[('pick', 'zain'), ('seven', 'bye')]"
+1.7741935483870968,55,31,1,16,1,['im'],"['on', 'that', 'one', 'no', 'you', 'got', 'it', 'you', 'got', 'it', 'bro', 'no', 'you', 'got', 'it', 'chief']","[('imma', 'gonna')]"
+3.8461538461538463,50,13,0,2,11,[],"['please', 'by']","[('all', 'no'), ('means', 'no'), ('by', 'you'), ('all', 'got'), ('means', 'it'), ('if', 'close'), ('i', 'no'), ('can', 'you'), ('call', 'got'), ('your', 'it'), ('cards', 'steve')]"
+2.2,11,5,0,1,2,[],['got'],"[('it', 'gotta'), ('chief', 'choose')]"
+4.0,12,3,0,0,3,[],[],"[('by', 'um'), ('all', 'i'), ('means', 'i')]"
+0.0,0,5,0,0,0,[],[],[]
+0.6,3,5,0,1,0,[],['you'],[]
+10.0,10,1,2,0,1,"['see', 'you']",[],"[('two', 'guys')]"
+3.5,7,2,0,1,1,[],['one'],"[('time', 'okay')]"
+3.5,7,2,0,1,1,[],['two'],"[('jacks', 'grab')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'in'), ('queens', 'place')]"
+7.0,7,1,1,0,1,['boot'],[],"[('what', 'one')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'too'), ('queens', 'quick')]"
+2.0,4,2,0,0,1,[],[],"[('four', 'for')]"
+0.6666666666666666,6,9,0,2,0,[],"['im', 'not']",[]
+2.5833333333333335,31,12,0,5,4,[],"['risky', 'get', 'the', 'reward', 'giving']","[('you', 'honest'), ('all', 'no'), ('those', 'im'), ('cards', 'gone')]"
+6.0,6,1,2,0,0,"['im', 'going']",[],[]
+3.125,25,8,0,3,4,[],"['dont', 'call', 'it']","[('now', 'no'), ('call', 'go'), ('it', 'home'), ('now', 'no')]"
+1.75,7,4,0,1,1,[],['two'],"[('twos', 'toottoot')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'ool'), ('threes', 'oh')]"
+0.0,0,3,0,0,0,[],[],[]
+1.7777777777777777,16,9,0,0,4,[],[],"[('of', 'it'), ('this', 'is'), ('game', 'guy'), ('sick', 'think')]"
+3.5,14,4,0,2,2,[],"['this', 'shit']","[('right', 'see'), ('here', 'you')]"
+0.0,0,6,0,0,0,[],[],[]
+3.6,18,5,0,2,3,[],"['my', 'whole']","[('freaking', 'okay'), ('deck', 'please'), ('bro', 'subscribe')]"
+0.0,0,5,0,0,0,[],[],[]
+3.1666666666666665,19,6,0,5,1,[],"['you', 'acting', 'like', 'that', 'on']","[('camera', 'applause')]"
+1.0909090909090908,12,11,0,0,3,[],[],"[('tired', 'sorry'), ('of', 'to'), ('can', 'cant')]"
+1.1428571428571428,8,7,0,0,2,[],[],"[('you', 'youre'), ('draw', 'not')]"
+2.5,10,4,2,0,1,"['that', 'to']",[],"[('nothing', 'you')]"
+3.75,15,4,0,1,3,[],['pick'],"[('up', 'take'), ('that', 'care'), ('card', 'bye')]"
+3.7142857142857144,26,7,0,2,5,[],"['do', 'i']","[('look', 'and'), ('cute', 'you'), ('i', 'know'), ('look', 'have'), ('cute', 'dear')]"
+1.4,7,5,1,0,1,['elses'],[],"[('who', 'cyberpunk')]"
+1.0,7,7,1,0,1,['i'],[],"[('in', 'on')]"
+2.0,4,2,0,0,1,[],[],"[('woah', 'oh')]"
+2.0,22,11,1,1,4,['this'],['the'],"[('these', 'bye'), ('so', 'indeed'), ('i', 'some'), ('have', 'fuegos')]"
+0.5,4,8,0,0,1,[],[],"[('several', 'some')]"
+2.0,20,10,0,4,2,[],"['are', 'me', 'out', 'on']","[('you', 'were'), ('a', 'another')]"
+7.0,14,2,2,0,2,"['you', 'want']",[],"[('three', 'their'), ('fifty', 'trip')]"
+3.1,31,10,0,9,1,[],"['or', 'you', 'wanna', 'pay', 'my', 'bills', 'which', 'one', 'you']","[('want', 'arag')]"
+86.5,173,2,55,0,2,"['youre', 'the', 'bestoved', 'boss', 'i', 'wish', 'youd', 'him', 'that', 'time', 'goes', 'down', 'because', 'of', 'youchaaaaaa', 'no', 'i', 'mathugh', 'weaver', 'not', 'that', 'hell', 'tell', 'you', 'what', 'him', 'you', 'want', 'dinosaurs', 'would', 'an', 'celebration', 'be', 'called', 'a', 'prepares', 'demon', 'whether', 'youre', 'a', 'chaotic', 'robot', 'or', 'copyright', 'or', 'your', 'breach', 'or', 'lower', 'than', 'a', 'perfectly', 'here', 'at', 'least']",[],"[('holding', 'the'), ('up', 'player')]"
+3.125,25,8,0,7,1,[],"['you', 'want', 'three', 'fifty', 'you', 'want', 'five']","[('hundred', 'civil')]"
+3.466666666666667,52,15,1,3,10,['dont'],"['fuck', 'am', 'i']","[('want', 'know'), ('five', 'if'), ('hundred', 'im'), ('what', 'under'), ('supposed', 'sun'), ('to', 'but'), ('do', 'im'), ('with', 'not'), ('five', 'under'), ('hundred', 'it')]"
+2.4,12,5,0,0,3,[],[],"[('whatever', 'whenever'), ('the', 'i'), ('want', 'open')]"
+0.5714285714285714,8,14,0,0,2,[],[],"[('three', 'but'), ('fifty', 'it')]"
+7.0,7,1,1,0,1,['around'],[],"[('hm', 'and')]"
+2.6153846153846154,34,13,4,2,4,"['ill', 'try', 'to', 'buy']","['do', 'you']","[('want', 'being'), ('three', 'more'), ('fifty', 'thrifty'), ('five', 'a')]"
+3.142857142857143,44,14,0,8,5,[],"['fifty', 'um', 'it', 'is', 'called', 'plan', 'b', 'pills']","[('if', 'and'), ('you', 'heres'), ('have', 'how'), ('hundred', 'im'), ('you', 'connecting')]"
+0.0,0,1,0,0,0,[],[],[]
+4.545454545454546,50,11,2,0,11,"['what', 'what']",[],"[('he', 'you'), ('said', 'just'), ('plan', 'what'), ('b', 'you'), ('pills', 'just'), ('plan', 'what'), ('b', 'you'), ('are', 'just'), ('fifty', 'said'), ('dollars', 'beep'), ('each', 'beep')]"
+0.4,4,10,0,0,1,[],[],"[('say', 'just')]"
+4.0,12,3,0,0,3,[],[],"[('you', 'thanks'), ('see', 'for'), ('though', 'watching')]"
+3.272727272727273,36,11,0,8,3,[],"['why', 'do', 'i', 'need', 'plan', 'b', 'for', 'he']","[('want', 'you'), ('a', 'see'), ('kid', 'dont')]"
+2.6666666666666665,16,6,0,0,4,[],[],"[('wont', 'dont'), ('give', 'get'), ('him', 'them'), ('one', 'flying')]"
+2.5,15,6,1,0,3,['to'],[],"[('one', 'hold'), ('right', 'my'), ('now', 'mouth')]"
+3.076923076923077,40,13,0,4,7,[],"['but', 'if', 'be', 'knocked']","[('wanted', 'want'), ('up', 'thank'), ('hes', 'you'), ('probably', 'all'), ('happy', 'for'), ('as', 'having'), ('shit', 'me')]"
+1.8333333333333333,11,6,1,0,2,['of'],[],"[('as', 'this'), ('fuck', 'vote')]"
+2.75,22,8,0,6,1,[],"['still', 'be', 'going', 'to', 'the', 'uh']","[('a', 'study')]"
+4.0,4,1,0,0,1,[],[],"[('okay', 'hurt')]"
+2.0,14,7,0,2,2,[],"['thats', 'how']","[('hes', 'i'), ('gonna', 'dont')]"
+1.4,21,15,3,0,3,"['im', 'gonna', 'tell']",[],"[('until', 'you'), ('ab', 'avi'), ('your', 'the')]"
+4.0,4,1,0,0,1,[],[],"[('mmhm', 'mmhmm')]"
+3.5,7,2,0,1,1,[],['for'],"[('real', 'bye')]"
+4.0,4,1,0,0,1,[],[],"[('mmhm', 'mmhmm')]"
+1.4285714285714286,10,7,0,2,1,[],"['is', 'that']","[('your', 'goodbye')]"
+1.375,11,8,1,0,2,['ill'],[],"[('happy', 'be'), ('new', 'those')]"
+3.25,13,4,0,3,1,[],"['i', 'want', 'a']","[('mans', 'alan')]"
+7.0,14,2,2,0,2,"['thats', 'not']",[],"[('happy', 'the'), ('hanukkah', 'outcome')]"
+3.3333333333333335,30,9,0,6,3,[],"['i', 'have', 'gloves', 'oh', 'i', 'gotta']","[('clean', 'and'), ('this', 'rightizef'), ('up', 'lookup')]"
+4.0,12,3,0,0,3,[],[],"[('just', 'what'), ('our', 'a'), ('neighbors', 'fool')]"
+2.6666666666666665,16,6,0,4,1,[],"['wait', 'the', 'ring', 'dong']","[('dong', 'whitney')]"
+3.5,7,2,1,0,1,['on'],[],"[('around', 'right')]"
+2.3333333333333335,7,3,1,0,1,['yeah'],[],"[('no', 'really')]"
+3.5,7,2,0,1,1,[],['no'],"[('work', 'zero')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+7.5,15,2,4,1,0,"['gonna', 'hold', 'it', 'enough']",['yeah'],[]
+3.25,104,32,1,3,23,['the'],"['fiftys', 'or', 'the']","[('big', 'per'), ('pays', 'feet'), ('your', 'please'), ('the', 'thank'), ('rent', 'you'), ('this', 'rest'), ('month', 'of'), ('and', 'my'), ('the', 'annual'), ('the', 'everybody'), ('utilities', 'please'), ('for', 'go'), ('last', 'out'), ('month', 'and'), ('dang', 'watch'), ('you', 'that'), ('got', 'means'), ('it', 'that'), ('paid', 'came'), ('the', 'for'), ('first', 'a'), ('week', 'tweet'), ('month', 'mine')]"
+4.0,36,9,4,0,6,"['oh', 'like', 'um', 'i']",[],"[('not', 'my'), ('calling', 'god'), ('bullshit', 'what'), ('not', 'cant'), ('calling', 'instruct'), ('bullshit', 'it')]"
+2.1578947368421053,41,19,3,4,5,"['you', 'have', 'the']","['i', 'know', 'i', 'have']","[('i', 'ill'), ('have', 'add'), ('fours', 'four'), ('yeah', 'whole'), ('today', 'bidet')]"
+0.0,0,9,0,0,0,[],[],[]
+0.25,3,12,0,1,0,[],['im'],[]
+0.0,0,4,0,0,0,[],[],[]
+1.8571428571428572,26,14,0,2,5,[],"['we', 'to']","[('probably', 'were'), ('could', 'gonna'), ('uno', 'with'), ('for', 'all'), ('a', 'four')]"
+8.333333333333334,25,3,7,0,1,"['theres', 'no', 'such', 'thing', 'as', 'player', 'uno']",[],"[('complaining', 'for')]"
+0.5833333333333334,7,12,1,0,1,['play'],[],"[('playing', 'a')]"
+0.5,4,8,0,0,1,[],[],"[('nine', 'knowing')]"
+3.0,57,19,1,14,3,['more'],"['really', 'weve', 'been', 'playing', 'for', 'an', 'hour', 'waitwait', 'wait', 'he', 'was', 'setting', 'things', 'up']","[('wait', 'mmhmm'), ('a', 'out'), ('while', 'there')]"
+2.2,11,5,0,1,2,[],['out'],"[('bust', 'book'), ('then', 'outline')]"
+2.1818181818181817,24,11,3,1,3,"['youre', 'a', 'little']",['here'],"[('you', 'riding'), ('right', 'me'), ('hell', 'shell')]"
+2.7058823529411766,46,17,2,0,10,"['thats', 'need']",[],"[('its', 'what'), ('okay', 'they'), ('lets', 'always'), ('mean', 'to'), ('we', 'make'), ('can', 'him'), ('home', 'on'), ('and', 'me'), ('play', 'playing'), ('mahjong', 'mongeong')]"
+2.8518518518518516,77,27,5,6,11,"['want', 'with', 'i', 'only', 'dont']","['mahjong', 'or', 'uno', 'right', 'now', 'games']","[('that', 'thats'), ('wanna', 'to'), ('some', 'the'), ('which', 'game'), ('is', 'its'), ('family', 'even'), ('bonding', 'talk'), ('time', 'to'), ('work', 'the'), ('all', 'word'), ('week', 'balling')]"
+0.7,7,10,0,1,1,[],['bro'],"[('this', 'the')]"
+3.0,27,9,0,1,6,[],['excited'],"[('for', 'im'), ('my', 'from'), ('next', 'a'), ('week', 'nice'), ('at', 'new'), ('all', 'girl')]"
+2.5,15,6,1,0,3,['i'],[],"[('fucking', 'the'), ('nine', 'name'), ('eleven', 'spend')]"
+3.4615384615384617,45,13,0,7,6,[],"['and', 'i', 'wanna', 'get', 'my', 'nails', 'done']","[('but', 'thanks'), ('i', 'for'), ('dont', 'watching'), ('wanna', 'and'), ('waste', 'be'), ('money', 'safe')]"
+10.0,10,1,2,0,1,"['oh', 'im']",[],"[('why', 'in')]"
+0.75,3,4,0,1,0,[],['no'],[]
+10.0,10,1,2,0,1,"['are', 'you']",[],"[('yes', 'mad')]"
+0.0,0,3,0,0,0,[],[],[]
+2.5,25,10,3,0,4,"['can', 'go', 'up']",[],"[('wanna', 'and'), ('cards', 'cars'), ('and', 'in'), ('cards', 'cars')]"
+0.0,0,2,0,0,0,[],[],[]
+6.666666666666667,20,3,4,0,2,"['if', 'asked', 'ill', 'hold']",[],"[('deal', 'youre'), ('stop', 'my')]"
+0.0,0,3,0,0,0,[],[],[]
+3.0,27,9,4,1,3,"['must', 'make', 'a', 'big']",['this'],"[('is', 'you'), ('like', 'one'), ('saquanas', 'of')]"
+0.8461538461538461,11,13,1,0,2,['pick'],[],"[('think', 'up'), ('of', 'a')]"
+1.2272727272727273,27,22,1,0,6,['show'],[],"[('do', 'know'), ('it', 'what'), ('him', 'here'), ('showi', 'i'), ('call', 'crawl'), ('not', 'that')]"
+0.9354838709677419,29,31,0,7,2,[],"['i', 'had', 'two', 'sevens', 'i', 'i', 'those']","[('i', 'he'), ('seven', 'ahhhhh')]"
+2.0,38,19,0,6,5,[],"['you', 'really', 'cards', 'to', 'say', 'anything']","[('shoulda', 'theyre'), ('called', 'all'), ('just', 'this'), ('sorting', 'morning'), ('all', 'on')]"
+3.4444444444444446,31,9,0,1,7,[],['i'],"[('would', 'im'), ('be', 'sorry'), ('the', 'im'), ('one', 'sorry'), ('sorting', 'when'), ('where', 'it'), ('it', 'better')]"
+8.5,17,2,3,0,2,"['have', 'a', 'lot']",[],"[('the', 'of'), ('monster', 'soap')]"
+1.2727272727272727,28,22,2,2,4,"['going', 'them']","['the', 'monster']","[('that', 'them'), ('gonna', 'to'), ('my', 'in'), ('cards', 'current')]"
+4.666666666666667,14,3,2,0,2,"['and', 'you']",[],"[('knees', 'start'), ('turn', 'it')]"
+4.0,8,2,0,0,2,[],[],"[('are', 'bye'), ('these', 'relax')]"
+3.0,30,10,0,6,3,[],"['not', 'that', 'asian', 'my', 'brain', 'doesnt']","[('function', 'going'), ('like', 'back'), ('this', 'there')]"
+3.6666666666666665,11,3,0,1,2,[],['is'],"[('that', 'useful'), ('ace', 'strain')]"
+4.0,8,2,0,0,2,[],[],"[('how', 'bye'), ('many', 'bye')]"
+7.6,38,5,6,0,5,"['and', 'dale', 'and', 'dale', 'and', 'dale']",[],"[('im', 'and'), ('sorry', 'dale'), ('im', 'and'), ('so', 'ill'), ('sorry', 'just')]"
+4.0,4,1,0,0,1,[],[],"[('damn', 'air')]"
+7.0,7,1,1,0,1,['and'],[],"[('damn', 'there')]"
+0.0,0,4,0,0,0,[],[],[]
+1.6666666666666667,10,6,2,0,1,"['and', 'one']",[],"[('luck', 'lack')]"
+2.357142857142857,33,14,0,7,3,[],"['well', 'shit', 'your', 'one', 'two', 'and', 'ill']","[('ill', 'instead'), ('call', 'you'), ('it', 'in')]"
+0.0,0,1,0,0,0,[],[],[]
+3.5,7,2,1,0,1,['on'],[],"[('one', 'to')]"
+7.0,7,1,1,0,1,['very'],[],"[('sevens', 'good')]"
+2.0,4,2,0,0,1,[],[],"[('eights', 'weeks')]"
+4.0,4,1,0,0,1,[],[],"[('two', 'tomorrow')]"
+0.0,0,1,0,0,0,[],[],[]
+3.0454545454545454,67,22,0,21,1,[],"['oh', 'my', 'god', 'you', 'guys', 'saw', 'too', 'many', 'cards', 'one', 'check', 'im', 'upset', 'you', 'saw', 'my', 'cards', 'how', 'about', 'a', 'little']","[('surprise', 'okay')]"
+7.0,14,2,2,0,2,"['tip', 'tip']",[],"[('one', 'tip'), ('queen', 'plait')]"
+7.0,7,1,1,0,1,['well'],[],"[('bullshit', 'sir')]"
+4.0,8,2,0,0,2,[],[],"[('fun', 'thank'), ('game', 'you')]"
+3.25,13,4,0,3,1,[],"['bullshit', 'pick', 'that']","[('up', 'repostake')]"
+3.5,14,4,0,2,2,[],"['you', 'pick']","[('it', 'take'), ('up', 'care')]"
+0.0,0,11,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+2.888888888888889,26,9,0,6,2,[],"['you', 'already', 'saw', 'it', 'so', 'shut']","[('the', 'i'), ('fuck', 'do')]"
+2.3333333333333335,7,3,1,0,1,['you'],[],"[('yeah', 'know')]"
+0.0,0,4,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('so', 'shall'), ('whos', 'we'), ('going', 'go'), ('first', 'under')]"
+2.3333333333333335,14,6,0,2,2,[],"['left', 'of']","[('the', 'laughter'), ('dealer', 'video')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('from', 'so'), ('me', 'neat')]"
+4.0,4,1,0,0,1,[],[],"[('nice', 'hey')]"
+4.0,4,1,0,0,1,[],[],"[('three', 'soon')]"
+3.2083333333333335,77,24,0,19,5,[],"['one', 'five', 'pace', 'yourself', 'now', 'pace', 'yourself', 'pace', 'yourself', 'now', 'pace', 'yourself', 'now', 'im', 'pace', 'myself', 'when', 'youre', 'in']","[('the', 'and'), ('home', 'then'), ('stretch', 'laterocibly'), ('thats', 'toned'), ('when', 'though')]"
+4.0,8,2,0,0,2,[],[],"[('calm', 'diss'), ('down', 'cornell')]"
+0.0,0,2,0,0,0,[],[],[]
+3.1666666666666665,19,6,0,5,1,[],"['what', 'am', 'i', 'supposed', 'to']","[('do', 'or')]"
+4.0,12,3,0,0,3,[],[],"[('dude', 'good'), ('calm', 'huh'), ('down', 'duh')]"
+3.5,7,2,0,1,1,[],['two'],"[('sixes', 'vicer')]"
+1.5,3,2,0,1,0,[],['shit'],[]
+5.5,11,2,1,0,2,['i'],[],"[('three', 'hope'), ('sevens', 'so')]"
+2.0,4,2,0,0,1,[],[],"[('sevens', 'seven')]"
+0.0,0,6,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'do'), ('eights', 'tapes')]"
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'wonder')]"
+4.0,8,2,0,0,2,[],[],"[('bullshit', 'thank'), ('that', 'you')]"
+3.5,7,2,0,1,1,[],['one'],"[('ten', 'bye')]"
+1.9545454545454546,43,22,2,3,7,"['put', 'this']","['aint', 'than', 'it']","[('me', 'to'), ('my', 'be'), ('face', 'faces'), ('is', 'its'), ('i', 'ill'), ('selling', 'telling'), ('i', 'ill')]"
+3.8,19,5,0,1,4,[],['what'],"[('the', 'ill'), ('fuck', 'be'), ('is', 'telling'), ('this', 'you')]"
+9.666666666666666,29,3,7,0,2,"['tell', 'ill', 'be', 'telling', 'shit', 'ill', 'be']",[],"[('told', 'selling'), ('you', 'it')]"
+1.7,17,10,2,1,2,"['all', 'of']",['she'],"[('on', 'a'), ('bro', 'sudden')]"
+3.0833333333333335,37,12,0,11,1,[],"['im', 'gonna', 'be', 'calling', 'your', 'bullshit', 'from', 'now', 'on', 'is', 'that']","[('a', 'oh')]"
+2.7777777777777777,25,9,0,3,4,[],"['you', 'got', 'got']","[('a', 'gotta'), ('dog', 'know'), ('got', 'gotta'), ('a', 'read')]"
+10.0,20,2,4,0,2,"['the', 'atoms', 'and', 'polys']",[],"[('a', 'with'), ('ten', 'the')]"
+3.5,7,2,0,1,1,[],['two'],"[('tens', 'tj')]"
+3.15,63,20,0,9,9,[],"['all', 'it', 'sell', 'it', 'you', 'just', 'got', 'to', 'is']","[('you', 'i'), ('got', 'think'), ('to', 'i'), ('all', 'a'), ('you', 'salad'), ('got', 'im'), ('to', 'gonna'), ('sell', 'a'), ('it', 'salad')]"
+0.4666666666666667,7,15,0,1,1,[],['selling'],"[('it', 'settled')]"
+1.2,18,15,1,1,3,['heart'],['having'],"[('its', 'is'), ('war', 'more'), ('a', 'have')]"
+1.2,6,5,2,0,0,"['to', 'make']",[],[]
+0.875,7,8,0,1,1,[],['could'],"[('him', 'them')]"
+3.0,12,4,0,0,3,[],[],"[('ruins', 'rose'), ('the', 'to'), ('fun', 'fall')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'thank'), ('queen', 'you')]"
+3.5,14,4,0,2,2,[],"['bs', 'cos']","[('its', 'be'), ('kings', 'rss')]"
+2.6,26,10,0,2,5,[],"['anyways', 'that']","[('i', 'im'), ('need', 'not'), ('my', 'quite'), ('was', 'anyway'), ('my', 'im')]"
+3.6666666666666665,11,3,1,0,2,['of'],[],"[('yeah', 'uh'), ('ace', 'the')]"
+0.0,0,2,0,0,0,[],[],[]
+0.3,3,10,0,1,0,[],['definitely'],[]
+3.5,7,2,0,1,1,[],['go'],"[('ahead', 'good')]"
+5.5,11,2,1,0,2,['it'],[],"[('one', 'worked'), ('four', 'out')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'the'), ('sixes', 'nexuss')]"
+1.6,16,10,0,0,4,[],[],"[('your', 'you'), ('sixes', 'sexist'), ('raise', 'raised'), ('a', 'with')]"
+0.0,0,1,0,0,0,[],[],[]
+3.0,3,1,1,0,0,['hahahaha'],[],[]
+1.5,9,6,3,0,0,"['i', 'call', 'it']",[],[]
+2.8333333333333335,17,6,0,3,2,[],"['said', 'one', 'eight']","[('got', 'call'), ('uh', 'it')]"
+1.0,11,11,0,1,2,[],['no'],"[('hes', 'he'), ('eights', 'eight')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('cos', 'because'), ('two', 'to')]"
+2.0,4,2,0,0,1,[],[],"[('nines', 'nine')]"
+0.0,0,3,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('six', 'two')]"
+6.666666666666667,20,3,4,0,2,"['you', 'do', 'in', 'that']",[],"[('like', 'that'), ('down', 'moment')]"
+3.5,7,2,0,1,1,[],['im'],"[('im', 'symbolically')]"
+1.5714285714285714,11,7,0,1,2,[],['she'],"[('to', 'of'), ('call', 'cars')]"
+3.5,7,2,0,1,1,[],['three'],"[('jacks', 'reject')]"
+2.7142857142857144,19,7,0,1,4,[],['dont'],"[('fuck', 'but'), ('i', 'im'), ('get', 'gonna'), ('annoyed', 'wait')]"
+4.0,16,4,0,0,4,[],[],"[('i', 'im'), ('have', 'gonna'), ('one', 'know'), ('queen', 'wait')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('mhm', 'mmhmm')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'thanks')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'punch'), ('two', 'him')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,6,0,0,0,[],[],[]
+1.0,3,3,1,0,0,['quiet'],[],[]
+1.0,12,12,0,0,3,[],[],"[('calling', 'a'), ('the', 'callable'), ('bullshit', 'shit')]"
+3.5,7,2,0,1,1,[],['one'],"[('ten', 'bye')]"
+8.5,17,2,3,0,2,"['better', 'world', 'replacing']",[],"[('two', 'usa'), ('eights', 'feedlier')]"
+4.0,4,1,0,0,1,[],[],"[('damn', 'aleo')]"
+2.25,9,4,1,2,0,['i'],"['one', 'nine']",[]
+3.5,7,2,0,1,1,[],['one'],"[('ten', 'you')]"
+3.5,7,2,1,0,1,['come'],[],"[('one', 'on')]"
+0.0,0,5,0,0,0,[],[],[]
+2.1176470588235294,36,17,0,0,9,[],[],"[('cos', 'because'), ('nope', 'no'), ('cos', 'because'), ('i', 'its'), ('be', 'mm'), ('i', 'ive'), ('be', 'ive'), ('baiting', 'its'), ('you', 'its')]"
+3.3333333333333335,10,3,0,2,1,[],"['can', 'somebody']","[('call', 'its')]"
+3.4,17,5,0,3,2,[],"['i', 'dont', 'care']","[('one', 'healthcare'), ('king', 'hacking')]"
+0.0,0,2,0,0,0,[],[],[]
+5.8,29,5,3,0,5,"['jack', 'bullshit', 'i']",[],"[('two', 'hate'), ('acespick', 'you'), ('up', 'fup'), ('some', 'what'), ('cards', 'yo')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('hate', 'heard')]"
+2.0,8,4,0,0,2,[],[],"[('one', 'want'), ('two', 'to')]"
+7.0,7,1,1,0,1,['boost'],[],"[('bullshit', 'it')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('two', 'tool')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'bye'), ('threes', 'lequarse')]"
+0.9166666666666666,22,24,1,1,4,['for'],['i'],"[('hold', 'tod'), ('real', 'a'), ('just', 'want'), ('wanna', 'to')]"
+9.0,27,3,5,0,3,"['i', 'just', 'want', 'to', 'do']",[],"[('four', 'a'), ('three', 'little'), ('threes', 'mouth')]"
+1.9411764705882353,33,17,3,0,6,"['you', 'a', 'boy']",[],"[('cards', 'car'), ('and', 'its'), ('then', 'been'), ('tell', 'telling'), ('either', 'cant'), ('bullshit', 'chair')]"
+0.4666666666666667,7,15,0,1,1,[],['nah'],"[('you', 'now')]"
+3.5,7,2,0,1,1,[],['three'],"[('fours', 'threefours')]"
+4.0,20,5,0,0,5,[],[],"[('you', 'ward'), ('wanna', 'yeah'), ('call', 'of'), ('that', 'course'), ('bullshit', 'i')]"
+0.0,0,2,0,0,0,[],[],[]
+1.7647058823529411,30,17,1,1,6,['i'],['um'],"[('four', 'for'), ('im', 'all'), ('oh', 'will'), ('preciate', 'appreciate'), ('cuz', 'because'), ('five', 'fine')]"
+7.0,14,2,2,0,2,"['i', 'appreciate']",[],"[('have', 'it'), ('fun', 'coming')]"
+1.75,7,4,0,1,1,[],['no'],"[('that', 'what')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('that', 'this')]"
+2.3076923076923075,30,13,2,0,6,"['car', 'two']",[],"[('cuz', 'because'), ('of', 'who'), ('yall', 'you'), ('to', 'are'), ('see', 'seeing'), ('cards', 'sevens')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'do'), ('sevens', 'survey')]"
+4.0,16,4,0,0,4,[],[],"[('now', 'how'), ('hes', 'is'), ('at', 'that'), ('sus', 'shot')]"
+3.5,7,2,1,0,1,['i'],[],"[('im', 'am')]"
+2.1176470588235294,36,17,2,2,6,"['seven', 'well']","['didnt', 'hands']","[('sevens', 'so'), ('oh', 'i'), ('oh', 'move'), ('kay', 'hand'), ('kay', 'okay'), ('kay', 'mmmm')]"
+3.142857142857143,22,7,0,6,1,[],"['call', 'that', 'bullshit', 'i', 'dare', 'you']","[('oh', 'osuh')]"
+6.0,24,4,4,0,3,"['i', 'got', 'to', 'reach']",[],"[('its', 'up'), ('reshuffle', 'for'), ('real', 'a')]"
+1.7777777777777777,16,9,0,4,1,[],"['we', 'play', 'asian', 'style']","[('cards', 'corners')]"
+1.2857142857142858,9,7,0,3,0,[],"['two', 'eights', 'i']",[]
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'laughter')]"
+0.0,0,2,0,0,0,[],[],[]
+1.75,21,12,1,2,3,['to'],"['ugh', 'ugh']","[('down', 'hell'), ('two', 'to'), ('jacks', 'jeff')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'thanks')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'thank'), ('queens', 'you')]"
+2.0,8,4,0,0,2,[],[],"[('you', 'can'), ('wanna', 'i')]"
+2.0,24,12,3,1,3,"['over', 'there', 'i']",['fucking'],"[('her', 'you'), ('throw', 'put'), ('down', 'was')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'good'), ('kings', 'things')]"
+10.0,20,2,4,0,2,"['yeah', 'do', 'all', 'of']",[],"[('two', 'these'), ('aces', 'things')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'laughter'), ('two', 'mike')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+1.4545454545454546,32,22,4,4,2,"['the', 'threes', 'doofy', 'ass']","['cuz', 'got', 'all', 'fucking']","[('ive', 'was'), ('waited', 'way')]"
+0.2727272727272727,3,11,0,1,0,[],['i'],[]
+4.0,8,2,0,0,2,[],[],"[('im', 'its'), ('open', 'okay')]"
+0.0,0,2,0,0,0,[],[],[]
+1.7142857142857142,12,7,4,0,0,"['no', 'check', 'it', 'out']",[],[]
+3.1666666666666665,19,6,0,1,4,[],['two'],"[('fives', 'alright'), ('done', 'bullshit'), ('pick', 'check'), ('up', 'out')]"
+3.2222222222222223,29,9,0,7,2,[],"['it', 'is', 'two', 'fives', 'im', 'looking', 'over']","[('my', 'thank'), ('cards', 'you')]"
+0.5,4,8,0,0,1,[],[],"[('fives', 'fuckers')]"
+0.0,0,1,0,0,0,[],[],[]
+1.1111111111111112,10,9,2,0,1,"['dont', 'know']",[],"[('youre', 'you')]"
+1.0,7,7,1,0,1,['a'],[],"[('is', 'its')]"
+7.0,21,3,3,0,3,"['ented', 'slope', 'thank']",[],"[('ill', 'you'), ('do', 'for'), ('it', 'watching')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('drink', 'break')]"
+3.142857142857143,44,14,0,12,2,[],"['ready', 'one', 'twoone', 'two', 'three', 'that', 'was', 'a', 'nice', 'catch', 'that', 'was']","[('like', 'thank'), ('a', 'you')]"
+2.7142857142857144,38,14,1,1,8,['yes'],['and'],"[('games', 'again'), ('until', 'to'), ('you', 'be'), ('catch', 'pissed'), ('something', 'off'), ('horse', 'poor'), ('thats', 's'), ('horse', 's')]"
+3.1818181818181817,35,11,1,0,8,['moment'],[],"[('nah', 'of'), ('the', 'course'), ('clap', 'of'), ('at', 'course'), ('the', 'yeah'), ('end', 'and'), ('most', 'that'), ('deadly', 'way')]"
+0.6153846153846154,8,13,0,0,2,[],[],"[('posed', 'post'), ('fucked', 'fuck')]"
+2.75,11,4,1,0,2,['faster'],[],"[('didnt', 'can'), ('fast', 'than')]"
+1.5555555555555556,14,9,2,0,2,"['like', 'to']",[],"[('cuts', 'cut'), ('it', 'some')]"
+3.25,26,8,0,6,2,[],"['well', 'i', 'started', 'off', 'who', 'goes']","[('first', 'serif'), ('yeah', 'director')]"
+7.75,31,4,5,0,4,"['it', 'was', 'for', 'this', 'shoot']",[],"[('just', 'lets'), ('usually', 'go'), ('do', 'for'), ('whatever', 'it')]"
+0.0,0,12,0,0,0,[],[],[]
+1.4545454545454546,16,11,0,0,4,[],[],"[('cuz', 'because'), ('serious', 'series'), ('used', 'you'), ('to', 'still')]"
+1.1666666666666667,14,12,2,0,2,"['like', 'you']",[],"[('oh', 'said'), ('cheaters', 'speeders')]"
+0.25,4,16,0,0,1,[],[],"[('the', 'a')]"
+4.666666666666667,14,3,2,0,2,"['what', 'im']",[],"[('a', 'talking'), ('three', 'about')]"
+2.4285714285714284,17,7,0,3,2,[],"['or', 'who', 'goes']","[('do', 'yes'), ('i', 'you')]"
+0.0,0,4,0,0,0,[],[],[]
+4.75,19,4,1,0,4,['of'],[],"[('one', 'please'), ('ace', 'want'), ('one', 'to'), ('ace', 'see')]"
+3.3333333333333335,30,9,0,2,6,[],"['mhm', 'mm']","[('hm', 'mmhmm'), ('mm', 'mmhmm'), ('hm', 'mmhmm'), ('mm', 'mmhmm'), ('hm', 'mmhmm'), ('twos', 'toes')]"
+3.3333333333333335,10,3,0,2,1,[],"['i', 'got']","[('pace', 'mmhmm')]"
+0.0,0,4,0,0,0,[],[],[]
+3.375,27,8,0,5,3,[],"['i', 'thats', 'why', 'im', 'doing']","[('it', 'co'), ('like', 'little'), ('this', 'museum')]"
+3.5,7,2,1,0,1,['field'],[],"[('four', 'mode')]"
+2.0,4,2,0,0,1,[],[],"[('five', 'part')]"
+1.1111111111111112,20,18,0,0,5,[],[],"[('listen', 'this'), ('giving', 'yelling'), ('rank', 'record'), ('of', 'cars'), ('cards', 'dude')]"
+0.0,0,13,0,0,0,[],[],[]
+1.25,10,8,0,2,1,[],"['they', 'say']","[('is', 'says')]"
+0.7647058823529411,13,17,0,3,1,[],"['so', 'are', 'uh']","[('down', 'on')]"
+1.2777777777777777,23,18,0,1,5,[],['that'],"[('in', 'down'), ('card', 'car'), ('let', 'oh'), ('me', 'you'), ('read', 'made')]"
+0.0,0,17,0,0,0,[],[],[]
+0.7272727272727273,8,11,0,0,2,[],[],"[('it', 'at'), ('higher', 'tie')]"
+1.9473684210526316,37,19,0,3,7,[],"['played', 'it', 'of']","[('too', 'claim'), ('i', 'to'), ('can', 'back'), ('be', 'me'), ('biased', 'bias'), ('cuz', 'because'), ('ive', 'im')]"
+2.0,16,8,4,0,1,"['if', 'youre', 'not', 'youre']",[],"[('fours', 'not')]"
+1.131578947368421,43,38,4,1,7,"['do', 'floor', 'where', 'you']",['up'],"[('fours', 'its'), ('on', 'over'), ('why', 'have'), ('are', 'your'), ('you', 'put'), ('all', 'a'), ('fours', 'fort')]"
+3.857142857142857,27,7,0,1,6,[],['no'],"[('its', 'you'), ('the', 'say'), ('same', 'you'), ('rank', 'have'), ('or', 'your'), ('higher', 'put')]"
+2.75,22,8,1,1,4,['this'],['rank'],"[('guess', 'is'), ('four', 'floor'), ('is', 'its'), ('as', 'grinkus')]"
+1.7619047619047619,37,21,2,1,7,"['force', 'what']",['supposed'],"[('cos', 'because'), ('fours', 'would'), ('to', 'post'), ('be', 'between'), ('putting', 'our'), ('out', 'fires'), ('fives', 'okay')]"
+7.0,7,1,1,0,1,['love'],[],"[('okay', 'it')]"
+1.6896551724137931,49,29,3,4,7,"['bullets', 'cuz', 'its']","['a', 'all', 'game', 'is']","[('yes', 'okay'), ('bullshit', 'it'), ('say', 'go'), ('no', 'know'), ('is', 'games'), ('for', 'gonna'), ('sure', 'stretch')]"
+2.8333333333333335,17,6,0,3,2,[],"['im', 'gonna', 'read']","[('this', 'whatever'), ('again', 'what')]"
+1.4,7,5,0,1,1,[],['let'],"[('me', 'bye')]"
+0.9014084507042254,64,71,2,6,10,"['for', 'up']","['we', 'can', 'can', 'it', 'going', 'to']","[('we', 'i'), ('just', 'this'), ('y', 'yall'), ('all', 'well'), ('four', 'all'), ('alright', 'right'), ('fours', 'force'), ('now', 'because'), ('a', 'the'), ('that', 'but')]"
+0.0,0,9,0,0,0,[],[],[]
+0.8372093023255814,36,43,1,3,6,['in'],"['uh', 'ace', 'uh']","[('of', 'aces'), ('spades', 'fave'), ('anticlockwise', 'clockwise'), ('three', 'threefour'), ('fours', 'of'), ('or', 'their')]"
+2.0,42,21,1,1,9,['be'],['you'],"[('where', 'what'), ('you', 'youre'), ('bs', 'as'), ('about', 'well'), ('where', 'what'), ('play', 'youve'), ('i', 'like'), ('bs', 'rbs'), ('twos', 'to')]"
+0.6428571428571429,9,14,0,3,0,[],"['thats', 'how', 'you']",[]
+5.5,11,2,1,0,2,['im'],[],"[('its', 'so'), ('okay', 'glad')]"
+9.0,27,3,9,0,0,"['okay', 'just', 'why', 'do', 'i', 'need', 'one', 'to', 'use']",[],[]
+0.0,0,12,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('five', 'bye')]"
+3.5,7,2,0,1,1,[],['two'],"[('sixes', 'cheers')]"
+2.0,4,2,0,0,1,[],[],"[('one', 'four')]"
+2.0,4,2,0,0,1,[],[],"[('ten', 'two')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'its'), ('kings', 'okay')]"
+8.5,17,2,3,0,2,"['repeat', 'everything', 'in']",[],"[('two', 'multiple'), ('threes', 'documentaries')]"
+3.5,7,2,0,1,1,[],['how'],"[('many', 'bye')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'tap'), ('threes', 'tvs')]"
+3.5,7,2,0,1,1,[],['one'],"[('five', 'bye')]"
+1.5,3,2,0,1,0,[],['one'],[]
+4.0,8,2,0,0,2,[],[],"[('one', 'thank'), ('seven', 'you')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'for'), ('eight', 'me')]"
+7.0,14,2,2,0,2,"['well', 'done']",[],"[('one', 'sn'), ('nine', 'wire')]"
+5.5,11,2,1,0,2,['tah'],[],"[('two', 'can'), ('tens', 'turn')]"
+3.5,7,2,0,1,1,[],['two'],"[('jacks', 'okay')]"
+0.875,7,8,1,0,1,['want'],[],"[('wanna', 'to')]"
+1.375,11,8,0,1,2,[],['bs'],"[('so', 'bso'), ('that', 'it')]"
+0.75,3,4,1,0,0,['ima'],[],[]
+2.909090909090909,32,11,0,8,2,[],"['im', 'sorry', 'i', 'couldnt', 'i', 'was', 'like', 'wait']","[('we', 'wait'), ('know', 'no')]"
+3.0,12,4,0,0,3,[],[],"[('i', 'youre'), ('hate', 'my'), ('myself', 'throw')]"
+1.8333333333333333,11,6,0,1,2,[],['you'],"[('got', 'get'), ('fucked', 'popped')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('i', 'not'), ('quite', 'quit')]"
+1.8,9,5,3,0,0,"['now', 'im', 'gonna']",[],[]
+0.0,0,1,0,0,0,[],[],[]
+2.5833333333333335,31,12,1,4,4,['lot'],"['mhm', 'i', 'see', 'up']","[('lotta', 'of'), ('in', 'upon'), ('this', 'his'), ('pile', 'power')]"
+3.75,15,4,1,0,3,['lot'],[],"[('lotta', 'of'), ('bs', 'beer'), ('yeah', 'yo')]"
+1.0,3,3,0,1,0,[],['max'],[]
+0.0,0,2,0,0,0,[],[],[]
+3.857142857142857,27,7,1,0,6,['voice'],[],"[('yeah', 'be'), ('ill', 'happy'), ('pay', 'to'), ('for', 'put'), ('bullshit', 'before'), ('two', 'too')]"
+0.0,0,4,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('ooh', 'mmm')]"
+4.666666666666667,14,3,2,0,2,"['oh', 'my']",[],"[('get', 'god'), ('a', 'number')]"
+11.5,23,2,5,0,2,"['were', 'going', 'to', 'know', 'my']",[],"[('risk', 'oligarch'), ('it', 'too')]"
+1.0,4,4,0,0,1,[],[],"[('terrible', 'arable')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'third'), ('queens', 'queen')]"
+3.5,7,2,0,1,1,[],['one'],"[('king', 'okay')]"
+0.0,0,2,0,0,0,[],[],[]
+3.6666666666666665,22,6,0,2,4,[],"['how', 'will']","[('i', 'all'), ('ever', 'right'), ('fold', 'or'), ('it', 'folding')]"
+7.0,14,2,2,0,2,"['why', 'are']",[],"[('no', 'you'), ('idea', 'not')]"
+1.7777777777777777,16,9,0,0,4,[],[],"[('i', 'thats'), ('just', 'all'), ('wanna', 'im'), ('make', 'like')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('sorry', 'its'), ('you', 'already')]"
+3.2857142857142856,23,7,0,1,5,[],['just'],"[('i', 'dont'), ('just', 'want'), ('wanna', 'to'), ('make', 'waste'), ('sure', 'here')]"
+2.8,14,5,0,2,2,[],"['uh', 'two']","[('two', 'alright'), ('twos', 'tools')]"
+2.0,4,2,0,0,1,[],[],"[('one', 'on')]"
+4.0,8,2,0,0,2,[],[],"[('hm', 'all'), ('bullshit', 'the')]"
+2.3333333333333335,7,3,0,1,1,[],['pick'],"[('it', 'get')]"
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'to'), ('fours', 'force')]"
+1.9166666666666667,23,12,0,1,5,[],['bullshit'],"[('just', 'forces'), ('put', 'this'), ('it', 'will'), ('back', 'make'), ('it', 'you')]"
+0.0,0,4,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('okay', 'yeah')]"
+4.2,21,5,3,0,3,"['he', 'isnt', 'worthy']",[],"[('heres', 'of'), ('majority', 'the'), ('vivek', 'back')]"
+3.25,13,4,0,3,1,[],"['two', 'heh', 'two']","[('fives', 'itsuper')]"
+5.5,11,2,1,0,2,['are'],[],"[('three', 'you'), ('sixes', 'sexist')]"
+4.0,12,3,0,0,3,[],[],"[('go', 'oh'), ('on', 'weve'), ('proceed', 'pushedap')]"
+4.0,8,2,0,0,2,[],[],"[('eh', 'oh'), ('okay', 'ok')]"
+6.333333333333333,19,3,4,1,1,"['the', 'kinda', 'ring', 'the']",['wanna'],"[('see', 'i')]"
+0.3,3,10,1,0,0,['it'],[],[]
+2.0,12,6,0,0,3,[],[],"[('didnt', 'dont'), ('put', 'have'), ('down', 'on')]"
+3.4545454545454546,38,11,0,2,8,[],"['he', 'seven']","[('was', 'you'), ('going', 'should'), ('so', 'served'), ('im', 'in'), ('calling', 'some'), ('bullshit', 'combos'), ('on', 'to'), ('him', 'normal')]"
+3.0,12,4,0,0,3,[],[],"[('ill', 'not'), ('do', 'the'), ('sevens', 'soviet')]"
+1.0,7,7,1,0,1,['of'],[],"[('believe', 'leads')]"
+3.5,7,2,0,1,1,[],['oh'],"[('one', 'uh')]"
+1.5,3,2,0,1,0,[],['one'],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'bye')]"
+19.0,19,1,5,0,1,"['oh', 'i', 'really', 'cant', 'stand']",[],"[('case', 'you')]"
+0.0,0,4,0,0,0,[],[],[]
+3.7777777777777777,34,9,0,2,7,[],"['some', 'you']","[('want', 'take'), ('enough', 'the'), ('some', 'deck'), ('it', 'just'), ('aint', 'take'), ('a', 'the'), ('nine', 'deck')]"
+2.111111111111111,19,9,0,5,1,[],"['take', 'the', 'deck', 'just', 'take']","[('deck', 'day')]"
+3.4545454545454546,38,11,3,3,5,"['interpret', 'at', 'thetime']","['fucking', 'hate', 'you']","[('i', 'how'), ('hate', 'do'), ('want', 'have'), ('hate', 'follow'), ('you', 'him')]"
+3.076923076923077,40,13,2,2,7,"['a', 'ghost']","['like', 'im']","[('i', 'why'), ('wanted', 'did'), ('to', 'i'), ('bullshit', 'no'), ('not', 'fucking'), ('for', 'hurt'), ('sure', 'you')]"
+4.0,12,3,0,0,3,[],[],"[('i', 'got'), ('want', 'someone'), ('the', 'guys')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+3.75,30,8,0,2,6,[],"['can', 'you']","[('get', 'believe'), ('that', 'in'), ('brown', 'our'), ('case', 'champions'), ('for', 'from'), ('me', 'even')]"
+3.1,31,10,0,9,1,[],"['im', 'talking', 'about', 'the', 'brown', 'case', 'down', 'there', 'its']","[('heavy', 'error')]"
+3.5,7,2,0,1,1,[],['which'],"[('case', 'wishtoad')]"
+4.0,4,1,0,0,1,[],[],"[('one', 'oh')]"
+0.0,0,8,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+1.5,9,6,1,2,0,['bounced'],"['bounce', 'uh']",[]
+1.0952380952380953,23,21,0,5,2,[],"['when', 'the', 'when', 'the', 'when']","[('the', 'and'), ('in', 'when')]"
+12.666666666666666,38,3,10,0,2,"['im', 'pretty', 'sure', 'ive', 'got', 'a', 'lot', 'of', 'them', 'dont']",[],"[('the', 'get'), ('case', 'it')]"
+0.0,0,1,0,0,0,[],[],[]
+1.0,3,3,0,1,0,[],['its'],[]
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,8,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+4.923076923076923,64,13,8,0,10,"['how', 'i', 'been', 'deaf', 'its', 'probably', 'not', 'where']",[],"[('well', 'what'), ('now', 'my'), ('have', 'job'), ('opened', 'oh'), ('it', 'no'), ('i', 'im'), ('love', 'not'), ('the', 'reading'), ('the', 'im'), ('sound', 'still')]"
+3.3333333333333335,20,6,0,0,5,[],[],"[('do', 'are'), ('we', 'you'), ('even', 'playing'), ('play', 'my'), ('mahjong', 'drum')]"
+3.6,18,5,1,1,3,['playing'],['how'],"[('do', 'im'), ('play', 'hard'), ('mahjong', 'drive')]"
+0.7,7,10,0,1,1,[],['the'],"[('games', 'game')]"
+4.0,8,2,0,0,2,[],[],"[('i', 'come'), ('know', 'again')]"
+1.75,14,8,1,1,2,['im'],['that'],"[('we', 'just'), ('can', 'gonna')]"
+8.5,17,2,3,0,2,"['the', 'new', 'part']",[],"[('theres', 'are'), ('a', 'you')]"
+1.5555555555555556,14,9,2,0,2,"['part', 'like']",[],"[('supposed', 'put'), ('to', 'some')]"
+1.2380952380952381,52,42,1,7,7,['in'],"['mhm', 'and', 'so', 'you', 'what', 'since', 'we']","[('youre', 'no'), ('supposed', 'no'), ('like', 'no'), ('youre', 'its'), ('are', 'were'), ('into', 'my'), ('these', 'knees')]"
+16.5,33,2,11,0,0,"['look', 'out', 'yow', 'yow', 'yow', 'make', 'me', 'a', 'man', 'no', 'rub']",[],[]
+3.6666666666666665,11,3,0,1,2,[],['i'],"[('love', 'from'), ('oh', 'youtube')]"
+2.375,38,16,1,1,8,['you'],['babe'],"[('you', 'bert'), ('mad', 'not'), ('as', 'itself'), ('hell', 'huh'), ('mad', 'might'), ('hell', 'well'), ('right', 'run'), ('now', 'off')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'bye')]"
+3.4,17,5,0,3,2,[],"['give', 'me', 'a']","[('chance', 'isnt'), ('to', 'it')]"
+4.0,4,1,0,0,1,[],[],"[('oh', 'fon')]"
+3.96,99,25,5,0,21,"['its', 'just', 'too', 'can', 'any']",[],"[('that', 'many'), ('theyre', 'out'), ('gonna', 'of'), ('be', 'these'), ('mad', 'i'), ('if', 'think'), ('we', 'its'), ('play', 'a'), ('any', 'really'), ('other', 'good'), ('like', 'word'), ('card', 'of'), ('game', 'car'), ('they', 'being'), ('might', 'see'), ('be', 'i'), ('mad', 'dont'), ('if', 'think'), ('another', 'other'), ('card', 'car'), ('game', 'being')]"
+4.0,4,1,0,0,1,[],[],"[('nah', 'loop')]"
+1.5333333333333334,23,15,0,1,5,[],['wanted'],"[('nah', 'no'), ('to', 'wouldnt'), ('make', 'but'), ('want', 'they'), ('us', 'wanted')]"
+3.8,38,10,0,2,8,[],"['no', 'he']","[('said', 'im'), ('he', 'not'), ('wants', 'really'), ('us', 'showing'), ('to', 'you'), ('play', 'the'), ('his', 'right'), ('game', 'thing')]"
+2.55,51,20,0,1,12,[],['have'],"[('text', 'expect'), ('him', 'me'), ('his', 'leave'), ('number', 'you'), ('um', 'here'), ('do', 'ah'), ('you', 'robin'), ('know', 'no'), ('if', 'we'), ('he', 'need'), ('wants', 'to'), ('us', 'have')]"
+0.0,0,9,0,0,0,[],[],[]
+8.5,17,2,3,0,2,"['i', 'cant', 'look']",[],"[('mm', 'i'), ('hmm', 'cant')]"
+7.0,7,1,1,0,1,['were'],[],"[('bullshit', 'watching')]"
+3.5,7,2,0,1,1,[],['two'],"[('sixes', 'great')]"
+2.0,4,2,0,0,1,[],[],"[('sixes', 'sexes')]"
+3.5,21,6,0,3,3,[],"['call', 'that', 'bullshit']","[('i', 'hold'), ('dare', 'on'), ('you', 'boys')]"
+2.111111111111111,38,18,1,9,2,['i'],"['you', 'got', 'it', 'one', 'eight', 'you', 'its', 'all', 'you']","[('ah', 'dont'), ('no', 'know')]"
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'planan')]"
+7.0,14,2,2,0,2,"['what', 'was']",[],"[('one', 'i'), ('ten', 'saying')]"
+0.875,14,16,2,0,2,"['and', 'got']",[],"[('cuz', 'cause'), ('gotta', 'to')]"
+3.5,14,4,0,2,2,[],"['call', 'that']","[('bullshit', 'bye'), ('please', 'bye')]"
+3.8333333333333335,23,6,0,1,5,[],['i'],"[('wanted', 'what'), ('him', 'is'), ('to', 'wrong'), ('call', 'with'), ('bullshit', 'it')]"
+1.0,4,4,0,0,1,[],[],"[('then', 'just')]"
+1.4210526315789473,27,19,3,2,3,"['what', 'is', 'that']","['just', 'and']","[('you', 'be'), ('play', 'exactly'), ('one', 'what')]"
+3.5,42,12,0,6,6,[],"['no', 'i', 'like', 'l', 'like', 'to']","[('stop', 'shut'), ('being', 'up'), ('defensive', 'one'), ('what', 'jack'), ('is', 'shut'), ('that', 'up')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'g'), ('queens', 'wellí')]"
+15.0,45,3,11,0,3,"['oh', 'thats', 'so', 'weird', 'come', 'on', 'take', 'me', 'take', 'me', 'out']",[],"[('bullshit', 'of'), ('one', 'here'), ('king', 'oh')]"
+3.142857142857143,22,7,0,6,1,[],"['i', 'knew', 'it', 'i', 'was', 'like']","[('no', 'hey')]"
+3.0833333333333335,37,12,0,11,1,[],"['uh', 'uh', 'im', 'not', 'calling', 'that', 'shit', 'you', 'wanna', 'call', 'that']","[('shit', 'hmm')]"
+2.8461538461538463,37,13,0,11,1,[],"['i', 'didnt', 'hear', 'what', 'he', 'said', 'so', 'i', 'had', 'a', 'hand']","[('one', 'my')]"
+1.75,7,4,0,1,1,[],['hm'],"[('threes', 'three')]"
+0.0,0,3,0,0,0,[],[],[]
+0.6875,11,16,1,0,2,['we'],[],"[('with', 'have'), ('you', 'to')]"
+0.0,0,7,0,0,0,[],[],[]
+76.0,76,1,24,0,1,"['theres', 'one', 'tag', 'come', 'into', 'removal', 'at', 'arnoscope', 'medical', 'family', 'services', 'tab', 'right', 'in', 'this', 'video', 'can', 'be', 'heard', 'four', 'delivered', 'car', 'devon', 'hall']",[],"[('two', 'another')]"
+3.6666666666666665,22,6,0,2,4,[],"['mm', 'hm']","[('mm', 'mmhmm'), ('hm', 'mmhmm'), ('one', 'whats'), ('seven', 'up')]"
+1.5,3,2,0,1,0,[],['eights'],[]
+7.0,7,1,1,0,1,['thank'],[],"[('dang', 'you')]"
+3.5,7,2,0,1,1,[],['three'],"[('eights', 'hey')]"
+3.5,7,2,0,1,1,[],['one'],"[('nine', 'in')]"
+7.0,7,1,1,0,1,['t'],[],"[('one', 'digital')]"
+1.8333333333333333,11,6,0,1,2,[],['dont'],"[('nine', 'a'), ('tens', 'tenths')]"
+3.6,18,5,2,0,3,"['hey', 'why']",[],"[('everybody', 'dont'), ('gonna', 'we'), ('that', 'it')]"
+5.5,11,2,1,0,2,['see'],[],"[('two', 'you'), ('queens', 'later')]"
+3.5,7,2,0,1,1,[],['two'],"[('kings', 'okay')]"
+3.5,7,2,0,1,1,[],['two'],"[('aces', 'thanks')]"
+1.75,14,8,2,0,2,"['want', 'want']",[],"[('wanna', 'to'), ('wanna', 'to')]"
+4.0,8,2,0,0,2,[],[],"[('call', 'go'), ('it', 'on')]"
+0.0,0,3,0,0,0,[],[],[]
+0.4,4,10,0,0,1,[],[],"[('cuz', 'cause')]"
+0.0,0,2,0,0,0,[],[],[]
+3.2,16,5,0,4,1,[],"['never', 'reveal', 'to', 'the']","[('opponent', 'app')]"
+1.4,7,5,0,1,1,[],['the'],"[('hell', 'damn')]"
+3.5,7,2,1,0,1,['two'],[],"[('twos', 'three')]"
+0.0,0,1,0,0,0,[],[],[]
+12.0,12,1,4,0,0,"['take', 'that', 'shit', 'out']",[],[]
+2.3125,37,16,3,0,7,"['three', 'two', 'i']",[],"[('so', 'thought'), ('too', 'i'), ('alright', 'thought'), ('all', 'two'), ('right', 'alright'), ('all', 'alright'), ('right', 'alright')]"
+2.0,4,2,0,0,1,[],[],"[('twos', 'two')]"
+1.625,13,8,0,3,1,[],"['yall', 'better', 'not']","[('shit', 'shoot')]"
+0.0,0,12,0,0,0,[],[],[]
+1.5,3,2,0,1,0,[],['damn'],[]
+15.0,15,1,5,0,0,"['was', 'i', 'my', 'people', 'bullshit']",[],[]
+1.08,27,25,2,3,3,"['niggies', 'it']","['all', 'all', 'or']","[('right', 'hey'), ('iti', 'all'), ('i', 'right')]"
+14.5,29,2,7,0,2,"['i', 'like', 'that', 'in', 'two', 'threes', 'taking']",[],"[('one', 'leave'), ('four', 'it')]"
+5.5,11,2,1,0,2,['but'],[],"[('hold', 'tad'), ('on', 'dont')]"
+3.5,7,2,0,1,1,[],['hold'],"[('on', 'hello')]"
+2.3333333333333335,14,6,0,2,2,[],"['oh', 'gimme']","[('gimme', 'give'), ('gimme', 'me')]"
+2.8,14,5,0,2,2,[],"['let', 'double']","[('me', 'he'), ('check', 'doublethick')]"
+0.0,0,1,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['to'],"[('go', 'hello')]"
+7.0,14,2,2,0,2,"['i', 'didnt']",[],"[('hold', 'elder'), ('on', 'orr')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('aight', 'alright')]"
+29.5,59,2,17,0,2,"['this', 'was', 'machitimo', 'a', 'lying', 'girl', 'looks', 'like', 'what', 'happened', 'tonight', 'is', 'a', 'piuck', 'pregnant', 'night', 'did']",[],"[('one', 'yesterday'), ('five', 'the')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+1.3333333333333333,12,9,2,2,0,"['no', 'you']","['okay', 'was']",[]
+1.7142857142857142,12,7,0,0,3,[],[],"[('no', 'now'), ('you', 'youre'), ('sixes', 'sections')]"
+2.0,4,2,0,0,1,[],[],"[('uh', 'oh')]"
+0.6666666666666666,4,6,0,0,1,[],[],"[('yall', 'yeah')]"
+3.5,7,2,0,1,1,[],['me'],"[('too', 'okay')]"
+1.75,7,4,1,0,1,['im'],[],"[('imma', 'gonna')]"
+3.25,13,4,3,0,1,"['im', 'slide', 'be']",[],"[('imma', 'gonna')]"
+4.0,4,1,0,0,1,[],[],"[('uh', 'oh')]"
+3.5,7,2,0,1,1,[],['two'],"[('nines', 'bye')]"
+0.0,0,1,0,0,0,[],[],[]
+2.0,4,2,0,0,1,[],[],"[('one', 'im')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.75,3,4,1,0,0,['damage'],[],[]
+3.75,15,4,1,0,3,['hey'],[],"[('ha', 'yeah'), ('one', 'worth'), ('five', 'it')]"
+3.6,18,5,0,2,3,[],"['how', 'many']","[('fives', 'im'), ('are', 'fucking'), ('left', 'out')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'more'), ('five', 'file')]"
+3.3333333333333335,10,3,0,2,1,[],"['i', 'call']","[('bullshit', 'oh')]"
+13.0,13,1,3,0,1,"['come', 'in', 'at']",[],"[('dammit', 'it')]"
+5.8,29,5,3,0,5,"['we', 'dont', 'know']",[],"[('i', 'we'), ('thought', 'are'), ('that', 'fatema'), ('was', 'well'), ('bullshit', 'hey')]"
+7.0,7,1,1,0,1,['this'],[],"[('sixes', 'is')]"
+0.0,0,4,0,0,0,[],[],[]
+3.0,21,7,0,7,0,[],"['oh', 'i', 'have', 'another', 'fucking', 'seven', 'shit']",[]
+2.0,4,2,0,0,1,[],[],"[('eight', 'out')]"
+8.5,17,2,3,0,2,"['pfft', 'pfft', 'pfft']",[],"[('seven', 'pfft'), ('psychology', 'pfft')]"
+2.0,4,2,0,0,1,[],[],"[('four', 'for')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+3.75,15,4,1,0,3,['here'],[],"[('i', 'comes'), ('know', 'me'), ('ten', 'check')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'whew'), ('jack', 'thanp')]"
+0.0,0,2,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['thanks'],[],"[('four', 'for'), ('queens', 'watching')]"
+2.9,29,10,0,3,5,[],"['do', 'i', 'want']","[('some', 'so'), ('queens', 'clearly'), ('dont', 'cant'), ('one', 'change'), ('king', 'it')]"
+3.5,7,2,0,1,1,[],['one'],"[('eighths', 'nice')]"
+3.5,7,2,1,0,1,['im'],[],"[('called', 'cold')]"
+0.0,0,2,0,0,0,[],[],[]
+3.75,15,4,1,0,3,['boss'],[],"[('bullshit', 'it'), ('pick', 'take'), ('up', 'out')]"
+1.1428571428571428,16,14,0,0,4,[],[],"[('turn', 'time'), ('turn', 'time'), ('turn', 'time'), ('four', 'more')]"
+7.25,29,4,7,0,2,"['just', 'skip', 'me', 'five', 'its', 'one', 'more']",[],"[('why', 'just'), ('my', 'your')]"
+3.5,7,2,1,0,1,['for'],[],"[('four', 'us')]"
+7.0,7,1,1,0,1,['boss'],[],"[('bullshit', 'it')]"
+2.0,4,2,0,0,1,[],[],"[('called', 'cold')]"
+0.0,0,2,0,0,0,[],[],[]
+3.2222222222222223,29,9,3,0,5,"['five', 'they', 'are']",[],"[('fives', 'go'), ('i', 'six'), ('got', 'well'), ('four', 'your'), ('sixes', 'names')]"
+4.0,8,2,0,0,2,[],[],"[('how', 'help'), ('many', 'me')]"
+3.5,7,2,0,1,1,[],['two'],"[('sixes', 'oh')]"
+0.375,3,8,0,1,0,[],['oh'],[]
+3.125,25,8,0,7,1,[],"['you', 'get', 'a', 'two', 'how', 'are', 'you']","[('doing', 'woo')]"
+3.5,7,2,0,1,1,[],['one'],"[('seven', 'awesome')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('fuck', 'leave')]"
+0.0,0,6,0,0,0,[],[],[]
+3.5,21,6,0,3,3,[],"['im', 'gonna', 'put']","[('down', 'thanks'), ('those', 'for'), ('eights', 'watching')]"
+2.0,8,4,0,0,2,[],[],"[('isnt', 'is'), ('nine', 'lie')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'whats'), ('ten', 'here')]"
+4.0,8,2,0,0,2,[],[],"[('what', 'sad'), ('bullshit', 'his')]"
+2.3333333333333335,14,6,1,1,2,['drat'],['isnt'],"[('even', 'is'), ('ten', 'too')]"
+1.1428571428571428,8,7,0,0,2,[],[],"[('cuz', 'because'), ('nines', 'noise')]"
+3.6666666666666665,11,3,0,1,2,[],['he'],"[('had', 'yeah'), ('nines', 'no')]"
+3.25,13,4,0,3,1,[],"['no', 'i', 'had']","[('seven', 'vibration')]"
+1.565217391304348,36,23,3,1,6,"['you', 'go', 'to']",['he'],"[('had', 'yeah'), ('called', 'call'), ('nines', 'nice'), ('so', 'for'), ('shut', 'set'), ('shut', 'set')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,28,8,0,4,4,[],"['right', 'now', 'either', 'way']","[('pick', 'shut'), ('it', 'up'), ('back', 'and'), ('up', 'go')]"
+1.1538461538461537,15,13,1,0,3,['car'],[],"[('cuz', 'because'), ('card', 'and'), ('slick', 'sleek')]"
+2.0,4,2,0,0,1,[],[],"[('four', 'or')]"
+3.5,7,2,0,1,1,[],['i'],"[('oughta', 'awe')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'bye'), ('queen', 'bye')]"
+0.0,0,1,0,0,0,[],[],[]
+3.3333333333333335,10,3,0,2,1,[],"['playing', 'with']","[('me', 'hs')]"
+3.3333333333333335,10,3,0,2,1,[],"['bullshit', 'four']","[('twos', 'hacker')]"
+5.0,15,3,1,0,3,['what'],[],"[('one', 'can'), ('king', 'you'), ('shit', 'do')]"
+7.0,14,2,2,0,2,"['its', 'rice']",[],"[('four', 'and'), ('aces', 'philippines')]"
+2.4285714285714284,17,7,2,1,2,"['have', 'to']",['youre'],"[('not', 'im'), ('call', 'go')]"
+0.0,0,8,0,0,0,[],[],[]
+0.6666666666666666,4,6,0,0,1,[],[],"[('four', 'for')]"
+4.75,19,4,1,0,4,['i'],[],"[('bullshit', 'really'), ('bullshit', 'want'), ('three', 'to'), ('fives', 'call')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'mm')]"
+1.5,15,10,1,0,3,['want'],[],"[('wanna', 'to'), ('bullshit', 'both'), ('on', 'children')]"
+0.0,0,5,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+4.0,16,4,0,0,4,[],[],"[('bullshit', 'all'), ('pick', 'straight'), ('that', 'dippin'), ('up', 'out')]"
+3.5,7,2,0,1,1,[],['three'],"[('sevens', 'evans')]"
+5.5,11,2,1,0,2,['were'],[],"[('four', 'doing'), ('eights', 'this')]"
+3.1538461538461537,41,13,0,11,2,[],"['i', 'fucking', 'hate', 'you', 'i', 'i', 'fucking', 'hate', 'you', 'i', 'fucking']","[('hate', 'moons'), ('you', 'tryna')]"
+3.5,7,2,0,1,1,[],['four'],"[('eights', 'great')]"
+4.0,8,2,0,0,2,[],[],"[('i', 'and'), ('know', 'then')]"
+1.3333333333333333,8,6,0,0,2,[],[],"[('man', 'may'), ('nine', 'eye')]"
+3.5,7,2,0,1,1,[],['two'],"[('tens', 'intense')]"
+1.1875,19,16,0,1,4,[],['she'],"[('got', 'yeah'), ('tens', 'chance'), ('it', 'a'), ('mama', 'moment')]"
+3.5,7,2,0,1,1,[],['four'],"[('jacks', 'hcyst')]"
+0.375,3,8,0,1,0,[],['look'],[]
+2.3333333333333335,7,3,0,1,1,[],['three'],"[('kings', 'thanks')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('fours', 'four')]"
+3.1,31,10,0,9,1,[],"['oh', 'youre', 'not', 'gon', 'call', 'youre', 'not', 'gon', 'call']","[('bs', 'judged')]"
+3.7142857142857144,26,7,2,0,5,"['gonna', 'gonna']",[],"[('im', 'have'), ('call', 'a'), ('bullshit', 'car'), ('on', 'book'), ('that', 'too')]"
+1.75,7,4,1,0,1,['a'],[],"[('plans', 'planer')]"
+2.75,11,4,1,0,2,['have'],[],"[('what', 'a'), ('is', 'with')]"
+4.5,18,4,2,0,3,"['gonna', 'sing']",[],"[('missing', 'it'), ('a', 'to'), ('tack', 'me')]"
+1.0,4,4,0,0,1,[],[],"[('toes', 'times')]"
+0.0,0,2,0,0,0,[],[],[]
+2.25,18,8,0,2,3,[],"['cut', 'it']","[('cut', 'get'), ('cut', 'get'), ('cut', 'get')]"
+0.7142857142857143,10,14,0,2,1,[],"['i', 'do']","[('it', 'they')]"
+0.0,0,2,0,0,0,[],[],[]
+1.1111111111111112,10,9,2,0,1,"['want', 'taka']",[],"[('wanna', 'to')]"
+2.5714285714285716,18,7,2,0,3,"['two', 'research']",[],"[('three', 'but'), ('sets', 'itll'), ('maybe', 'be')]"
+1.5714285714285714,11,7,0,1,2,[],['the'],"[('there', 'theyre'), ('set', 'step')]"
+5.0,15,3,1,0,3,['thank'],[],"[('yeah', 'you'), ('theyre', 'very'), ('all', 'much')]"
+9.5,19,2,5,0,1,"['the', 'shark', 'comes', 'right', 'there']",[],"[('um', 'yellow')]"
+4.0,4,1,0,0,1,[],[],"[('no', 'loop')]"
+2.0,8,4,0,0,2,[],[],"[('oh', 'how'), ('its', 'is')]"
+0.0,0,1,0,0,0,[],[],[]
+1.7142857142857142,12,7,0,0,3,[],[],"[('cracked', 'crack'), ('in', 'and'), ('here', 'eat')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'to'), ('aces', 'asen')]"
+7.0,7,1,1,0,1,['oh'],[],"[('bullshit', 'shit')]"
+0.0,0,8,0,0,0,[],[],[]
+3.15,63,20,0,1,15,[],['i'],"[('pick', 'after'), ('up', 'concluding'), ('those', 'this'), ('aces', 'is'), ('i', 'a'), ('want', 'lot'), ('those', 'of'), ('aces', 'diseases'), ('anyways', 'and'), ('i', 'less'), ('didnt', 'and'), ('have', 'it'), ('any', 'has'), ('thank', 'many'), ('you', 'parts')]"
+3.5,7,2,0,1,1,[],['one'],"[('two', 'monsters')]"
+4.0,8,2,0,0,2,[],[],"[('youre', 'your'), ('joking', 'judgment')]"
+3.5,7,2,0,1,1,[],['one'],"[('three', 'editor')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+1.4,7,5,0,1,1,[],['a'],"[('three', 'to')]"
+3.142857142857143,44,14,2,6,5,"['why', 'im']","['do', 'you', 'have', 'a', 'three', 'cos']","[('well', 'not'), ('i', 'even'), ('dont', 'here'), ('have', 'go'), ('any', 'forward')]"
+5.5,11,2,1,0,2,['time'],[],"[('one', 'for'), ('four', 'it')]"
+5.5,11,2,1,0,2,['come'],[],"[('one', 'on'), ('five', 'back')]"
+2.0,4,2,0,0,1,[],[],"[('sixes', 'senses')]"
+0.8,4,5,0,0,1,[],[],"[('these', 'too')]"
+4.0,12,3,0,0,3,[],[],"[('thats', 'absolutely'), ('what', 'dont'), ('you', 'think')]"
+3.5,7,2,0,1,1,[],['one'],"[('seven', 'october')]"
+1.3,13,10,0,3,1,[],"['i', 'forgot', 'im']","[('sorry', 'ooh')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'thank'), ('eight', 'you')]"
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'oops')]"
+4.0,4,1,0,0,1,[],[],"[('yup', 'ha')]"
+0.0,0,1,0,0,0,[],[],[]
+3.3333333333333335,10,3,0,2,1,[],"['i', 'got']","[('them', 'battle')]"
+2.0,4,2,0,0,1,[],[],"[('ten', 'two')]"
+2.0,4,2,0,0,1,[],[],"[('one', 'oh')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'for'), ('queens', 'you')]"
+3.5,7,2,0,1,1,[],['one'],"[('king', 'okay')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'oops')]"
+3.5,7,2,0,1,1,[],['one'],"[('ace', 'this')]"
+1.8,18,10,0,2,3,[],"['one', 'ace']","[('pick', 'be'), ('that', 'the'), ('up', 'one')]"
+4.0,4,1,0,0,1,[],[],"[('damn', 'dang')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.2,16,5,1,3,1,['getting'],"['are', 'you', 'sure']","[('kidding', 'byek')]"
+7.0,14,2,2,0,2,"['thank', 'you']",[],"[('one', 'for'), ('four', 'watching')]"
+1.5555555555555556,14,9,0,2,2,[],"['you', 'have']","[('why', 'do'), ('you', 'we')]"
+3.6666666666666665,11,3,0,1,2,[],['cos'],"[('i', 'thank'), ('knew', 'you')]"
+0.0,0,5,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.4,17,5,0,3,2,[],"['bullshit', 'pick', 'that']","[('up', 'thank'), ('no', 'you')]"
+2.727272727272727,30,11,5,1,3,"['you', 'got', 'to', 'be', 'serious']",['are'],"[('you', 'like'), ('targeting', 'start'), ('cos', 'because')]"
+11.0,33,3,7,0,3,"['i', 'dont', 'care', 'if', 'its', 'the', 'end']",[],"[('two', 'of'), ('fives', 'the'), ('yes', 'video')]"
+2.0,8,4,0,0,2,[],[],"[('two', 'too'), ('fives', 'far')]"
+4.8,24,5,4,0,3,"['it', 'was', 'too', 'far']",[],"[('one', 'until'), ('six', 'the'), ('card', 'cards')]"
+3.5,7,2,0,1,1,[],['three'],"[('sevens', 'twentysevens')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('three', 'lets'), ('eights', 'newark')]"
+4.0,8,2,0,0,2,[],[],"[('one', 'why'), ('nine', 'not')]"
+5.5,11,2,1,0,2,['we'],[],"[('go', 'appreciate'), ('already', 'it')]"
+8.5,17,2,3,0,2,"['right', 'now', 'for']",[],"[('two', 'the'), ('ten', 'fun')]"
+2.0,4,2,0,0,1,[],[],"[('tens', 'times')]"
+8.5,17,2,3,0,2,"['im', 'seeing', 'people']",[],"[('two', 'too'), ('jacks', 'gentle')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'to'), ('queens', 'qwings')]"
+3.5,7,2,0,1,1,[],['three'],"[('kings', 'okay')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'no'), ('kings', 'way')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'warning'), ('aces', 'sister')]"
+7.0,7,1,1,0,1,['you'],[],"[('yeah', 'know')]"
+1.0,3,3,1,0,0,['yeah'],[],[]
+0.0,0,1,0,0,0,[],[],[]
+1.375,11,8,1,0,2,['i'],[],"[('one', 'want'), ('two', 'to')]"
+4.0,4,1,0,0,1,[],[],"[('bullshit', 'borsuit')]"
+4.0,8,2,0,0,2,[],[],"[('four', 'or'), ('fours', 'boys')]"
+1.0,3,3,1,0,0,['the'],[],[]
+10.0,10,1,2,0,1,"['love', 'you']",[],"[('so', 'all')]"
+4.454545454545454,49,11,3,0,10,"['i', 'think', 'the']",[],"[('its', 'if'), ('not', 'youre'), ('resting', 'already'), ('this', 'left'), ('black', 'side'), ('pipeits', 'it'), ('resting', 'wont'), ('on', 'be'), ('this', 'more'), ('thing', 'really')]"
+3.75,15,4,0,1,3,[],['so'],"[('this', 'for'), ('have', 'a'), ('to', 'distant')]"
+7.0,7,1,1,0,1,['come'],[],"[('what', 'on')]"
+2.769230769230769,36,13,3,1,6,"['board', 'a', 'jock']",['on'],"[('have', 'touch'), ('cuz', 'because'), ('dressing', 'the'), ('on', 'end'), ('this', 'theyve'), ('this', 'already')]"
+0.0,0,8,0,0,0,[],[],[]
+3.5,7,2,1,0,1,['so'],[],"[('sowe', 'we')]"
+0.18181818181818182,4,22,0,0,1,[],[],"[('best', 'list')]"
+1.0555555555555556,19,18,1,0,4,['going'],[],"[('but', 'well'), ('gonna', 'to'), ('is', 'you'), ('gonna', 'know')]"
+7.0,7,1,1,0,1,['thank'],[],"[('hmm', 'you')]"
+7.0,7,1,1,0,1,['take'],[],"[('okay', 'care')]"
+3.2857142857142856,23,7,0,5,2,[],"['were', 'going', 'to', 'get', 'that']","[('on', 'thank'), ('there', 'you')]"
+3.5,7,2,0,1,1,[],['my'],"[('plate', 'right')]"
+3.8,19,5,0,1,4,[],['oh'],"[('give', 'now'), ('me', 'pulley'), ('hold', 'well'), ('that', 'done')]"
+0.0,0,1,0,0,0,[],[],[]
+0.5,11,22,0,1,2,[],['then'],"[('cuz', 'because'), ('so', 'none')]"
+4.0,4,1,0,0,1,[],[],"[('what', 'webp')]"
+0.0,0,7,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+3.6666666666666665,11,3,1,0,2,['expectations'],[],"[('expectationsversus', 'versus'), ('steph', 'stuff')]"
+2.2,11,5,0,1,2,[],['coming'],"[('up', 'not'), ('solutions', 'pollution')]"
+0.6,3,5,0,1,0,[],['what'],[]
+4.75,19,4,1,0,4,['its'],[],"[('im', 'so'), ('thinking', 'good'), ('of', 'to'), ('one', 'see')]"
+4.0,16,4,0,0,4,[],[],"[('you', 'have'), ('got', 'a'), ('solution', 'nice'), ('yet', 'day')]"
+13.0,13,1,3,0,1,"['nane', 'fie', 'main']",[],"[('yea', 'comp')]"
+0.0,0,9,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+0.75,6,8,0,2,0,[],"['tooh', 'god']",[]
+4.0,4,1,0,0,1,[],[],"[('okay', 'i')]"
+2.6666666666666665,32,12,0,4,5,[],"['so', 'did', 'you', 'wanna']","[('lower', 'put'), ('this', 'it'), ('and', 'in'), ('test', 'time'), ('and', 'to')]"
+2.0,8,4,0,0,2,[],[],"[('steph', 'death'), ('its', 'is')]"
+6.0,18,3,2,0,3,"['but', 'you']",[],"[('thats', 'arent'), ('the', 'saying'), ('line', 'it')]"
+0.0,0,10,0,0,0,[],[],[]
+3.1666666666666665,19,6,0,5,1,[],"['glass', 'is', 'gonna', 'lift', 'for']","[('this', 'missed')]"
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+1.2,6,5,0,2,0,[],"['i', 'know']",[]
+0.0,0,10,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+1.8333333333333333,22,12,0,2,4,[],"['there', 'gonna']","[('be', 'going'), ('in', 'to'), ('the', 'go'), ('front', 'from')]"
+0.3,3,10,0,1,0,[],['a'],[]
+4.0,16,4,0,0,4,[],[],"[('ho', 'look'), ('ho', 'i'), ('you', 'do'), ('why', 'want')]"
+0.0,0,3,0,0,0,[],[],[]
+3.0,12,4,0,0,3,[],[],"[('steph', 'that'), ('think', 'thing'), ('it', 'is')]"
+1.8571428571428572,65,35,2,9,8,"['feel', 'act']","['you', 'can', 'access', 'the', 'top', 'you', 'dont', 'have', 'to']","[('part', 'what'), ('with', 'was'), ('the', 'it'), ('plugs', 'called'), ('still', 'active'), ('access', 'with'), ('access', 'as'), ('this', 'a')]"
+0.0,0,11,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.21428571428571427,3,14,0,1,0,[],['of'],[]
+0.0,0,8,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['plenty'],"[('of', 'bye'), ('room', 'bye')]"
+0.0,0,9,0,0,0,[],[],[]
+0.34375,11,32,1,0,2,['want'],[],"[('wanna', 'to'), ('do', 'be')]"
+3.142857142857143,22,7,0,6,1,[],"['you', 'can', 'just', 'come', 'to', 'the']","[('side', 'no')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,24,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['two'],"[('kings', 'bookings')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('oh', 'or'), ('thirty', 'teddy')]"
+3.5,7,2,0,1,1,[],['one'],"[('more', 'on')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.2,16,5,0,4,1,[],"['the', 'second', 'time', 'also']","[('needed', 'man')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'etrat'), ('jacks', 'pulse')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'poe'), ('jacks', 'kind')]"
+16.0,32,2,8,0,2,"['wpa', 'tamam', 'crab', 'dump', 'kit\u202a', 'censorship', 'aliens', 'skies']",[],"[('one', 'carbon'), ('more', 'showcases')]"
+0.0,0,1,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['come'],[],"[('one', 'on')]"
+3.5,7,2,0,1,1,[],['one'],"[('more', 'bye')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+0.0,0,5,0,0,0,[],[],[]
+0.0,0,2,0,0,0,[],[],[]
+0.26666666666666666,4,15,0,0,1,[],[],"[('cards', 'card')]"
+5.5,11,2,1,0,2,['like'],[],"[('four', 'mattered'), ('nine', 'below')]"
+3.0,6,2,2,0,0,"['strik', 'cannons']",[],[]
+4.0,4,1,0,0,1,[],[],"[('one', 'you')]"
+3.0,3,1,0,1,0,[],['four'],[]
+4.0,4,1,0,0,1,[],[],"[('more', 'mode')]"
+2.0,4,2,0,0,1,[],[],"[('four', 'for')]"
+16.0,32,2,8,0,2,"['thats', 'not', 'correct', 'thats', 'just', 'the', 'right', 'way']",[],"[('four', 'your'), ('nine', 'mind')]"
+3.4,17,5,0,3,2,[],"['seven', 'three', 'four']","[('nine', 'happy'), ('two', 'halloween')]"
+1.2857142857142858,9,7,2,1,0,"['lives', 'of']",['analyze'],[]
+0.0,0,18,0,0,0,[],[],[]
+0.0,0,9,0,0,0,[],[],[]
+0.0,0,8,0,0,0,[],[],[]
+3.5833333333333335,43,12,9,0,4,"['for', 'asking', 'im', 'not', 'sure', 'if', 'you', 'have', 'any']",[],"[('to', 'people'), ('play', 'of'), ('this', 'the'), ('unfortunately', 'idea')]"
+0.9444444444444444,17,18,3,0,2,"['you', 'i', 'that']",[],"[('youll', 'will'), ('ill', 'will')]"
+0.75,9,12,0,3,0,[],"['and', 'uh', 'the']",[]
+2.0,14,7,2,0,2,"['pelleic', 'decry']",[],"[('so', 'killing'), ('that', 'whether')]"
+1.5,3,2,0,1,0,[],['cause'],[]
+0.75,6,8,1,1,0,['the'],['so'],[]
+1.5,3,2,1,0,0,['video'],[],[]
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('so', 'store')]"
+0.0,0,8,0,0,0,[],[],[]
+0.5384615384615384,7,13,0,1,1,[],['um'],"[('hands', 'hand')]"
+1.5,3,2,0,1,0,[],['um'],[]
+0.0,0,7,0,0,0,[],[],[]
+1.0,4,4,0,0,1,[],[],"[('placing', 'leasing')]"
+3.5,7,2,0,1,1,[],['face'],"[('down', 'troop')]"
+8.5,17,2,3,0,2,"['that', 'was', 'the']",[],"[('call', 'battle'), ('out', 'ofurbha')]"
+9.0,9,1,3,0,0,"['a', 'king', 'neda']",[],[]
+22.0,22,1,6,0,1,"['alright', 'mate', 'see', 'you', 'later', 'bye']",[],"[('india', 'rfu')]"
+7.0,7,1,1,0,1,['this'],[],"[('point', 'measures')]"
+1.75,21,12,0,7,0,[],"['pass', 'all', 'cards', 'remain', 'in', 'someones', 'hand']",[]
+4.0,4,1,0,0,1,[],[],"[('uh', 'bye')]"
+1.75,7,4,1,0,1,['i'],[],"[('ill', 'will')]"
+0.0,0,4,0,0,0,[],[],[]
+5.5,22,4,2,0,4,"['thank', 'you']",[],"[('youll', 'for'), ('know', 'saving'), ('whats', 'the'), ('going', 'points')]"
+2.5,15,6,1,0,3,['youll'],[],"[('uh', 'hi'), ('joker', 'go'), ('counts', 'on')]"
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,6,0,0,0,[],[],[]
+1.8666666666666667,28,15,2,2,4,"['they', 'count']","['they', 'are']","[('there', 'are'), ('jokers', 'joker'), ('counter', 'as'), ('card', 'guard')]"
+3.75,30,8,1,1,6,['that'],['so'],"[('and', 'know'), ('oh', 'what'), ('she', 'stuff'), ('thought', 'to'), ('she', 'always'), ('said', 'question')]"
+1.3333333333333333,24,18,8,0,0,"['sorry', 'i', 'didnt', 'have', 'to', 'worry', 'about', 'this']",[],[]
+0.0,0,1,0,0,0,[],[],[]
+0.2857142857142857,4,14,0,0,1,[],[],"[('a', 'waller')]"
+3.6,18,5,0,2,3,[],"['one', 'game']","[('passing', 'thanks'), ('the', 'for'), ('second', 'watching')]"
+8.0,24,3,4,0,3,"['once', 'againz', 'i', 'just']",[],"[('passing', 'give'), ('passing', 'this'), ('rule', 'view')]"
+10.0,10,1,2,0,1,"['what', 'kisco']",[],"[('phone', 'kisco')]"
+4.0,4,1,0,0,1,[],[],"[('what', 'point')]"
+3.2,32,10,7,1,2,"['all', 'the', 'rules', 'as', 'i', 'if', 'we']",['uh'],"[('rule', 'say'), ('starts', 'start')]"
+3.8,19,5,0,1,4,[],['do'],"[('you', 'came'), ('get', 'to'), ('counterclockwise', 'x'), ('clockwise', 'but')]"
+1.7058823529411764,29,17,5,2,2,"['left', 'clicker', 'then', 'it', 'there']","['take', 'care']","[('let', 'will'), ('to', 'clicker')]"
+0.9230769230769231,12,13,0,4,0,[],"['do', 'you', 'get', 'pass']",[]
+10.0,10,1,2,0,1,"['sunday', 'party']",[],"[('cards', 'join')]"
+0.1875,3,16,0,1,0,[],['and'],[]
+2.24,56,25,15,1,2,"['its', 'left', 'do', 'you', 'choose', 'gerna', 'im', 'gonna', 'lay', 'around', 'to', 'start', 'the', 'post', 'i']",['um'],"[('if', 'in'), ('really', 'will')]"
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'to'), ('decks', 'next')]"
+0.0,0,4,0,0,0,[],[],[]
+8.222222222222221,74,9,22,0,2,"['pass', 'again', 'many', 'years', 'you', 'get', 'to', 'play', 'to', 'play', 'again', 'you', 'got', 'to', 'play', 'again', 'you', 'got', 'you', 'got', 'to', 'play']",[],"[('then', 'again'), ('cards', 'again')]"
+1.1428571428571428,16,14,0,0,4,[],[],"[('we', 'you'), ('it', 'will'), ('becomes', 'become'), ('easy', 'easier')]"
+3.5,7,2,0,1,1,[],['two'],"[('ten', 'beautiful')]"
+3.0,6,2,0,2,0,[],"['seven', 'six']",[]
+7.0,7,1,1,0,1,['time'],[],"[('seven', 'to')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('three', 'study'), ('more', 'mode')]"
+3.5,7,2,0,1,1,[],['three'],"[('more', 'rom')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'bye')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('four', 'for'), ('twos', 'two')]"
+8.5,17,2,3,0,2,"['it', 'just', 'has']",[],"[('this', 'no'), ('is', 'animation')]"
+0.0,0,3,0,0,0,[],[],[]
+0.75,3,4,1,0,0,['quickly'],[],[]
+7.0,7,1,1,0,1,['very'],[],"[('count', 'quickly')]"
+6.0,18,3,2,0,3,"['speed', 'cost']",[],"[('uh', 'paid'), ('spade', 'for'), ('spade', 'me')]"
+3.5,7,2,0,1,1,[],['lets'],"[('see', 'listen')]"
+1.0,7,7,1,0,1,['computer'],[],"[('competition', 'vision')]"
+3.1,31,10,8,1,1,"['we', 'will', 'go', 'suits', 'can', 'that', 'happen', 'individual']",['okay'],"[('well', 'layling')]"
+3.1666666666666665,19,6,1,0,4,['art'],[],"[('spade', 'a'), ('heart', 'art'), ('heart', 'art'), ('heart', 'art')]"
+1.0344827586206897,30,29,6,0,3,"['tournament', 'time', 'like', 'a', 'bad', 'karling']",[],"[('that', 'their'), ('radio', 'video'), ('how', 'and')]"
+7.0,7,1,1,0,1,['or'],[],"[('cards', 'knocking')]"
+0.8571428571428571,12,14,0,4,0,[],"['oops', 'dodge', 'because', 'like']",[]
+4.0,4,1,0,0,1,[],[],"[('ah', 'bye')]"
+3.5,7,2,0,1,1,[],['mm'],"[('hmm', 'mmhmm')]"
+0.9,36,40,7,1,3,"['six', 'ah', 'miradosto', 'art', 'king', 'asavolke', 'dalda']",['like'],"[('is', 'years'), ('sixes', 'days'), ('huh', 'dharak')]"
+16.666666666666668,100,6,32,0,1,"['six', 'days', 'huh', 'mirados', 'to', 'art', 'king', 'sa', 'volga', 'dada', 'because', 'it', 'is', 'easier', 'for', 'you', 'to', 'get', 'rid', 'of', 'many', 'of', 'them', 'at', 'the', 'same', 'time', 'now', 'and', 'also', 'easier', 'to']",[],"[('okay', 'bluff')]"
+1.0689655172413792,31,29,3,2,4,"['suppose', 'i', 'say']","['uh', 'uh']","[('play', 'say'), ('kings', 'things'), ('kings', 'things'), ('calls', 'knows')]"
+4.0,4,1,0,0,1,[],[],"[('hmm', 'huh')]"
+3.2666666666666666,49,15,0,7,7,[],"['it', 'depends', 'on', 'me', 'if', 'i', 'liar']","[('call', 'then'), ('or', 'are'), ('i', 'out'), ('challenge', 'because'), ('you', 'all'), ('to', 'of'), ('feel', 'the')]"
+0.6363636363636364,7,11,1,0,1,['you'],[],"[('youre', 'are')]"
+3.0,15,5,1,4,0,['right'],"['all', 'of', 'them', 'should']",[]
+1.4444444444444444,13,9,0,3,1,[],"['if', 'you', 'are']","[('safe', 'yet')]"
+11.5,46,4,10,0,4,"['i', 'thought', 'it', 'counts', 'right', 'now', 'were', 'living', 'right', 'now']",[],"[('these', 'were'), ('are', 'living'), ('the', 'right'), ('cards', 'now')]"
+1.4193548387096775,44,31,12,0,2,"['make', 'a', 'sector', 'organization', 'its', 'not', 'going', 'to', 'pass', 'for', 'laal', 'kiltit']",[],"[('play', 'like'), ('you', 'okay')]"
+10.0,10,1,2,0,1,"['i', 'know']",[],"[('called', 'that')]"
+15.0,45,3,11,0,3,"['but', 'as', 'theyre', 'changing', 'it', 'its', 'on', 'my', 'side', 'as', 'a']",[],"[('two', 'reimagined'), ('more', 'video'), ('six', 'felix')]"
+2.7222222222222223,49,18,15,0,1,"['ahahahaha', 'i', 'dont', 'know', 'what', 'it', 'is', 'ohh', 'he', 'was', 'important', 'to', 'the', 'entire', 'game']",[],"[('ooh', 'its')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,28,7,7,1,1,"['do', 'the', 'merpa', 'see', 'there', 'we', 'go']",['see'],"[('if', 'this')]"
+3.5,7,2,0,1,1,[],['one'],"[('more', 'by')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('two', 'dont'), ('more', 'mind')]"
+4.0,4,1,0,0,1,[],[],"[('pass', 'pause')]"
+0.5714285714285714,4,7,0,0,1,[],[],"[('can', 'cant')]"
+0.0,0,11,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['can'],"[('challenge', 'ion')]"
+3.5,7,2,0,1,1,[],['one'],"[('more', 'hello')]"
+0.0,0,2,0,0,0,[],[],[]
+5.777777777777778,52,9,12,0,4,"['then', 'he', 'went', 'in', 'the', 'house', 'and', 'fell', 'into', 'fl', 'meshtailed', 'dozy']",[],"[('both', 'thats'), ('you', 'watch'), ('play', 'my'), ('now', 'video')]"
+2.25,9,4,0,3,0,[],"['i', 'have', 'have']",[]
+3.619047619047619,76,21,24,0,1,"['aputto', 'deck', 'there', 'generally', 'are', 'like', 'let', 'me', 'ha', 'ha', 'ha', 'nai', 'ji', 'too', 'much', 'a', 'lega', 'but', 'ha', 'ha', 'ha', 'ha', 'nani', 'ji']",[],"[('now', 'enough')]"
+14.0,28,2,8,0,1,"['up', 'here', 'right', 'now', 'it', 'is', 'a', 'complete']",[],"[('whole', 'to')]"
+27.0,27,1,9,0,0,"['again', 'badek', 'toappad', 'has', 'now', 'been', 'attacked', 'and', 'well']",[],[]
+0.0,0,2,0,0,0,[],[],[]
+5.5,11,2,1,0,2,['hum'],[],"[('two', 'dou'), ('more', 'motor')]"
+10.0,10,1,2,0,1,"['or', 'lebanese']",[],"[('nine', 'land')]"
+0.0,0,2,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['an'],[],"[('nine', 'perazano')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'we'), ('five', 'tied')]"
+4.0,4,1,0,0,1,[],[],"[('three', 'goodbye')]"
+0.0,0,2,0,0,0,[],[],[]
+3.5,7,2,0,1,1,[],['three'],"[('more', 'angle')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'po'), ('more', 'op')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'and'), ('more', 'work')]"
+16.0,16,1,4,0,1,"['and', 'every', 'past', 'no']",[],"[('pass', 'oneprays')]"
+5.5,11,2,1,0,2,['ill'],[],"[('one', 'be'), ('more', 'back')]"
+4.0,4,1,0,0,1,[],[],"[('yes', 'hahahaha')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('i', 'it'), ('win', 'went')]"
+0.0,0,2,0,0,0,[],[],[]
+22.0,22,1,6,0,1,"['on', 'get', 'the', 'anger', 'un', 'applaud']",[],"[('unbelievable', 'or')]"
+4.0,8,2,0,0,2,[],[],"[('two', 'call'), ('four', 'glimpse')]"
+1.8571428571428572,13,7,1,2,1,['more'],"['go', 'ahead']","[('fours', 'force')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'tomorrow')]"
+0.0,0,2,0,0,0,[],[],[]
+31.0,31,1,9,0,1,"['zelda', 'durachi', 'helps', 'you', 'with', 'the', 'situation', 'in', 'a']",[],"[('help', 'heartache')]"
+3.2857142857142856,23,7,5,0,2,"['of', 'them', 'are', 'currently', 'on']",[],"[('votes', 'both'), ('a', 'the')]"
+3.5,7,2,0,1,1,[],['pick'],"[('two', 'people')]"
+3.5,7,2,0,1,1,[],['one'],"[('more', 'bye')]"
+3.5,7,2,0,1,1,[],['two'],"[('more', 'bite')]"
+4.0,8,2,0,0,2,[],[],"[('three', 'true'), ('two', 'to')]"
+3.5,7,2,0,1,1,[],['too'],"[('late', 'it')]"
+2.0,4,2,0,0,1,[],[],"[('ah', 'ha')]"
+0.0,0,1,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('six', 'standards'), ('six', 'sorry')]"
+0.0,0,5,0,0,0,[],[],[]
+3.5,14,4,0,2,2,[],"['i', 'want']","[('a', 'until'), ('ring', 'very')]"
+1.3333333333333333,4,3,0,0,1,[],[],"[('there', 'lord')]"
+4.0,4,1,0,0,1,[],[],"[('hey', 'mm')]"
+0.0,0,1,0,0,0,[],[],[]
+4.142857142857143,29,7,2,1,5,"['in', 'the']",['why'],"[('the', 'and'), ('hell', 'well'), ('would', 'see'), ('say', 'next'), ('that', 'one')]"
+1.375,11,8,0,1,2,[],['that'],"[('and', 'well'), ('drawing', 'drilling')]"
+1.5,3,2,0,1,0,[],['youre'],[]
+0.0,0,1,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+3.25,26,8,0,6,2,[],"['the', 'shelf', 'is', 'it', 'secure', 'enough']","[('for', 'well'), ('you', 'yknow')]"
+1.9,19,10,0,1,4,[],['with'],"[('looks', 'whats'), ('what', 'before'), ('weve', 'we'), ('got', 'move')]"
+7.0,21,3,3,0,3,"['we', 'shall', 'be']",[],"[('okay', 'back'), ('okay', 'with'), ('now', 'you')]"
+0.0,0,16,0,0,0,[],[],[]
+3.2857142857142856,23,7,0,1,5,[],['you'],"[('unless', 'this'), ('we', 'one'), ('make', 'i'), ('it', 'can'), ('run', 'draw')]"
+1.0,4,4,0,0,1,[],[],"[('what', 'one')]"
+1.0,4,4,0,0,1,[],[],"[('what', 'well')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'mmhmm')]"
+4.0,4,1,0,0,1,[],[],"[('huh', 'one')]"
+2.3,23,10,0,5,2,[],"['you', 'didnt', 'this', 'you', 'didnt']","[('do', 'these'), ('that', 'even')]"
+1.5714285714285714,11,7,0,1,2,[],['you'],"[('screw', 'are'), ('it', 'screwed')]"
+3.5,21,6,0,3,3,[],"['the', 'pipe', 'that']","[('is', 'hmm'), ('getting', 'just'), ('in', 'skip')]"
+8.2,41,5,7,0,5,"['i', 'hope', 'youll', 'meet', 'them', 'high', 'a']",[],"[('ill', 'lot'), ('up', 'down'), ('ill', 'high'), ('handle', 'a'), ('that', 'lot')]"
+4.0,8,2,0,0,2,[],[],"[('i', 'but'), ('just', 'now')]"
+3.75,15,4,0,1,3,[],['what'],"[('are', 'when'), ('you', 'we'), ('doing', 'go')]"
+1.0,15,15,0,1,3,[],['its'],"[('watch', 'its'), ('out', 'up'), ('hole', 'whole')]"
+5.625,45,8,7,0,6,"['the', 'rhine', 'bear', 'for', 'long', 'but', 'dont']",[],"[('okay', 'spain'), ('lines', 'get'), ('there', 'to'), ('so', 'just'), ('path', 'cash'), ('down', 'on')]"
+0.0,0,3,0,0,0,[],[],[]
+2.375,19,8,0,5,1,[],"['yeah', 'we', 'were', 'supposed', 'to']","[('path', 'pound')]"
+0.0,0,2,0,0,0,[],[],[]
+0.7857142857142857,11,14,0,1,2,[],['uh'],"[('hole', 'holding'), ('nine', 'on')]"
+3.7142857142857144,26,7,3,3,2,"['it', 'at', 'four']","['you', 'gonna', 'gonna']","[('back', 'even'), ('forty', 'obviously')]"
+0.23076923076923078,3,13,1,0,0,['i'],[],[]
+9.0,9,1,3,0,0,"['were', 'campin', 'left']",[],[]
+3.5,28,8,0,4,4,[],"['hey', 'can', 'i', 'see']","[('your', 'oh'), ('keys', 'quote'), ('babe', 'who'), ('this', 'oh')]"
+1.0,3,3,0,1,0,[],['so'],[]
+1.6666666666666667,10,6,1,1,1,['can'],['took'],"[('this', 'should')]"
+2.6666666666666665,8,3,0,0,2,[],[],"[('uh', 'a'), ('spent', 'sprint')]"
+3.6666666666666665,11,3,0,1,2,[],['thats'],"[('uh', 'but'), ('negatory', 'not')]"
+0.3333333333333333,4,12,0,0,1,[],[],"[('now', 'no')]"
+2.3333333333333335,7,3,0,1,1,[],['me'],"[('first', 'pretty')]"
+2.75,11,4,0,1,2,[],['where'],"[('is', 'very'), ('the', 'good')]"
+0.23529411764705882,4,17,0,0,1,[],[],"[('this', 'these')]"
+0.0,0,3,0,0,0,[],[],[]
+1.3333333333333333,4,3,0,0,1,[],[],"[('either', 'hear')]"
+1.75,7,4,0,1,1,[],['little'],"[('wheres', 'until')]"
+0.6666666666666666,8,12,0,0,2,[],[],"[('just', 'this'), ('when', 'one')]"
+3.2,32,10,0,0,8,[],[],"[('are', 'go'), ('you', 'dont'), ('doing', 'hit'), ('record', 'those'), ('the', 'people'), ('frisbee', 'haha'), ('quit', 'what'), ('off', 'ahh')]"
+3.0,15,5,5,0,0,"['dont', 'hold', 'the', 'frisbee', 'hehehehehe']",[],[]
+3.0555555555555554,55,18,0,13,4,[],"['you', 'not', 'see', 'it', 'miles', 'time', 'the', 'two', 'punches', 'like', 'straight', 'ahead', 'you']","[('just', 'i'), ('like', 'leave'), ('tilt', 'out'), ('straight', 'naw')]"
+3.5,14,4,0,2,2,[],"['alright', 'im']","[('going', 'great'), ('again', 'ahead')]"
+0.11428571428571428,4,35,0,0,1,[],[],"[('we', 'i')]"
+7.0,21,3,3,0,3,"['oh', 'my', 'god']",[],"[('you', 'i'), ('were', 'stand'), ('wrong', 'corrected')]"
+0.6153846153846154,8,13,0,0,2,[],[],"[('they', 'take'), ('want', 'it')]"
+1.5,18,12,0,2,3,[],"['nice', 'he']","[('i', 'noise'), ('could', 'its'), ('do', 'you')]"
+3.75,15,4,0,1,3,[],['alright'],"[('brenton', 'she'), ('your', 'penny'), ('turn', 'hogoth')]"
+0.0,0,1,0,0,0,[],[],[]
+0.75,3,4,1,0,0,['yeah'],[],[]
+0.0,0,6,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+7.0,7,1,1,0,1,['thank'],[],"[('wow', 'you')]"
+3.6666666666666665,11,3,1,0,2,['uhhuh'],[],"[('its', 'see'), ('fair', 'ya')]"
+13.0,13,1,3,0,1,"['oh', 'its', 'fun']",[],"[('something', 'kevin')]"
+0.0,0,1,0,0,0,[],[],[]
+1.0476190476190477,22,21,3,3,1,"['a', 'let', 'me']","['layla', 'player', 'player']","[('number', 'leila')]"
+5.0,15,3,1,0,3,['have'],[],"[('hows', 'a'), ('it', 'good'), ('going', 'one')]"
+2.125,17,8,1,2,2,['i'],"['name', 'a']","[('shes', 'names'), ('warrant', 'more')]"
+22.0,22,1,6,0,1,"['in', 'order', 'to', 'create', 'an', 'irish']",[],"[('lighter', 'include')]"
+4.0,4,1,0,0,1,[],[],"[('wow', 'oh')]"
+2.4,12,5,0,0,3,[],[],"[('take', 'they'), ('paul', 'all'), ('shoe', 'shoes')]"
+0.0,0,6,0,0,0,[],[],[]
+2.3333333333333335,7,3,0,1,1,[],['my'],"[('turn', 'yes')]"
+0.0,0,2,0,0,0,[],[],[]
+3.0,6,2,2,0,0,"['thank', 'you']",[],[]
+1.75,7,4,0,1,1,[],['people'],"[('going', 'yeah')]"
+3.6666666666666665,11,3,0,1,2,[],['just'],"[('hit', 'che'), ('them', 'theohh')]"
+6.333333333333333,57,9,7,0,9,"['but', 'there', 'has', 'to', 'be', 'something', 'you']",[],"[('oh', 'want'), ('fuck', 'from'), ('theres', 'two'), ('a', 'well'), ('lady', 'that'), ('walking', 'was'), ('too', 'to'), ('oh', 'be'), ('my', 'fair')]"
+0.35294117647058826,6,17,0,2,0,[],"['you', 'know']",[]
+3.5,7,2,0,1,1,[],['who'],"[('betray', 'hebrew')]"
+0.2857142857142857,4,14,0,0,1,[],[],"[('the', 'a')]"
+3.7142857142857144,26,7,0,2,5,[],"['you', 'know']","[('im', 'come'), ('here', 'on'), ('to', 'you'), ('change', 'big'), ('that', 'man')]"
+3.0,18,6,0,2,3,[],"['who', 'is']","[('is', 'isnt'), ('it', 'really'), ('miles', 'mild')]"
+2.3333333333333335,7,3,0,1,1,[],['i'],"[('win', 'what')]"
+3.5,14,4,0,2,2,[],"['miles', 'seriously']","[('very', 'go'), ('funny', 'ahead')]"
+3.2857142857142856,23,7,0,5,2,[],"['oh', 'so', 'it', 'wasnt', 'really']","[('my', 'ogeneoushest'), ('turn', 'martysis')]"
+0.23076923076923078,3,13,0,1,0,[],['or'],[]
+3.6666666666666665,11,3,1,0,2,['gonna'],[],"[('on', 'play'), ('it', 'around')]"
+0.0,0,2,0,0,0,[],[],[]
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,4,0,0,0,[],[],[]
+4.0,4,1,0,0,1,[],[],"[('what', 'and')]"
+4.0,4,1,0,0,1,[],[],"[('know', 'no')]"
+4.0,8,2,0,0,2,[],[],"[('its', 'hold'), ('rolling', 'on')]"
+0.3333333333333333,3,9,0,1,0,[],['oh'],[]
+5.5,11,2,1,0,2,['here'],[],"[('your', 'it'), ('turn', 'comes')]"
+2.75,11,4,0,1,2,[],['where'],"[('is', 'wheres'), ('basket', 'basketball')]"
+3.5,14,4,0,2,2,[],"['why', 'not']","[('big', 'atti'), ('bush', 'that')]"
+0.0,0,1,0,0,0,[],[],[]
+3.6666666666666665,11,3,0,1,2,[],['better'],"[('than', 'thats'), ('me', 'what')]"
+0.0,0,2,0,0,0,[],[],[]
+3.111111111111111,28,9,0,8,1,[],"['so', 'do', 'youve', 'the', 'option', 'to', 'make', 'a']","[('soda', 'pen')]"
+0.375,3,8,0,1,0,[],['theyre'],[]
+3.3333333333333335,10,3,0,2,1,[],"['you', 'hold']","[('on', 'hreh')]"
+2.0,6,3,0,2,0,[],"['any', 'any']",[]
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,7,0,0,0,[],[],[]
+3.25,13,4,0,3,1,[],"['its', 'not', 'gonna']","[('help', 'oops')]"
+1.5714285714285714,11,7,0,1,2,[],['oh'],"[('yeah', 'i'), ('it', 'got')]"
+1.0,4,4,0,0,1,[],[],"[('roll', 'rule')]"
+4.0,12,3,0,0,3,[],[],"[('this', 'im'), ('is', 'just'), ('fighting', 'hiding')]"
+6.5,13,2,3,0,1,"['uh', 'id', 'forget']",[],"[('right', 'click')]"
+3.857142857142857,27,7,1,0,6,['yall'],[],"[('no', 'that'), ('thats', 'felt'), ('not', 'a'), ('what', 'lot'), ('i', 'of'), ('wanted', 'water')]"
+1.0,3,3,0,1,0,[],['its'],[]
+2.75,11,4,0,1,2,[],['tree'],"[('that', 'dag'), ('though', 'treedo')]"
+1.5,3,2,1,0,0,['well'],[],[]
+0.0,0,3,0,0,0,[],[],[]
+0.0,0,1,0,0,0,[],[],[]
+1.2222222222222223,11,9,0,1,2,[],['zoom'],"[('ohh', 'ooh'), ('it', 'i')]"
+0.0,0,2,0,0,0,[],[],[]
+4.0,8,2,0,0,2,[],[],"[('thats', 'well'), ('nice', 'see')]"
+3.4,17,5,0,3,2,[],"['how', 'do', 'you']","[('do', 'like'), ('that', 'colbert')]"
+1.0,4,4,0,0,1,[],[],"[('he', 'it')]"
+4.0,4,1,0,0,1,[],[],"[('yeah', 'that')]"
+1.5,3,2,1,0,0,['oh'],[],[]
+0.75,3,4,0,1,0,[],['dang'],[]
+7.0,7,1,1,0,1,['thank'],[],"[('oh', 'you')]"
+2.6153846153846154,34,13,4,2,4,"['well', 'that', 'ill', 'back']","['was', 'that']","[('your', 'the'), ('thats', 'was'), ('okay', 'it'), ('cool', 'up')]"
+22.0,22,1,6,0,1,"['oh', 'you', 'love', 'him', 'i', 'love']",[],"[('what', 'him')]"
+2.0,4,2,0,0,1,[],[],"[('aw', 'aww')]"
+1.4,14,10,2,0,2,"['i', 'just']",[],"[('needed', 'need'), ('use', 'used')]"
+3.6363636363636362,40,11,4,0,7,"['heh', 'heh', 'heh', 'all']",[],"[('these', 'please'), ('these', 'follow'), ('clothes', 'the'), ('are', 'two'), ('too', 'smora'), ('small', 'need'), ('maybe', 'to')]"
+3.5,7,2,0,1,1,[],['nah'],"[('uh', 'bye')]"
+4.0,4,1,0,0,1,[],[],"[('hm', 'hmm')]"
+1.9230769230769231,25,13,1,2,4,['it'],"['going', 'i']","[('its', 'thats'), ('to', 'gonna'), ('used', 'you'), ('to', 'still')]"
+1.3636363636363635,15,11,1,0,3,['of'],[],"[('now', 'well'), ('want', 'wanted'), ('too', 'view')]"
+1.0,4,4,0,0,1,[],[],"[('here', 'or')]"
+4.0,12,3,4,0,0,"['its', 'supposed', 'to', 'be']",[],[]
+0.0,0,2,0,0,0,[],[],[]
+3.2,16,5,0,4,1,[],"['got', 'it', 'got', 'them']","[('all', 'bye')]"
+2.5757575757575757,85,33,15,4,7,"['i', 'think', 'its', 'a', 'challenge', 'i', 'think', 'its', 'a', 'i', 'think', 'its', 'i', 'i', 'think']","['like', 'so', 'you', 'can']","[('pass', 'a'), ('ha', 'think'), ('ha', 'its'), ('pass', 'a'), ('uh', 'its'), ('pass', 'a'), ('ha', 'challenge')]"
+2.125,68,32,15,1,5,"['came', 'my', 'pakarajanga', 'im', 'a', 'little', 'oh', 'save', 'were', 'to', 'kalyan', 'to', 'past', 'kalyan', 'kalyan']",['uh'],"[('so', 'the'), ('will', 'who'), ('pass', 'passed'), ('safe', 'kalyan'), ('pass', 'area')]"
+2.875,23,8,5,0,2,"['cards', 'is', 'by', 'leasing', 'them']",[],"[('eh', 'uh'), ('they', 'the')]"
+8.333333333333334,75,9,13,0,9,"['please', 'go', 'popcorn', 'and', 'check', 'out', 'some', 'of', 'my', 'focus', 'on', 'postingsnap', 'offering']",[],"[('cards', 'or'), ('is', 'spreading'), ('by', 'a'), ('placing', 'lot'), ('them', 'of'), ('face', 'time'), ('down', 'and'), ('check', 'feeling'), ('check', 'it')]"
+0.3170731707317073,13,41,0,3,1,[],"['their', 'place', 'it']","[('cards', 'card')]"
+0.16666666666666666,7,42,1,0,1,['player'],[],"[('a', 'the')]"
+2.9607843137254903,151,51,0,49,1,[],"['id', 'read', 'the', 'instructions', 'to', 'you', 'right', 'now', 'pick', 'up', 'the', 'cards', 'those', 'are', 'yours', 'now', 'okay', 'it', 'says', 'here', 'the', 'player', 'on', 'the', 'left', 'of', 'the', 'dealer', 'goes', 'player', 'chooses', 'a', 'card', 'from', 'their', 'their', 'hand', 'place', 'it', 'face', 'down', 'in', 'the', 'pile', 'and', 'announces', 'their', 'rank', 'but']","[('first', 'like')]"
+0.3392857142857143,19,56,0,5,1,[],"['a', 'and', 'so', 'on', 'and']","[('then', 'when')]"
+0.75,30,40,10,0,0,"['dukkid', 'dont', 'accept', 'ahh', 'dukk', 'nikr', 'nikr', 'nikr', 'its', 'made']",[],[]
+0.7894736842105263,30,38,5,1,3,"['you', 'know', 'so', 'kind', 'of']",['its'],"[('can', 'cant'), ('than', 'like'), ('a', 'that')]"

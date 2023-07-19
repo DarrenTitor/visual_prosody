@@ -68,7 +68,7 @@ class Dataset(Dataset):
         duration = np.load(duration_path)
 
         ### new
-        if self.dataset_name in ["LJSpeech", "Ego4D_final_v4"]:
+        if self.dataset_name in ["LJSpeech", "Ego4D_final_v4", "LibriTTS"]:
             speaker_embedding = np.zeros(192,)
 
         else:
