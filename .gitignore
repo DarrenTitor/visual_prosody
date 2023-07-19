@@ -122,3 +122,4 @@ hifigan/*.pth.tar
 /temp_log/
 /preprocessed_data/
 config/LJSpeech/900000.pth.tar
+jupyter_walkthrough/werpy_weighted/
