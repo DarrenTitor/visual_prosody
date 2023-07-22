@@ -99,6 +99,11 @@ class FastSpeech2(nn.Module):
         ### use speechbrain speaker embedding, project from 192dim to 256dim
         # if speaker_embeddings is not None:
         # print('x.shape before variance_adaptor: ', output.shape)
+        if self.speaker_emb is not None:
+            output = output + self.speaker_emb(speakers).unsqueeze(1).expand(
+                -1, max_src_len, -1
+            )
+
         if self.using_speaker_embeddings:
             (
                 output,
