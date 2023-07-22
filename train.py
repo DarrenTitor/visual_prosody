@@ -11,7 +11,7 @@ from torch.utils.tensorboard import SummaryWriter
 from utils.model import get_model, get_vocoder, get_param_num
 from utils.tools import to_device, log, synth_one_sample
 from model import FastSpeech2Loss
-from dataset import Dataset
+from dataset import Dataset, VideoDataset
 from utils.auto_tqdm import tqdm
 
 from evaluate import evaluate
@@ -24,10 +24,15 @@ def main(args, configs):
 
     preprocess_config, model_config, train_config = configs
 
-    # Get dataset
-    dataset = Dataset(
-        "train.txt", 'train', preprocess_config, train_config, sort=True, drop_last=True
-    )
+    using_video_info = train_config["dataset"]["using_video_info"]
+    if using_video_info:
+        dataset = VideoDataset(
+            "train.txt", 'train', preprocess_config, train_config, sort=True, drop_last=True
+        )
+    else:
+        dataset = Dataset(
+            "train.txt", 'train', preprocess_config, train_config, sort=True, drop_last=True
+        )
 
     batch_size = train_config["optimizer"]["batch_size"]
     group_size = 4  # Set this larger than 1 to enable sorting in Dataset
@@ -149,6 +154,7 @@ def main(args, configs):
                     with open(os.path.join(val_log_path, "log.txt"), "a") as f:
                         f.write(message + "\n")
                     outer_bar.write(message)
+                    log_gpu_usage()
 
                     model.train()
 
@@ -172,6 +178,16 @@ def main(args, configs):
             inner_bar.update(1)
         epoch += 1
 
+def log_gpu_usage():
+    max_memory_allocated = torch.cuda.max_memory_allocated()
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    device_properties = torch.cuda.get_device_properties(device)
+    available_memory = device_properties.total_memory - torch.cuda.max_memory_allocated()
+    message = ""
+    message += f"Maximum GPU memory allocated by PyTorch: {max_memory_allocated / 1024**3:.2f} GB\n"
+    message += f"Available GPU memory: {available_memory / 1024**3:.2f} GB\n"
+    print(message)
+    return message
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()

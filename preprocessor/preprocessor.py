@@ -1,16 +1,19 @@
 import os
 import random
 import json
+import glob
 
 import tgt
 import librosa
 import numpy as np
+import pandas as pd
 import pyworld as pw
 from scipy.interpolate import interp1d
 from sklearn.preprocessing import StandardScaler
 from utils.auto_tqdm import tqdm
 
 import audio as Audio
+import torch
 
 
 class Preprocessor:
@@ -25,6 +28,18 @@ class Preprocessor:
             self.splits = config["preprocessing"]["splits"]
         except Exception as e:
             print(e)
+        try:
+            self.is_using_video_info = config["preprocessing"]["video_info"]["using_video_info"]
+        except Exception as e:
+            print(e)
+            self.is_using_video_info = False
+            print('Not using video info.')
+
+        if self.is_using_video_info:
+            self.video_dir = config["path"]["video_embedding_path"]
+            video_count = len(glob.glob(f"{self.video_dir}/*.pt"))
+            print(f"Video count: {video_count}")
+        self.drop_audio_shorter_than = config["preprocessing"]["audio"]["drop_audio_shorter_than"]
 
         assert config["preprocessing"]["pitch"]["feature"] in [
             "phoneme_level",
@@ -54,7 +69,81 @@ class Preprocessor:
             config["preprocessing"]["mel"]["mel_fmax"],
         )
 
+
+    def build_video_trainval_seqs(self):
+        print("build_video_trainval_seqs()")
+        df_train_path = self.config['path']['transcript_train_path']
+        df_val_path = self.config['path']['transcript_val_path']
+        df_paths = {
+            'train': df_train_path,
+            'val': df_val_path,
+        }
+        for split_name in self.splits:
+            os.makedirs(
+                (os.path.join(self.out_dir, "video_embedding", split_name)), exist_ok=True)
+            df = pd.read_csv(df_paths[split_name])
+            # print(df.shape)
+            # print(df.columns)
+            for idx, row in tqdm(df.iterrows()):
+                uid = row['utterance_id']
+                vid = row['video_id']
+                start_time = row['video_start_time']
+                end_time = row['video_end_time']
+                try:
+                    video_embeddings = torch.load(os.path.join(self.video_dir, f"{vid}.pt")).cpu()
+
+                except Exception as e:
+                    print(e)
+                    continue
+                # print(f"video_embeddings.shape: {video_embeddings.shape}")
+                sample_idxs = self._get_sample_idxs(video_embeddings.shape[0], start_time, end_time)
+                # print(start_time, end_time)
+                # print(sample_idxs)
+
+                sample_seq = video_embeddings[sample_idxs]
+                sample_seq = sample_seq.numpy()
+                
+                # print(sample_seq.shape)
+                np.save(os.path.join(self.out_dir, "video_embedding",
+                split_name, f"{uid}.npy"), sample_seq)
+                
+
+
+                # break
+
+            
+    def _get_sample_idxs(self, video_seq_len, start_time, end_time):
+        VIDEO_FPS = self.config["preprocessing"]["video_info"]["video_fps"]
+        # FEATURE_WINDOW = self.config["preprocessing"]["video_info"]["feature_window_size"]
+        FEATURE_STRIDE = self.config["preprocessing"]["video_info"]["feature_stride"]
+
+        start_idx = start_time*VIDEO_FPS//FEATURE_STRIDE
+        end_idx = end_time*VIDEO_FPS//FEATURE_STRIDE
+        history_stride = self.config["preprocessing"]["video_info"]["history_stride"]
+        history_len = self.config["preprocessing"]["video_info"]["n_history_vecs"]
+        content_idxs = torch.arange(start_idx, end_idx + 1, dtype=torch.int64)
+        history_idxs = self._create_history_with_stride(start_idx, (-1)*history_stride, history_len)
+        history_idxs[history_idxs < 0] = 0
+        video_seq_len
+        history_idxs[history_idxs >= video_seq_len] = video_seq_len - 1
+
+
+        return torch.cat([history_idxs, content_idxs])
+
+    def _create_history_with_stride(self, start, stride, seq_len):
+        # exclude the starting point
+        start += seq_len * stride
+        tensor = torch.arange(start, start-seq_len*stride, -stride, dtype=torch.int64)
+        return tensor
+
+
+
     def build_from_trainval_path(self):
+        if self.is_using_video_info:
+            print("Preprocessing video embeddings...")
+            self.build_video_trainval_seqs()
+        # print('Stop here.')
+        # return
         for split_name in self.splits:
             os.makedirs(
                 (os.path.join(self.out_dir, "mel", split_name)), exist_ok=True)
@@ -98,10 +187,7 @@ class Preprocessor:
                         energy_scaler.partial_fit(energy.reshape((-1, 1)))
 
                     n_frames += n
-                #     print(tg_path)
-                #     print(info)
-                #     break
-                # break
+
             print("Computing statistic quantities ...")
             # Perform normalization if necessary
             if self.pitch_normalization:
@@ -403,9 +489,9 @@ class Preprocessor:
         # filtered out audio with speech duration
         # shorter than 0.1s
         # print(np.count_nonzero(np.isnan(wav)))
-        if wav.shape[0] <= 0.1 * self.sampling_rate:
+        if wav.shape[0] <= self.drop_audio_shorter_than * self.sampling_rate:
             log_file.write(
-                f'Skipped because `wav[start:end].shape == 0`: {tg_path}\n')
+                f'Skipped because `wav[start:end] is too short`: {tg_path}\n')
             # print(f'Skipped because `wav[start:end].shape == 0`: {tg_path}\n')
             return None
         # Read raw text

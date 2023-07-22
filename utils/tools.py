@@ -71,6 +71,58 @@ def to_device(data, device):
         src_lens = torch.from_numpy(src_lens).to(device)
 
         return (ids, raw_texts, speakers, texts, src_lens, max_src_len)
+    
+    # TODO: add vid
+    if len(data) == 15:
+    # if len(data) == 12:
+        (
+            ids,
+            raw_texts,
+            speakers,
+            texts,
+            src_lens,
+            max_src_len,
+            mels,
+            mel_lens,
+            max_mel_len,
+            pitches,
+            energies,
+            durations,
+            ### new
+            speaker_embeddings,
+            video_embeddings,
+            vid_lens,
+        ) = data
+
+        speakers = torch.from_numpy(speakers).long().to(device)
+        texts = torch.from_numpy(texts).long().to(device)
+        src_lens = torch.from_numpy(src_lens).to(device)
+        mels = torch.from_numpy(mels).float().to(device)
+        mel_lens = torch.from_numpy(mel_lens).to(device)
+        pitches = torch.from_numpy(pitches).float().to(device)
+        energies = torch.from_numpy(energies).to(device)
+        durations = torch.from_numpy(durations).long().to(device)
+        speaker_embeddings = torch.from_numpy(speaker_embeddings).float().to(device)
+        video_embeddings = torch.from_numpy(video_embeddings).float().to(device)
+        vid_lens = torch.from_numpy(vid_lens).to(device)
+
+        return (
+            ids,
+            raw_texts,
+            speakers,
+            texts,
+            src_lens,
+            max_src_len,
+            mels,
+            mel_lens,
+            max_mel_len,
+            pitches,
+            energies,
+            durations,
+            speaker_embeddings,
+            video_embeddings,
+            vid_lens,
+        )
 
 
 def log(

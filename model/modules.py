@@ -457,9 +457,12 @@ class VariancePredictorWithSpeaker(nn.Module):
         )
 
         # self.linear_layer = nn.Linear(self.conv_output_size, 1)
-        self.linear_layer = nn.Linear(self.conv_output_size+8, 1)
+        self.speaker_fc_dim = model_config["variance_predictor"]["speaker_fc_dim"]
+
+        self.linear_layer = nn.Linear(self.conv_output_size+self.speaker_fc_dim, 1)
+        
         self.speaker_layernorm = nn.LayerNorm(192)
-        self.speaker_fc = nn.Linear(192, 8)
+        self.speaker_fc = nn.Linear(192, self.speaker_fc_dim)
 
     def forward(self, encoder_output, mask, speaker_embeddings=None):
 
@@ -478,6 +481,7 @@ class VariancePredictorWithSpeaker(nn.Module):
 
         if mask is not None:
             out = out.masked_fill(mask, 0.0)
+        # print("variance predictor out shape: ", out.shape)
 
         return out
 

@@ -9,7 +9,7 @@ from torch.utils.data import DataLoader
 from utils.model import get_model, get_vocoder
 from utils.tools import to_device, log, synth_one_sample
 from model import FastSpeech2Loss
-from dataset import Dataset
+from dataset import Dataset, VideoDataset
 
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -19,10 +19,16 @@ def evaluate(model, step, configs, logger=None, vocoder=None):
     preprocess_config, model_config, train_config = configs
     print(f'=> Validate on {train_config["logger"]["val_log_k_samples"]} samples.')
 
-    # Get dataset
-    dataset = Dataset(
-        "val.txt", 'val', preprocess_config, train_config, sort=False, drop_last=False
-    )
+    using_video_info = train_config["dataset"]["using_video_info"]
+    if using_video_info:
+        dataset = VideoDataset(
+            "val.txt", 'val', preprocess_config, train_config, sort=False, drop_last=False
+        )
+    else:
+        # Get dataset
+        dataset = Dataset(
+            "val.txt", 'val', preprocess_config, train_config, sort=False, drop_last=False
+        )
     batch_size = train_config["optimizer"]["batch_size"]
     loader = DataLoader(
         dataset,
