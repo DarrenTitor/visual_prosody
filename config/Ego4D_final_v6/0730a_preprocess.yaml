@@ -1,0 +1,50 @@
+dataset: "Ego4D_final_v6"
+
+path:
+  corpus_path: "./Data/Ego4D_final_v6/final_dataset_v6"
+  lexicon_path: "./lexicon/librispeech-lexicon.txt"
+  raw_path: "./raw_data/Ego4D_final_v6"
+  preprocessed_path: "./preprocessed_data/Ego4D_final_v6"
+
+  transcript_train_path: "./Data/Ego4D_final_v6/final_dataset_v6/utterances_final_train_v6.csv"
+  transcript_val_path: "./Data/Ego4D_final_v6/final_dataset_v6/utterances_final_val_v6.csv"
+
+  video_embedding_path: "./Data/Ego4D_final_v6/final_dataset_v6/omnivore_video_swinl"
+
+preprocessing:
+  val_size: 512
+  splits: ['train', 'val']
+  text:
+    text_cleaners: ["english_cleaners"]
+    language: "en"
+  audio:
+    sampling_rate: 22050
+    max_wav_value: 32768.0
+    drop_audio_shorter_than: 0.5 # in seconds
+  stft:
+    filter_length: 1024
+    hop_length: 256
+    win_length: 1024
+  mel:
+    n_mel_channels: 80
+    mel_fmin: 0
+    mel_fmax: 8000 # please set to 8000 for HiFi-GAN vocoder, set to null for MelGAN vocoder
+  pitch:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+  energy:
+    feature: "phoneme_level" # support 'phoneme_level' or 'frame_level'
+    normalization: True
+
+
+  video_info:
+    using_video_info: True
+    n_history_vecs: 5
+    history_stride: 2
+    # dataset info:
+    video_fps: 30
+    feature_window_size: 32
+    feature_stride: 16
+
+
+

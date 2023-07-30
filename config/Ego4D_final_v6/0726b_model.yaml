@@ -15,7 +15,8 @@ transformer:
 
   using_video_embeddings: True
   using_self_attention: False
-  prosody_vector_dim: 64
+  prosody_vector_dim: 128
+  prosody_using_delta: True
   visual_encoder_hidden: 1536
   visual_encoder_layer: 2
   visual_encoder_head: 2

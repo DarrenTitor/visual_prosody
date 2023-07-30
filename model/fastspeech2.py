@@ -10,6 +10,14 @@ from .modules import VarianceAdaptor, VarianceAdaptorWithSpeaker
 from utils.tools import get_mask_from_lengths
 
 
+def compute_deltas_with_last_zero(tensor):
+    shifted_tensor = torch.roll(tensor, shifts=-1, dims=-1)
+    deltas = shifted_tensor - tensor
+    # Set the last element in each row to 0
+    deltas[..., -1] = 0
+    return deltas
+
+
 class FastSpeech2(nn.Module):
     """ FastSpeech2 """
 
@@ -57,11 +65,15 @@ class FastSpeech2(nn.Module):
         if self.using_video_embeddings:
             print('=> Using VisualEncoder.')
 
-            self.ada_avg_pool_pitch = nn.AdaptiveAvgPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
-            self.ada_avg_pool_energy = nn.AdaptiveAvgPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
-            self.ada_max_pool_pitch = nn.AdaptiveMaxPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
-            self.ada_max_pool_energy = nn.AdaptiveMaxPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
-            
+            # self.ada_avg_pool_pitch = nn.AdaptiveAvgPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
+            # self.ada_avg_pool_energy = nn.AdaptiveAvgPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
+            # self.ada_max_pool_pitch = nn.AdaptiveMaxPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
+            # self.ada_max_pool_energy = nn.AdaptiveMaxPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
+            self.p_lstm = nn.LSTM(input_size=1, hidden_size=model_config["transformer"]["prosody_vector_dim"]//2, batch_first=True)
+            self.e_lstm = nn.LSTM(input_size=1, hidden_size=model_config["transformer"]["prosody_vector_dim"]//2, batch_first=True)
+
+            self.prosody_using_delta = model_config["transformer"]["prosody_using_delta"]
+
             self.visual_encoder = VisualEncoder(model_config)
             self.avgmax_layernorm = nn.LayerNorm(2*model_config["transformer"]["visual_encoder_hidden"])
             self.visual_fc = nn.Linear(2*model_config["transformer"]["visual_encoder_hidden"], model_config["transformer"]["decoder_hidden"])
@@ -147,18 +159,66 @@ class FastSpeech2(nn.Module):
                 e_control,
                 d_control,
             )
+        # print('p_targets.shape: ', p_targets.shape)
+        # print('p_predictions.shape: ', p_predictions.shape)
+        # print('e_targets.shape: ', e_targets.shape)
+        # print('e_predictions.shape: ', e_predictions.shape)
+        # print('src_lens.shape: ', src_lens.shape)
+        # print('src_lens: ', src_lens)
+
+
         if self.using_video_embeddings:
             assert video_embeddings is not None
             assert vid_lens is not None
             vid_max_len = vid_lens.max().item()
             vid_mask = get_mask_from_lengths(vid_lens, max_len=vid_max_len)
 
+            if self.training:
+                p_seqs = p_targets
+                e_seqs = e_targets
+            else:
+                p_seqs = p_predictions
+                e_seqs = e_predictions
+
+            if self.prosody_using_delta:
+                # print('delta')
+                p_seqs = compute_deltas_with_last_zero(p_seqs)
+                e_seqs = compute_deltas_with_last_zero(e_seqs)
+
+            lstm_p_input = nn.utils.rnn.pack_padded_sequence(
+                torch.unsqueeze(p_seqs, dim=2), 
+                lengths=src_lens.cpu(), 
+                batch_first=True,
+                enforce_sorted=False,
+            )
+            lstm_e_input = nn.utils.rnn.pack_padded_sequence(
+                torch.unsqueeze(e_seqs, dim=2), 
+                lengths=src_lens.cpu(), 
+                batch_first=True,
+                enforce_sorted=False,
+            )
+
+
+            _, (lstm_p_hn, _) = self.p_lstm(lstm_p_input)
+            _, (lstm_e_hn, _) = self.e_lstm(lstm_e_input)
+            lstm_p_hn = torch.squeeze(lstm_p_hn)
+            lstm_e_hn = torch.squeeze(lstm_e_hn)
+            # print('lstm_p_hn.shape', lstm_p_hn.shape)
+            # print('lstm_e_hn.shape', lstm_e_hn.shape)
             visual_query_vec = torch.cat([
-                self.ada_avg_pool_energy(e_predictions),
-                self.ada_avg_pool_pitch(p_predictions),
-                self.ada_max_pool_energy(e_predictions),
-                self.ada_max_pool_pitch(p_predictions),
+                lstm_p_hn,
+                lstm_e_hn,
             ], dim=1)
+
+
+
+
+            # visual_query_vec = torch.cat([
+            #     self.ada_avg_pool_energy(e_predictions),
+            #     self.ada_avg_pool_pitch(p_predictions),
+            #     self.ada_max_pool_energy(e_predictions),
+            #     self.ada_max_pool_pitch(p_predictions),
+            # ], dim=1)
             visual_out = self.visual_encoder(   
                 src_seq=video_embeddings, 
                 mask=vid_mask, 
