@@ -25,7 +25,7 @@ class FastSpeech2Loss(nn.Module):
             energy_targets,
             duration_targets,
             ### new
-            *_, ### speaker_embeddings, video_embeddings, vid_lens
+            *_, ### speaker_embeddings, video_embeddings, vid_lens, visual_out
         ) = inputs[6:]
         (
             mel_predictions,
@@ -38,6 +38,7 @@ class FastSpeech2Loss(nn.Module):
             mel_masks,
             _,
             _,
+            _, # visual_out
         ) = predictions
         src_masks = ~src_masks
         mel_masks = ~mel_masks
