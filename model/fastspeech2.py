@@ -69,8 +69,8 @@ class FastSpeech2(nn.Module):
             # self.ada_avg_pool_energy = nn.AdaptiveAvgPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
             # self.ada_max_pool_pitch = nn.AdaptiveMaxPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
             # self.ada_max_pool_energy = nn.AdaptiveMaxPool1d(model_config["transformer"]["prosody_vector_dim"] // 4)
-            self.p_lstm = nn.LSTM(input_size=1, hidden_size=model_config["transformer"]["prosody_vector_dim"], batch_first=True)
-            # self.e_lstm = nn.LSTM(input_size=1, hidden_size=model_config["transformer"]["prosody_vector_dim"]//2, batch_first=True)
+            self.p_lstm = nn.LSTM(input_size=1, hidden_size=model_config["transformer"]["prosody_vector_dim"]//2, batch_first=True)
+            self.e_lstm = nn.LSTM(input_size=1, hidden_size=model_config["transformer"]["prosody_vector_dim"]//2, batch_first=True)
 
             self.prosody_using_delta = model_config["transformer"]["prosody_using_delta"]
 
@@ -192,25 +192,25 @@ class FastSpeech2(nn.Module):
                 batch_first=True,
                 enforce_sorted=False,
             )
-            # lstm_e_input = nn.utils.rnn.pack_padded_sequence(
-            #     torch.unsqueeze(e_seqs, dim=2), 
-            #     lengths=src_lens.cpu(), 
-            #     batch_first=True,
-            #     enforce_sorted=False,
-            # )
+            lstm_e_input = nn.utils.rnn.pack_padded_sequence(
+                torch.unsqueeze(e_seqs, dim=2), 
+                lengths=src_lens.cpu(), 
+                batch_first=True,
+                enforce_sorted=False,
+            )
 
 
             _, (lstm_p_hn, _) = self.p_lstm(lstm_p_input)
-            # _, (lstm_e_hn, _) = self.e_lstm(lstm_e_input)
+            _, (lstm_e_hn, _) = self.e_lstm(lstm_e_input)
             lstm_p_hn = torch.squeeze(lstm_p_hn)
-            # lstm_e_hn = torch.squeeze(lstm_e_hn)
+            lstm_e_hn = torch.squeeze(lstm_e_hn)
             # print('lstm_p_hn.shape', lstm_p_hn.shape)
             # print('lstm_e_hn.shape', lstm_e_hn.shape)
-            # visual_query_vec = torch.cat([
-            #     lstm_p_hn,
-            #     lstm_e_hn,
-            # ], dim=1)
-            visual_query_vec = lstm_p_hn
+            visual_query_vec = torch.cat([
+                lstm_p_hn,
+                lstm_e_hn,
+            ], dim=1)
+            # visual_query_vec = lstm_p_hn
 
 
 
